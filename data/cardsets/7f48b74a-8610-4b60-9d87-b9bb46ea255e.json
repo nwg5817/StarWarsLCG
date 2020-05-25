@@ -1,0 +1,2627 @@
+{
+  "version": 2.12,
+  "cardset_id": "7f48b74a-8610-4b60-9d87-b9bb46ea255e",
+  "name": "New CardSet",
+  "blueprint_id": "82469ddf-42c7-4496-bfc0-412b93c21e0e",
+  "hint_order_index": 12,
+  "cards": [
+    {
+      "card_id": "42f60746-61e5-42c0-8e59-8f5feaff244c",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee16d842-dae6-40be-b4dc-96b5eab761b0",
+          "panels": [
+            {
+              "blueprint_panel_id": "81954844-17e3-403d-8639-7029f82cd50c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Forced -</b> After you fail a skill test while investigating this location: Discard an asset you control.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b6ebf06f-d889-412f-8c29-78a6478bc02b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "03efa2aa-07ef-4b3b-9732-cbd6c9240094",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1fbc3cca-04ac-449d-97e4-dd86311f69c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1{Body&Actions/person}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spaceblue1.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fffce63-914b-4495-8e3e-427012e24dca",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "82e0484f-0a92-492a-89d6-482715cac751",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "59698858-853d-4f0b-b7eb-4b863e9a18fd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ba5756d1-1c0e-429c-9824-812f9b7fd202",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "be8cd57f-b18a-44b7-9ecd-6c3679cbd843",
+          "panels": [
+            {
+              "blueprint_panel_id": "63e1a051-6939-46dd-8d2c-332d2a2933e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "330158c1-455f-4b48-b685-bd4b8258730d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "019315cf-fa0d-4586-b049-aaa7b33a2eb0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fb7bffd-4285-4c58-ae50-5c7bf707890e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "87f0b619-8b14-4f25-bf9f-27ee0ffd5557",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "fit_mode": "fitwidth",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "317307a2-e232-4699-a48e-6ddcb2b4ec33",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "946c237f-91c9-4505-8695-6dc00bea6f65",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4b85fd4a-5ed6-4654-a905-cc2fedfe2a02",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf2b4c59-99b5-4b69-82ba-6b3352567e5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "19b8ef2e-d200-4315-a30f-a9bb6fc3edb0",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee16d842-dae6-40be-b4dc-96b5eab761b0",
+          "panels": [
+            {
+              "blueprint_panel_id": "81954844-17e3-403d-8639-7029f82cd50c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b6ebf06f-d889-412f-8c29-78a6478bc02b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "03efa2aa-07ef-4b3b-9732-cbd6c9240094",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1fbc3cca-04ac-449d-97e4-dd86311f69c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2{Body&Actions/person}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spaceblue2.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fffce63-914b-4495-8e3e-427012e24dca",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "82e0484f-0a92-492a-89d6-482715cac751",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "59698858-853d-4f0b-b7eb-4b863e9a18fd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ba5756d1-1c0e-429c-9824-812f9b7fd202",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "be8cd57f-b18a-44b7-9ecd-6c3679cbd843",
+          "panels": [
+            {
+              "blueprint_panel_id": "63e1a051-6939-46dd-8d2c-332d2a2933e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "330158c1-455f-4b48-b685-bd4b8258730d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "019315cf-fa0d-4586-b049-aaa7b33a2eb0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fb7bffd-4285-4c58-ae50-5c7bf707890e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "87f0b619-8b14-4f25-bf9f-27ee0ffd5557",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "fit_mode": "fitwidth",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "317307a2-e232-4699-a48e-6ddcb2b4ec33",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "946c237f-91c9-4505-8695-6dc00bea6f65",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4b85fd4a-5ed6-4654-a905-cc2fedfe2a02",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf2b4c59-99b5-4b69-82ba-6b3352567e5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "32b7c56c-f711-4ccc-9ecf-228f46131de6",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee16d842-dae6-40be-b4dc-96b5eab761b0",
+          "panels": [
+            {
+              "blueprint_panel_id": "81954844-17e3-403d-8639-7029f82cd50c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Nature/power-lightning} If there are no clues here: Draw 1 supply crate cards. (Group limit once per game at this location).",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b6ebf06f-d889-412f-8c29-78a6478bc02b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "03efa2aa-07ef-4b3b-9732-cbd6c9240094",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1fbc3cca-04ac-449d-97e4-dd86311f69c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2{Body&Actions/person}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spaceblue3.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fffce63-914b-4495-8e3e-427012e24dca",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "82e0484f-0a92-492a-89d6-482715cac751",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "59698858-853d-4f0b-b7eb-4b863e9a18fd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ba5756d1-1c0e-429c-9824-812f9b7fd202",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Anomaly",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "be8cd57f-b18a-44b7-9ecd-6c3679cbd843",
+          "panels": [
+            {
+              "blueprint_panel_id": "63e1a051-6939-46dd-8d2c-332d2a2933e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "330158c1-455f-4b48-b685-bd4b8258730d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "019315cf-fa0d-4586-b049-aaa7b33a2eb0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fb7bffd-4285-4c58-ae50-5c7bf707890e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "87f0b619-8b14-4f25-bf9f-27ee0ffd5557",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "fit_mode": "fitwidth",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "317307a2-e232-4699-a48e-6ddcb2b4ec33",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "946c237f-91c9-4505-8695-6dc00bea6f65",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4b85fd4a-5ed6-4654-a905-cc2fedfe2a02",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf2b4c59-99b5-4b69-82ba-6b3352567e5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "359c44d3-7adf-4161-bdb8-d2dec1160b9d",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee16d842-dae6-40be-b4dc-96b5eab761b0",
+          "panels": [
+            {
+              "blueprint_panel_id": "81954844-17e3-403d-8639-7029f82cd50c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Forced -</b> After you fail a skill test at this location: This location takes 1 damage. If the location reaches zero health, all players and ships docked at this location take 5 damage.\n\n{Nature/power-lightning} If there are no clues here: Draw 1 supply crate cards. (Group limit once per game at this location).",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b6ebf06f-d889-412f-8c29-78a6478bc02b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Weapons/bordered-shield}</color>2<color=#2196F3FF>{Other/awareness}</color>4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "03efa2aa-07ef-4b3b-9732-cbd6c9240094",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1fbc3cca-04ac-449d-97e4-dd86311f69c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2{Body&Actions/person}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spaceblue11.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fffce63-914b-4495-8e3e-427012e24dca",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "82e0484f-0a92-492a-89d6-482715cac751",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "59698858-853d-4f0b-b7eb-4b863e9a18fd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ba5756d1-1c0e-429c-9824-812f9b7fd202",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Derelict Space Station",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "be8cd57f-b18a-44b7-9ecd-6c3679cbd843",
+          "panels": [
+            {
+              "blueprint_panel_id": "63e1a051-6939-46dd-8d2c-332d2a2933e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "330158c1-455f-4b48-b685-bd4b8258730d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "019315cf-fa0d-4586-b049-aaa7b33a2eb0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fb7bffd-4285-4c58-ae50-5c7bf707890e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "87f0b619-8b14-4f25-bf9f-27ee0ffd5557",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "fit_mode": "fitwidth",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "317307a2-e232-4699-a48e-6ddcb2b4ec33",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "946c237f-91c9-4505-8695-6dc00bea6f65",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4b85fd4a-5ed6-4654-a905-cc2fedfe2a02",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf2b4c59-99b5-4b69-82ba-6b3352567e5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "470169d1-df06-4908-bba3-de1706005a35",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee16d842-dae6-40be-b4dc-96b5eab761b0",
+          "panels": [
+            {
+              "blueprint_panel_id": "81954844-17e3-403d-8639-7029f82cd50c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Forced - After you fail a skill test while investigating this location: Take 1 shield damage.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b6ebf06f-d889-412f-8c29-78a6478bc02b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "03efa2aa-07ef-4b3b-9732-cbd6c9240094",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1fbc3cca-04ac-449d-97e4-dd86311f69c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1{Body&Actions/person}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spaceblue4.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fffce63-914b-4495-8e3e-427012e24dca",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "82e0484f-0a92-492a-89d6-482715cac751",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "59698858-853d-4f0b-b7eb-4b863e9a18fd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ba5756d1-1c0e-429c-9824-812f9b7fd202",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "be8cd57f-b18a-44b7-9ecd-6c3679cbd843",
+          "panels": [
+            {
+              "blueprint_panel_id": "63e1a051-6939-46dd-8d2c-332d2a2933e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "330158c1-455f-4b48-b685-bd4b8258730d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "019315cf-fa0d-4586-b049-aaa7b33a2eb0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fb7bffd-4285-4c58-ae50-5c7bf707890e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "87f0b619-8b14-4f25-bf9f-27ee0ffd5557",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "fit_mode": "fitwidth",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "317307a2-e232-4699-a48e-6ddcb2b4ec33",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "946c237f-91c9-4505-8695-6dc00bea6f65",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4b85fd4a-5ed6-4654-a905-cc2fedfe2a02",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf2b4c59-99b5-4b69-82ba-6b3352567e5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "fe37bd9c-0c85-4176-9b37-7549b64cfe72",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee16d842-dae6-40be-b4dc-96b5eab761b0",
+          "panels": [
+            {
+              "blueprint_panel_id": "81954844-17e3-403d-8639-7029f82cd50c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Forced -</b> After you reveal location: Search the encounter deck and discard pile for an enemy and put it into play engaged with you (2 copies instead if there are 3 or 4 investigators in the game).",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b6ebf06f-d889-412f-8c29-78a6478bc02b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "03efa2aa-07ef-4b3b-9732-cbd6c9240094",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1fbc3cca-04ac-449d-97e4-dd86311f69c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3{Body&Actions/person}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spaceblue5.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fffce63-914b-4495-8e3e-427012e24dca",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "82e0484f-0a92-492a-89d6-482715cac751",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "59698858-853d-4f0b-b7eb-4b863e9a18fd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ba5756d1-1c0e-429c-9824-812f9b7fd202",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Patrol Sector",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "be8cd57f-b18a-44b7-9ecd-6c3679cbd843",
+          "panels": [
+            {
+              "blueprint_panel_id": "63e1a051-6939-46dd-8d2c-332d2a2933e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "330158c1-455f-4b48-b685-bd4b8258730d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "019315cf-fa0d-4586-b049-aaa7b33a2eb0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fb7bffd-4285-4c58-ae50-5c7bf707890e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "87f0b619-8b14-4f25-bf9f-27ee0ffd5557",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "fit_mode": "fitwidth",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "317307a2-e232-4699-a48e-6ddcb2b4ec33",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "946c237f-91c9-4505-8695-6dc00bea6f65",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4b85fd4a-5ed6-4654-a905-cc2fedfe2a02",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf2b4c59-99b5-4b69-82ba-6b3352567e5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "7a841e80-e3a8-4bdb-91e9-ba26ae4ef78e",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee16d842-dae6-40be-b4dc-96b5eab761b0",
+          "panels": [
+            {
+              "blueprint_panel_id": "81954844-17e3-403d-8639-7029f82cd50c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Forced -</b> After you reveal location: Search the encounter deck for a <i>Parasite</i> enemy and spawn it on your ship (2 copies instead if there are 3 or 4 investigators in the game). Shuffle the encounter deck.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b6ebf06f-d889-412f-8c29-78a6478bc02b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "03efa2aa-07ef-4b3b-9732-cbd6c9240094",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1fbc3cca-04ac-449d-97e4-dd86311f69c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spaceblue6.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fffce63-914b-4495-8e3e-427012e24dca",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "82e0484f-0a92-492a-89d6-482715cac751",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "59698858-853d-4f0b-b7eb-4b863e9a18fd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ba5756d1-1c0e-429c-9824-812f9b7fd202",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "be8cd57f-b18a-44b7-9ecd-6c3679cbd843",
+          "panels": [
+            {
+              "blueprint_panel_id": "63e1a051-6939-46dd-8d2c-332d2a2933e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "330158c1-455f-4b48-b685-bd4b8258730d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "019315cf-fa0d-4586-b049-aaa7b33a2eb0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fb7bffd-4285-4c58-ae50-5c7bf707890e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "87f0b619-8b14-4f25-bf9f-27ee0ffd5557",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "fit_mode": "fitwidth",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "317307a2-e232-4699-a48e-6ddcb2b4ec33",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "946c237f-91c9-4505-8695-6dc00bea6f65",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4b85fd4a-5ed6-4654-a905-cc2fedfe2a02",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf2b4c59-99b5-4b69-82ba-6b3352567e5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "cef72de7-7123-4151-93bd-6a1b42b4a9f5",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee16d842-dae6-40be-b4dc-96b5eab761b0",
+          "panels": [
+            {
+              "blueprint_panel_id": "81954844-17e3-403d-8639-7029f82cd50c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b6ebf06f-d889-412f-8c29-78a6478bc02b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "03efa2aa-07ef-4b3b-9732-cbd6c9240094",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1fbc3cca-04ac-449d-97e4-dd86311f69c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1{Body&Actions/person}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spaceblue7.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fffce63-914b-4495-8e3e-427012e24dca",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "82e0484f-0a92-492a-89d6-482715cac751",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "59698858-853d-4f0b-b7eb-4b863e9a18fd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ba5756d1-1c0e-429c-9824-812f9b7fd202",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "be8cd57f-b18a-44b7-9ecd-6c3679cbd843",
+          "panels": [
+            {
+              "blueprint_panel_id": "63e1a051-6939-46dd-8d2c-332d2a2933e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "330158c1-455f-4b48-b685-bd4b8258730d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "019315cf-fa0d-4586-b049-aaa7b33a2eb0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fb7bffd-4285-4c58-ae50-5c7bf707890e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "87f0b619-8b14-4f25-bf9f-27ee0ffd5557",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "fit_mode": "fitwidth",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "317307a2-e232-4699-a48e-6ddcb2b4ec33",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "946c237f-91c9-4505-8695-6dc00bea6f65",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4b85fd4a-5ed6-4654-a905-cc2fedfe2a02",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf2b4c59-99b5-4b69-82ba-6b3352567e5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "8fe822ab-547d-40cb-ba43-226722fc2150",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee16d842-dae6-40be-b4dc-96b5eab761b0",
+          "panels": [
+            {
+              "blueprint_panel_id": "81954844-17e3-403d-8639-7029f82cd50c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Nature/power-lightning} If there are no clues here: Draw 1 supply crate cards. (Group limit once per game at this location).",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b6ebf06f-d889-412f-8c29-78a6478bc02b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>5",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "03efa2aa-07ef-4b3b-9732-cbd6c9240094",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1fbc3cca-04ac-449d-97e4-dd86311f69c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1{Body&Actions/person}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spaceblue8.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fffce63-914b-4495-8e3e-427012e24dca",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "82e0484f-0a92-492a-89d6-482715cac751",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "59698858-853d-4f0b-b7eb-4b863e9a18fd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ba5756d1-1c0e-429c-9824-812f9b7fd202",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Anomaly",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "be8cd57f-b18a-44b7-9ecd-6c3679cbd843",
+          "panels": [
+            {
+              "blueprint_panel_id": "63e1a051-6939-46dd-8d2c-332d2a2933e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "330158c1-455f-4b48-b685-bd4b8258730d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "019315cf-fa0d-4586-b049-aaa7b33a2eb0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fb7bffd-4285-4c58-ae50-5c7bf707890e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "87f0b619-8b14-4f25-bf9f-27ee0ffd5557",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "fit_mode": "fitwidth",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "317307a2-e232-4699-a48e-6ddcb2b4ec33",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "946c237f-91c9-4505-8695-6dc00bea6f65",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4b85fd4a-5ed6-4654-a905-cc2fedfe2a02",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf2b4c59-99b5-4b69-82ba-6b3352567e5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "4f8c340f-086a-4d51-b74b-bcdbe2fac6d9",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee16d842-dae6-40be-b4dc-96b5eab761b0",
+          "panels": [
+            {
+              "blueprint_panel_id": "81954844-17e3-403d-8639-7029f82cd50c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Forced -</b> After you perform a move action during which you move from this location: Take 2 hull damage.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b6ebf06f-d889-412f-8c29-78a6478bc02b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "03efa2aa-07ef-4b3b-9732-cbd6c9240094",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/boomerang-sun}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1fbc3cca-04ac-449d-97e4-dd86311f69c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1{Body&Actions/person}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spaceblue9.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fffce63-914b-4495-8e3e-427012e24dca",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "82e0484f-0a92-492a-89d6-482715cac751",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "59698858-853d-4f0b-b7eb-4b863e9a18fd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ba5756d1-1c0e-429c-9824-812f9b7fd202",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Gravitational Pull",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "be8cd57f-b18a-44b7-9ecd-6c3679cbd843",
+          "panels": [
+            {
+              "blueprint_panel_id": "63e1a051-6939-46dd-8d2c-332d2a2933e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "330158c1-455f-4b48-b685-bd4b8258730d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "019315cf-fa0d-4586-b049-aaa7b33a2eb0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fb7bffd-4285-4c58-ae50-5c7bf707890e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "87f0b619-8b14-4f25-bf9f-27ee0ffd5557",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "fit_mode": "fitwidth",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "317307a2-e232-4699-a48e-6ddcb2b4ec33",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "946c237f-91c9-4505-8695-6dc00bea6f65",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4b85fd4a-5ed6-4654-a905-cc2fedfe2a02",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf2b4c59-99b5-4b69-82ba-6b3352567e5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "435e118d-2d65-4961-919a-a1b4d7a129e4",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee16d842-dae6-40be-b4dc-96b5eab761b0",
+          "panels": [
+            {
+              "blueprint_panel_id": "81954844-17e3-403d-8639-7029f82cd50c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b6ebf06f-d889-412f-8c29-78a6478bc02b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "03efa2aa-07ef-4b3b-9732-cbd6c9240094",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1fbc3cca-04ac-449d-97e4-dd86311f69c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1{Body&Actions/person}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
+              "rotation": 180,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spaceblue13.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fffce63-914b-4495-8e3e-427012e24dca",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "82e0484f-0a92-492a-89d6-482715cac751",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "59698858-853d-4f0b-b7eb-4b863e9a18fd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ba5756d1-1c0e-429c-9824-812f9b7fd202",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Debris",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "be8cd57f-b18a-44b7-9ecd-6c3679cbd843",
+          "panels": [
+            {
+              "blueprint_panel_id": "63e1a051-6939-46dd-8d2c-332d2a2933e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "330158c1-455f-4b48-b685-bd4b8258730d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "019315cf-fa0d-4586-b049-aaa7b33a2eb0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fb7bffd-4285-4c58-ae50-5c7bf707890e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "87f0b619-8b14-4f25-bf9f-27ee0ffd5557",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "fit_mode": "fitwidth",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "317307a2-e232-4699-a48e-6ddcb2b4ec33",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/eclipse}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "946c237f-91c9-4505-8695-6dc00bea6f65",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4b85fd4a-5ed6-4654-a905-cc2fedfe2a02",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf2b4c59-99b5-4b69-82ba-6b3352567e5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "5dbedac1-7b6d-43e7-8e70-6228a0c7727a",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee16d842-dae6-40be-b4dc-96b5eab761b0",
+          "panels": [
+            {
+              "blueprint_panel_id": "81954844-17e3-403d-8639-7029f82cd50c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b6ebf06f-d889-412f-8c29-78a6478bc02b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/circle-claws}</color>4<color=#FF0000FF>{Weapons/bordered-shield}</color>26",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "03efa2aa-07ef-4b3b-9732-cbd6c9240094",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsseperatists}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1fbc3cca-04ac-449d-97e4-dd86311f69c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1{Body&Actions/person}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spaceblue10.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fffce63-914b-4495-8e3e-427012e24dca",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "82e0484f-0a92-492a-89d6-482715cac751",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "59698858-853d-4f0b-b7eb-4b863e9a18fd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ba5756d1-1c0e-429c-9824-812f9b7fd202",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space Station",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "be8cd57f-b18a-44b7-9ecd-6c3679cbd843",
+          "panels": [
+            {
+              "blueprint_panel_id": "63e1a051-6939-46dd-8d2c-332d2a2933e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "330158c1-455f-4b48-b685-bd4b8258730d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "019315cf-fa0d-4586-b049-aaa7b33a2eb0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fb7bffd-4285-4c58-ae50-5c7bf707890e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "87f0b619-8b14-4f25-bf9f-27ee0ffd5557",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "fit_mode": "fitwidth",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "317307a2-e232-4699-a48e-6ddcb2b4ec33",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "946c237f-91c9-4505-8695-6dc00bea6f65",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4b85fd4a-5ed6-4654-a905-cc2fedfe2a02",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf2b4c59-99b5-4b69-82ba-6b3352567e5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "048cff94-4bf2-444f-8462-d1a3068b4ce4",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee16d842-dae6-40be-b4dc-96b5eab761b0",
+          "panels": [
+            {
+              "blueprint_panel_id": "81954844-17e3-403d-8639-7029f82cd50c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Weapons/bottom-right-3d-arrow} Heal 3 damage from one player. (Limit once per round.)",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b6ebf06f-d889-412f-8c29-78a6478bc02b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/circle-claws}</color>2<color=#FF0000FF>{Weapons/bordered-shield}</color>18",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "03efa2aa-07ef-4b3b-9732-cbd6c9240094",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsgalacticrepublic}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1fbc3cca-04ac-449d-97e4-dd86311f69c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1{Body&Actions/person}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spaceblue12.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fffce63-914b-4495-8e3e-427012e24dca",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "82e0484f-0a92-492a-89d6-482715cac751",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "59698858-853d-4f0b-b7eb-4b863e9a18fd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ba5756d1-1c0e-429c-9824-812f9b7fd202",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Medical Station",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "be8cd57f-b18a-44b7-9ecd-6c3679cbd843",
+          "panels": [
+            {
+              "blueprint_panel_id": "63e1a051-6939-46dd-8d2c-332d2a2933e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "330158c1-455f-4b48-b685-bd4b8258730d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "019315cf-fa0d-4586-b049-aaa7b33a2eb0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fb7bffd-4285-4c58-ae50-5c7bf707890e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "87f0b619-8b14-4f25-bf9f-27ee0ffd5557",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spaceblue12.png",
+                "fit_mode": "fitwidth",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "317307a2-e232-4699-a48e-6ddcb2b4ec33",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "946c237f-91c9-4505-8695-6dc00bea6f65",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4b85fd4a-5ed6-4654-a905-cc2fedfe2a02",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf2b4c59-99b5-4b69-82ba-6b3352567e5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Medical Station",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "84ff1700-d80f-4161-8728-562b7826a787",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee16d842-dae6-40be-b4dc-96b5eab761b0",
+          "panels": [
+            {
+              "blueprint_panel_id": "81954844-17e3-403d-8639-7029f82cd50c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b6ebf06f-d889-412f-8c29-78a6478bc02b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "03efa2aa-07ef-4b3b-9732-cbd6c9240094",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1fbc3cca-04ac-449d-97e4-dd86311f69c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2{Body&Actions/person}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spacebluedebrisstart.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fffce63-914b-4495-8e3e-427012e24dca",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "82e0484f-0a92-492a-89d6-482715cac751",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "59698858-853d-4f0b-b7eb-4b863e9a18fd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ba5756d1-1c0e-429c-9824-812f9b7fd202",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Debris Field",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "be8cd57f-b18a-44b7-9ecd-6c3679cbd843",
+          "panels": [
+            {
+              "blueprint_panel_id": "63e1a051-6939-46dd-8d2c-332d2a2933e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "330158c1-455f-4b48-b685-bd4b8258730d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "019315cf-fa0d-4586-b049-aaa7b33a2eb0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fb7bffd-4285-4c58-ae50-5c7bf707890e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "87f0b619-8b14-4f25-bf9f-27ee0ffd5557",
+              "rotation": 270,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spacebluedebrisstart.png",
+                "fit_mode": "fitwidth",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "317307a2-e232-4699-a48e-6ddcb2b4ec33",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "946c237f-91c9-4505-8695-6dc00bea6f65",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4b85fd4a-5ed6-4654-a905-cc2fedfe2a02",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf2b4c59-99b5-4b69-82ba-6b3352567e5f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Debris Field",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1329 @@
+{
+  "version": 2.12,
+  "cardset_id": "97c18a37-ca80-41d4-b402-9f666f5f6892",
+  "name": "Space Mobs",
+  "blueprint_id": "137e3e11-8be8-48d8-973e-b7f439dab8f9",
+  "hint_order_index": 14,
+  "cards": [
+    {
+      "card_id": "6bdd985e-4d7a-43ad-9734-49366def6193",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "fa1fda77-c637-487a-99d2-b3d3c56e210b",
+          "panels": [
+            {
+              "blueprint_panel_id": "de993e7a-073d-443a-856d-2309dd40e97a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "https://preview.redd.it/ccjlhvoo69p11.jpg?auto=webp&s=5912f834c8bd1ba19d4ca1982a9bf06c80267e09"
+              }
+            },
+            {
+              "blueprint_panel_id": "3ba9b04d-b953-4490-985d-d97471de328c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fe0c0db-7833-4273-b41a-255712fde43b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2eb3db03-a66d-42f6-891c-6ad9482740f8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Weapons/bordered-shield}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c34bcca-0804-497e-88ee-76ecfb543d74",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8ed61ab9-5d5f-4310-8a36-86ca8ba2afad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "36bb4964-0e77-4e1b-a9f2-f7adfa0efde8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "012bcb92-769e-4aa9-a8a2-7289ef05feaf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "61760d84-cbcd-485a-933b-e1138f2e4717",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c10ba498-0f42-4d51-9e45-69858e98caf9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "The Variable Geometry Self-Propelled Battle Droid, Mark I, better known as the Vulture Droid, was a droid starfighter unit commonly used by the Trade Federation and later the Confederacy of Independent Systems, which were capable of operating on land using their wing mounts as legs. The Vulture Droid was a lightly armored with a relatively low number of weaoons adding to the unit's speed and maneuverability.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a316f977-f02e-4ecf-8835-1e431069461b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Dogfight: </b> Test {Other/divergence}(3). If you fail, attach buzz droids to your ship.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf073ae2-da6c-4c33-9a62-7fcfd37a0c4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Hunter. Patrol. Missiles.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "992addce-3e5e-4da5-8ba1-9c3a0a6966e4",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3e8bfc9e-93a6-4d97-8004-6620f4b55290",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/target_laser",
+                "color_tint": "#BF131FFF",
+                "color_background": "#FF000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "68868400-26df-4b3e-8d39-99b5fb178392",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a51c310a-0c18-4868-a3bb-ac134cb4ea62",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Weapons/bordered-shield",
+                "color_tint": "#FF0000FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "47f85fa2-fe36-4572-a22b-734e2c0ae8f0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c32faa57-22ff-4c19-a063-d2f337fff16d",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/divergence",
+                "color_tint": "#42DD42FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "d1bd350f-de09-413d-b9c6-0c9d16c36237",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f4e84fef-1474-4b96-b0dc-61a275c89095",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Vulture Droid",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "ff38b35e-39c7-47b7-ad3b-3e44c0c1ca9a",
+          "panels": [
+            {
+              "blueprint_panel_id": "65a2248e-4a5e-4188-a926-0fb6857803b7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a5a2f6ae-386e-4bcf-aa33-b203267a59bc",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "fa1fda77-c637-487a-99d2-b3d3c56e210b",
+          "panels": [
+            {
+              "blueprint_panel_id": "de993e7a-073d-443a-856d-2309dd40e97a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "https://lumiere-a.akamaihd.net/v1/images/databank_buzzdroid_01_169_e6c40327.jpeg?region=0%2C0%2C1560%2C878&width=768"
+              }
+            },
+            {
+              "blueprint_panel_id": "3ba9b04d-b953-4490-985d-d97471de328c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fe0c0db-7833-4273-b41a-255712fde43b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2eb3db03-a66d-42f6-891c-6ad9482740f8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Weapons/bordered-shield}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c34bcca-0804-497e-88ee-76ecfb543d74",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8ed61ab9-5d5f-4310-8a36-86ca8ba2afad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "36bb4964-0e77-4e1b-a9f2-f7adfa0efde8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/circle-claws}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "012bcb92-769e-4aa9-a8a2-7289ef05feaf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "61760d84-cbcd-485a-933b-e1138f2e4717",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c10ba498-0f42-4d51-9e45-69858e98caf9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Buzz droids are tenacious saboteurs launched onto enemy starfighters via specialized missiles. They emerge as spheres and attach themselves to a target vessel, popping open to reveal an insect-like droid equipped with cutters and other tools of vandalism. The buzz droids are designed to disable, not destroy, enemy craft. They operate quickly, slicing into starship hulls. While their tools are effective, a hit to its central eye can knock a buzz droid out of commission.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a316f977-f02e-4ecf-8835-1e431069461b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Spawn</b> - Any empty location.\n<b>Hunter.</b> - Astromech",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf073ae2-da6c-4c33-9a62-7fcfd37a0c4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Droid. Sabotage.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "992addce-3e5e-4da5-8ba1-9c3a0a6966e4",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "68868400-26df-4b3e-8d39-99b5fb178392",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "47f85fa2-fe36-4572-a22b-734e2c0ae8f0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d1bd350f-de09-413d-b9c6-0c9d16c36237",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f4e84fef-1474-4b96-b0dc-61a275c89095",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Buzz Droid",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "ff38b35e-39c7-47b7-ad3b-3e44c0c1ca9a",
+          "panels": [
+            {
+              "blueprint_panel_id": "65a2248e-4a5e-4188-a926-0fb6857803b7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "f7695d49-e3ed-47e4-a38d-aacdae5a63c9",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "fa1fda77-c637-487a-99d2-b3d3c56e210b",
+          "panels": [
+            {
+              "blueprint_panel_id": "de993e7a-073d-443a-856d-2309dd40e97a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Mynock.png"
+              }
+            },
+            {
+              "blueprint_panel_id": "3ba9b04d-b953-4490-985d-d97471de328c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fe0c0db-7833-4273-b41a-255712fde43b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2eb3db03-a66d-42f6-891c-6ad9482740f8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Weapons/bordered-shield}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c34bcca-0804-497e-88ee-76ecfb543d74",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8ed61ab9-5d5f-4310-8a36-86ca8ba2afad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "36bb4964-0e77-4e1b-a9f2-f7adfa0efde8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/circle-claws}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "012bcb92-769e-4aa9-a8a2-7289ef05feaf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "61760d84-cbcd-485a-933b-e1138f2e4717",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c10ba498-0f42-4d51-9e45-69858e98caf9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Mynocks are silicon-based parasitical organisms found across the galaxy that are often seen leeching power from spacecraft. In addition, they can absorb matter from a ship's hull causing it to breach, and if not caught in time, cause catastrophic failure.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a316f977-f02e-4ecf-8835-1e431069461b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Spawn</b> - Any empty location.\n\n<b>Outcome - </b> While Mynock is on your ship,\nThe first time you perform one of the following actions (move, fight, or evade) each round, it costs 1 additional action.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf073ae2-da6c-4c33-9a62-7fcfd37a0c4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Creature. Sabotage.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "992addce-3e5e-4da5-8ba1-9c3a0a6966e4",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "68868400-26df-4b3e-8d39-99b5fb178392",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "47f85fa2-fe36-4572-a22b-734e2c0ae8f0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d1bd350f-de09-413d-b9c6-0c9d16c36237",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f4e84fef-1474-4b96-b0dc-61a275c89095",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Mynock",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "ff38b35e-39c7-47b7-ad3b-3e44c0c1ca9a",
+          "panels": [
+            {
+              "blueprint_panel_id": "65a2248e-4a5e-4188-a926-0fb6857803b7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "f008de92-2fef-493e-bec4-2b41a6f2c82b",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "fa1fda77-c637-487a-99d2-b3d3c56e210b",
+          "panels": [
+            {
+              "blueprint_panel_id": "de993e7a-073d-443a-856d-2309dd40e97a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "https://vignette.wikia.nocookie.net/starwars/images/c/c7/Scrap_rats_JFO.jpg/revision/latest?cb=20191213220744"
+              }
+            },
+            {
+              "blueprint_panel_id": "3ba9b04d-b953-4490-985d-d97471de328c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fe0c0db-7833-4273-b41a-255712fde43b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2eb3db03-a66d-42f6-891c-6ad9482740f8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Weapons/bordered-shield}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c34bcca-0804-497e-88ee-76ecfb543d74",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8ed61ab9-5d5f-4310-8a36-86ca8ba2afad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "36bb4964-0e77-4e1b-a9f2-f7adfa0efde8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "012bcb92-769e-4aa9-a8a2-7289ef05feaf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "61760d84-cbcd-485a-933b-e1138f2e4717",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c10ba498-0f42-4d51-9e45-69858e98caf9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\"Sounds like scrap rats. Creepy...\"\n―Cal Kestis, whilst traveling through the wreckage of a Venator-class Star Destroyer",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a316f977-f02e-4ecf-8835-1e431069461b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Hunter.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf073ae2-da6c-4c33-9a62-7fcfd37a0c4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "992addce-3e5e-4da5-8ba1-9c3a0a6966e4",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "68868400-26df-4b3e-8d39-99b5fb178392",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "47f85fa2-fe36-4572-a22b-734e2c0ae8f0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d1bd350f-de09-413d-b9c6-0c9d16c36237",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f4e84fef-1474-4b96-b0dc-61a275c89095",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Scrap Rats",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "ff38b35e-39c7-47b7-ad3b-3e44c0c1ca9a",
+          "panels": [
+            {
+              "blueprint_panel_id": "65a2248e-4a5e-4188-a926-0fb6857803b7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "617ddc31-ce80-4e2b-a056-de11ec128736",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "fa1fda77-c637-487a-99d2-b3d3c56e210b",
+          "panels": [
+            {
+              "blueprint_panel_id": "3ba9b04d-b953-4490-985d-d97471de328c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fe0c0db-7833-4273-b41a-255712fde43b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2eb3db03-a66d-42f6-891c-6ad9482740f8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Weapons/bordered-shield}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c34bcca-0804-497e-88ee-76ecfb543d74",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8ed61ab9-5d5f-4310-8a36-86ca8ba2afad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "36bb4964-0e77-4e1b-a9f2-f7adfa0efde8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/circle-claws}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "012bcb92-769e-4aa9-a8a2-7289ef05feaf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/circle-claws}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "61760d84-cbcd-485a-933b-e1138f2e4717",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c10ba498-0f42-4d51-9e45-69858e98caf9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a316f977-f02e-4ecf-8835-1e431069461b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf073ae2-da6c-4c33-9a62-7fcfd37a0c4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "992addce-3e5e-4da5-8ba1-9c3a0a6966e4",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "68868400-26df-4b3e-8d39-99b5fb178392",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "47f85fa2-fe36-4572-a22b-734e2c0ae8f0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d1bd350f-de09-413d-b9c6-0c9d16c36237",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f4e84fef-1474-4b96-b0dc-61a275c89095",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "ff38b35e-39c7-47b7-ad3b-3e44c0c1ca9a",
+          "panels": [
+            {
+              "blueprint_panel_id": "65a2248e-4a5e-4188-a926-0fb6857803b7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "098febe2-0e9c-4917-94c5-cf4bbad0dd97",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "fa1fda77-c637-487a-99d2-b3d3c56e210b",
+          "panels": [
+            {
+              "blueprint_panel_id": "3ba9b04d-b953-4490-985d-d97471de328c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fe0c0db-7833-4273-b41a-255712fde43b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Weapons/bordered-shield}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2eb3db03-a66d-42f6-891c-6ad9482740f8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Weapons/bordered-shield}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c34bcca-0804-497e-88ee-76ecfb543d74",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8ed61ab9-5d5f-4310-8a36-86ca8ba2afad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "36bb4964-0e77-4e1b-a9f2-f7adfa0efde8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/circle-claws}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "012bcb92-769e-4aa9-a8a2-7289ef05feaf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "61760d84-cbcd-485a-933b-e1138f2e4717",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c10ba498-0f42-4d51-9e45-69858e98caf9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a316f977-f02e-4ecf-8835-1e431069461b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf073ae2-da6c-4c33-9a62-7fcfd37a0c4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "992addce-3e5e-4da5-8ba1-9c3a0a6966e4",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "68868400-26df-4b3e-8d39-99b5fb178392",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "47f85fa2-fe36-4572-a22b-734e2c0ae8f0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d1bd350f-de09-413d-b9c6-0c9d16c36237",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f4e84fef-1474-4b96-b0dc-61a275c89095",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "ff38b35e-39c7-47b7-ad3b-3e44c0c1ca9a",
+          "panels": [
+            {
+              "blueprint_panel_id": "65a2248e-4a5e-4188-a926-0fb6857803b7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b17304c7-78b6-48cf-ad00-975296df5590",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "fa1fda77-c637-487a-99d2-b3d3c56e210b",
+          "panels": [
+            {
+              "blueprint_panel_id": "3ba9b04d-b953-4490-985d-d97471de328c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fe0c0db-7833-4273-b41a-255712fde43b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2eb3db03-a66d-42f6-891c-6ad9482740f8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Weapons/bordered-shield}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c34bcca-0804-497e-88ee-76ecfb543d74",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8ed61ab9-5d5f-4310-8a36-86ca8ba2afad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "36bb4964-0e77-4e1b-a9f2-f7adfa0efde8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/circle-claws}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "012bcb92-769e-4aa9-a8a2-7289ef05feaf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "61760d84-cbcd-485a-933b-e1138f2e4717",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c10ba498-0f42-4d51-9e45-69858e98caf9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a316f977-f02e-4ecf-8835-1e431069461b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf073ae2-da6c-4c33-9a62-7fcfd37a0c4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "992addce-3e5e-4da5-8ba1-9c3a0a6966e4",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "68868400-26df-4b3e-8d39-99b5fb178392",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "47f85fa2-fe36-4572-a22b-734e2c0ae8f0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d1bd350f-de09-413d-b9c6-0c9d16c36237",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f4e84fef-1474-4b96-b0dc-61a275c89095",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "ff38b35e-39c7-47b7-ad3b-3e44c0c1ca9a",
+          "panels": [
+            {
+              "blueprint_panel_id": "65a2248e-4a5e-4188-a926-0fb6857803b7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

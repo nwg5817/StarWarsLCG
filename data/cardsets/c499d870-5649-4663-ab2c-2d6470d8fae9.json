@@ -1,0 +1,1211 @@
+{
+  "version": 2.12,
+  "cardset_id": "c499d870-5649-4663-ab2c-2d6470d8fae9",
+  "name": "Space Situations",
+  "blueprint_id": "bbcc1a5c-3687-4fd4-a03a-06c848b9a64a",
+  "hint_order_index": 15,
+  "cards": [
+    {
+      "card_id": "bafd15ac-ed98-410a-8c8a-c6569a66c7c8",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1c786784-9615-4219-963e-806b546a8276",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9eedf12-33fe-43f3-9759-b7535813b9ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Outcome - </b>If there is no damage on the player ship, this card gains surge. Otherwise, for each damage on the ship, choose one.\n\n{Abstract/abstract-030} Lose 1 resource.\n{Abstract/abstract-030} Choose and discard 1 card from your pilot's hand.\n{Abstract/abstract-030} Take 1 shield damage\n{Abstract/abstract-030} Take 1 hull damage\n\n<size=6>The Damage was more extensive than you thought!</size>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a9fd91f8-4b1a-4003-a3e1-35c96411be55",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a2ea580-3d74-4681-bb1e-6ad33a4309fe",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Hull Damage",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "df9a1e12-fd8d-4aab-a23f-2c1a638c6aae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "efbd7774-f22e-4aec-8b69-96a9d18b6fe2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1bdb9d84-5017-46a8-9ab6-27433790be33",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/dmg1.jpg",
+                "fit_mode": "stretch",
+                "offset": "0.01708, -0.038",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "34b283a8-dedc-4b04-a254-103efc07ffae",
+          "panels": [
+            {
+              "blueprint_panel_id": "fbf43b5c-8e16-4271-b21f-710a438b3ddc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "deb1c6ee-8b45-4062-ac75-437048722df3",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1c786784-9615-4219-963e-806b546a8276",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9eedf12-33fe-43f3-9759-b7535813b9ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Outcome - </b> Place Core Failure into your threat area and place 1 damage on <color=#42DD42FF>{Abstract/abstract-031}</color> Main Corridor.\n\nThe first time you perform one of the following actions (move, fight, or evade) each round, it costs 1 additional action.\n\n<b>Forced -</b> When there is no damaged placed on <color=#42DD42FF>{Abstract/abstract-031}</color> Main Corridor, discard Core Failure. \n\n<size=6>The Damage was more extensive than you thought!</size>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a9fd91f8-4b1a-4003-a3e1-35c96411be55",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a2ea580-3d74-4681-bb1e-6ad33a4309fe",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Core Failure",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "df9a1e12-fd8d-4aab-a23f-2c1a638c6aae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "efbd7774-f22e-4aec-8b69-96a9d18b6fe2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1bdb9d84-5017-46a8-9ab6-27433790be33",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/corridordamage.png",
+                "fit_mode": "stretch",
+                "offset": "0.01708, -0.038",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "34b283a8-dedc-4b04-a254-103efc07ffae",
+          "panels": [
+            {
+              "blueprint_panel_id": "fbf43b5c-8e16-4271-b21f-710a438b3ddc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "fd3ee777-d6ce-4ad2-b252-3a0bb716c0cf",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1c786784-9615-4219-963e-806b546a8276",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9eedf12-33fe-43f3-9759-b7535813b9ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Outcome - </b> Place Shields Down! into your threat area and place 1 damage on <color=#FF0000FF>{Cinema/afterburn}</color> Cockpit.\n\nYour shields are down. Ignore shields when calculating damage taken.\n\n<b>Forced -</b> When there is no damaged placed on <color=#FF0000FF>{Cinema/afterburn}</color> Cockpit, discard Shields Down!. \n\n<size=6>The Damage was more extensive than you thought!</size>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a9fd91f8-4b1a-4003-a3e1-35c96411be55",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a2ea580-3d74-4681-bb1e-6ad33a4309fe",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Shields Down!",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "df9a1e12-fd8d-4aab-a23f-2c1a638c6aae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "efbd7774-f22e-4aec-8b69-96a9d18b6fe2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1bdb9d84-5017-46a8-9ab6-27433790be33",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/enginedamage2.PNG",
+                "fit_mode": "stretch",
+                "offset": "0.01708, -0.038",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "34b283a8-dedc-4b04-a254-103efc07ffae",
+          "panels": [
+            {
+              "blueprint_panel_id": "fbf43b5c-8e16-4271-b21f-710a438b3ddc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "39031da8-00b2-4f16-9829-f67063ea674c",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1c786784-9615-4219-963e-806b546a8276",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9eedf12-33fe-43f3-9759-b7535813b9ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Outcome - </b>Test <color=#42DD42FF>{Other/divergence}</color>(3). If you fail, search the encounter deck and discard pile for a <i>Sabotage Droid</i> enemy and draw it.\n\n<size=6>The Damage was more extensive than you thought!</size>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a9fd91f8-4b1a-4003-a3e1-35c96411be55",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a2ea580-3d74-4681-bb1e-6ad33a4309fe",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Discord Missile",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "df9a1e12-fd8d-4aab-a23f-2c1a638c6aae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "efbd7774-f22e-4aec-8b69-96a9d18b6fe2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1bdb9d84-5017-46a8-9ab6-27433790be33",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/discord missile.PNG",
+                "fit_mode": "stretch",
+                "offset": "0.01708, -0.038",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "34b283a8-dedc-4b04-a254-103efc07ffae",
+          "panels": [
+            {
+              "blueprint_panel_id": "fbf43b5c-8e16-4271-b21f-710a438b3ddc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "02fc7285-a2b1-4f28-9b45-749e7c1d7b03",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1c786784-9615-4219-963e-806b546a8276",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9eedf12-33fe-43f3-9759-b7535813b9ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Outcome - </b>Test <color=#42DD42FF>{Other/divergence}</color>(3). For each point you fail by, take 1 shield damage. For each point you succeed by, you may deal 1 damage to an enemy at your location. If an Elder symbol is revealed during this test, you may deal 2 damage to an enemy at any location.\n\n<size=6>The Damage was more extensive than you thought!</size>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a9fd91f8-4b1a-4003-a3e1-35c96411be55",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a2ea580-3d74-4681-bb1e-6ad33a4309fe",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Enemy Swarms",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "df9a1e12-fd8d-4aab-a23f-2c1a638c6aae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "efbd7774-f22e-4aec-8b69-96a9d18b6fe2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1bdb9d84-5017-46a8-9ab6-27433790be33",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/vulturedroids.png",
+                "fit_mode": "stretch",
+                "offset": "0.01708, -0.038",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "34b283a8-dedc-4b04-a254-103efc07ffae",
+          "panels": [
+            {
+              "blueprint_panel_id": "fbf43b5c-8e16-4271-b21f-710a438b3ddc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "1c20f3a1-32dc-4966-a7db-bda0147c207f",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1c786784-9615-4219-963e-806b546a8276",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9eedf12-33fe-43f3-9759-b7535813b9ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Outcome - </b> Put Bad Luck into play in your threat area.\n\nYou get -1 skill value during skill tests.\n\nForced - After you succeed at a skill test by 1 or more: Discard Bad Luck.\n\n<size=6>The Damage was more extensive than you thought!</size>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a9fd91f8-4b1a-4003-a3e1-35c96411be55",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a2ea580-3d74-4681-bb1e-6ad33a4309fe",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Bad Luck",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "df9a1e12-fd8d-4aab-a23f-2c1a638c6aae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "efbd7774-f22e-4aec-8b69-96a9d18b6fe2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1bdb9d84-5017-46a8-9ab6-27433790be33",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/badluck.png",
+                "fit_mode": "fit",
+                "offset": "0.03185883, 0.003250772",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "34b283a8-dedc-4b04-a254-103efc07ffae",
+          "panels": [
+            {
+              "blueprint_panel_id": "fbf43b5c-8e16-4271-b21f-710a438b3ddc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "40865d8a-bc31-42fa-b8fa-f7e0eccf90a0",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1c786784-9615-4219-963e-806b546a8276",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9eedf12-33fe-43f3-9759-b7535813b9ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Outcome - </b> You must choose either (choose one): Spend 1 data or take 2 hull damage.\n\n\n<size=11>\"Everything is rough in the Unknown Regions.\"\n―General Leia Organa</size>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a9fd91f8-4b1a-4003-a3e1-35c96411be55",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a2ea580-3d74-4681-bb1e-6ad33a4309fe",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Uncharted",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "df9a1e12-fd8d-4aab-a23f-2c1a638c6aae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "efbd7774-f22e-4aec-8b69-96a9d18b6fe2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1bdb9d84-5017-46a8-9ab6-27433790be33",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/uncharted.jpg",
+                "fit_mode": "fit",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "34b283a8-dedc-4b04-a254-103efc07ffae",
+          "panels": [
+            {
+              "blueprint_panel_id": "fbf43b5c-8e16-4271-b21f-710a438b3ddc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "5787bdbd-91f0-4ade-98c1-58b80f77de64",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1c786784-9615-4219-963e-806b546a8276",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9eedf12-33fe-43f3-9759-b7535813b9ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Outcome - </b> - If you have no data, False Signal gains surge. If you have 1 or more data, test  (4). For each point you fail by, place 1 of your data on your location.\n\n<size=6>The Damage was more extensive than you thought!</size>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a9fd91f8-4b1a-4003-a3e1-35c96411be55",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a2ea580-3d74-4681-bb1e-6ad33a4309fe",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "False Signal",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "df9a1e12-fd8d-4aab-a23f-2c1a638c6aae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "efbd7774-f22e-4aec-8b69-96a9d18b6fe2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1bdb9d84-5017-46a8-9ab6-27433790be33",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/falsesignal.jpg",
+                "fit_mode": "fit",
+                "offset": "0.03185883, 0.003250772",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "34b283a8-dedc-4b04-a254-103efc07ffae",
+          "panels": [
+            {
+              "blueprint_panel_id": "fbf43b5c-8e16-4271-b21f-710a438b3ddc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "f74eb6c4-03c8-49b9-97c0-ed47edeefec9",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1c786784-9615-4219-963e-806b546a8276",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9eedf12-33fe-43f3-9759-b7535813b9ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Outcome - </b> - Attach to your location. Limit 1 per location.\n\nAttached location gets +2 silhoutte.\n\nForced - After attached location is successfully scanned: Discard Cosmic Fog.\n\n<size=6>The Damage was more extensive than you thought!</size>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a9fd91f8-4b1a-4003-a3e1-35c96411be55",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a2ea580-3d74-4681-bb1e-6ad33a4309fe",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Cosmic Fog",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "df9a1e12-fd8d-4aab-a23f-2c1a638c6aae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "efbd7774-f22e-4aec-8b69-96a9d18b6fe2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1bdb9d84-5017-46a8-9ab6-27433790be33",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/cosmicfog.jpg",
+                "fit_mode": "fit",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "34b283a8-dedc-4b04-a254-103efc07ffae",
+          "panels": [
+            {
+              "blueprint_panel_id": "fbf43b5c-8e16-4271-b21f-710a438b3ddc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "0fe9771d-f967-465f-8ed5-8f655f96f6ea",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1c786784-9615-4219-963e-806b546a8276",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9eedf12-33fe-43f3-9759-b7535813b9ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Outcome - </b> Test  <color=#2196F3FF>{Other/awareness}</color>(3). For each point you fail by, you must choose a different option:\n\n- Lose 3 resources.\n\n- Lose 1 action.\n\n- Discard a random card from your hand.\n\n<size=6>Many who came to Zeltros were taken in by the celebratory atmosphere and the powerful pheromones of the Zeltron people to the point they found it difficult to leave.</size>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a9fd91f8-4b1a-4003-a3e1-35c96411be55",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Memories.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a2ea580-3d74-4681-bb1e-6ad33a4309fe",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Dreams of Zeltros",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "df9a1e12-fd8d-4aab-a23f-2c1a638c6aae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "efbd7774-f22e-4aec-8b69-96a9d18b6fe2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1bdb9d84-5017-46a8-9ab6-27433790be33",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/space dream.jpg",
+                "fit_mode": "fit",
+                "offset": "0.03185883, 0.003250772",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "34b283a8-dedc-4b04-a254-103efc07ffae",
+          "panels": [
+            {
+              "blueprint_panel_id": "fbf43b5c-8e16-4271-b21f-710a438b3ddc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "9b514dff-b965-4356-bf38-2db8c04a3e34",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1c786784-9615-4219-963e-806b546a8276",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9eedf12-33fe-43f3-9759-b7535813b9ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Outcome - </b> - Test <color=#2196F3FF>{Abstract/abstract-049}</color>(4). If you fail, choose and discard 1 asset you control (if you cannot, take 2 damage instead).\n\n<size=6>The Damage was more extensive than you thought!</size>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a9fd91f8-4b1a-4003-a3e1-35c96411be55",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a2ea580-3d74-4681-bb1e-6ad33a4309fe",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Space Chill",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "df9a1e12-fd8d-4aab-a23f-2c1a638c6aae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "efbd7774-f22e-4aec-8b69-96a9d18b6fe2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1bdb9d84-5017-46a8-9ab6-27433790be33",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spacechill.jpg",
+                "fit_mode": "fit",
+                "offset": "-0.0021, 0.007738945",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "34b283a8-dedc-4b04-a254-103efc07ffae",
+          "panels": [
+            {
+              "blueprint_panel_id": "fbf43b5c-8e16-4271-b21f-710a438b3ddc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "8ff93e44-4e43-4849-9826-bcaa95ed59b1",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1c786784-9615-4219-963e-806b546a8276",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9eedf12-33fe-43f3-9759-b7535813b9ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Outcome - </b> Put Power Surge into play in your threat area.\n\nYou cannot play assets or events.\n\n<b>Forced -</b> At the end of the round: Discard Power Surge.\n\n<size=6>The Damage was more extensive than you thought!</size>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a9fd91f8-4b1a-4003-a3e1-35c96411be55",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a2ea580-3d74-4681-bb1e-6ad33a4309fe",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Power Surge",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "df9a1e12-fd8d-4aab-a23f-2c1a638c6aae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "efbd7774-f22e-4aec-8b69-96a9d18b6fe2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1bdb9d84-5017-46a8-9ab6-27433790be33",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/powersurge.jpg",
+                "fit_mode": "fit",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "34b283a8-dedc-4b04-a254-103efc07ffae",
+          "panels": [
+            {
+              "blueprint_panel_id": "fbf43b5c-8e16-4271-b21f-710a438b3ddc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b49b1f62-dc9b-41d4-8416-2d675744d6dc",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1c786784-9615-4219-963e-806b546a8276",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9eedf12-33fe-43f3-9759-b7535813b9ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Outcome - </b> Place one doom on the current agenda, this can cause the agenda to advance.\n\n\n<size=4><i>A vrelt was a small rodent native to the Corellian system and considered a pest. Some of the more superstitious folks (including spacers) considered them to be bad omens, and the term was often used in a derogatory sense.</i></size>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a9fd91f8-4b1a-4003-a3e1-35c96411be55",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Superstition. Omen.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a2ea580-3d74-4681-bb1e-6ad33a4309fe",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Vrelt",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "df9a1e12-fd8d-4aab-a23f-2c1a638c6aae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "efbd7774-f22e-4aec-8b69-96a9d18b6fe2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/two-shadows}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1bdb9d84-5017-46a8-9ab6-27433790be33",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Vrelt.jpg",
+                "fit_mode": "fit",
+                "offset": "0.06369004, 0.01480102",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "34b283a8-dedc-4b04-a254-103efc07ffae",
+          "panels": [
+            {
+              "blueprint_panel_id": "fbf43b5c-8e16-4271-b21f-710a438b3ddc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "575f5008-11ce-45d2-b147-48a740535650",
+      "amount": 0,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "1c786784-9615-4219-963e-806b546a8276",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9eedf12-33fe-43f3-9759-b7535813b9ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Outcome - </b> Put Gravity Well Projector into play in your threat area.\n\nYou cannot activate Hyperdrive.\n\n<b>Forced -</b> If enemy capital ship is destroyed: Discard Power Surge.\n\n<size=4><i>An interdiction field was an artificial gravity well that disabled hyperspace capability in most starships. It was used to prevent ships from entering hyperspace as well as draw ships out of hyperspace and into realspace. It was able to do this by triggering a hyperdrive's automatic failsafe that triggered when a gravity well was in the path of the ship.</i></size>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a9fd91f8-4b1a-4003-a3e1-35c96411be55",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Technology.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a2ea580-3d74-4681-bb1e-6ad33a4309fe",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Gravity Well Projector",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "df9a1e12-fd8d-4aab-a23f-2c1a638c6aae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "efbd7774-f22e-4aec-8b69-96a9d18b6fe2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1bdb9d84-5017-46a8-9ab6-27433790be33",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Interdicted-FFG.png",
+                "fit_mode": "fit",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "34b283a8-dedc-4b04-a254-103efc07ffae",
+          "panels": [
+            {
+              "blueprint_panel_id": "fbf43b5c-8e16-4271-b21f-710a438b3ddc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

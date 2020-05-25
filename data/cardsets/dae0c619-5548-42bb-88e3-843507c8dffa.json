@@ -1,0 +1,243 @@
+{
+  "version": 2.12,
+  "cardset_id": "dae0c619-5548-42bb-88e3-843507c8dffa",
+  "name": "Encounter Difficulty Card",
+  "blueprint_id": "0a973cbf-d900-4a91-bcac-200ee6257847",
+  "hint_order_index": 4,
+  "cards": [
+    {
+      "card_id": "664734e4-982e-4441-9c0f-e406b8931f26",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "5e02e7e5-fdf5-483d-8c55-d75175a62318",
+          "panels": [
+            {
+              "blueprint_panel_id": "7420d0b5-d362-4a1f-b3df-7aa6fa98e431",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "eaf4b462-d0c9-47ac-8ee2-70db14eec5d8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarspalpatine2}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "475ea1bb-a328-46ae-899f-8b260646d944",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjarjar}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "14bfb20b-6c84-4a7c-b11d-5583f1fbc4e1",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsbd1}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "49f02644-2ec2-4ed1-88a8-dcb0a4d54cdc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "879d55a3-0b77-45db-aec6-81a297cebdb7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-2. If you fail, take 1 Mind damage.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bc209f3d-f17c-4383-8bd4-8e5b897ad193",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-1. If there is an elite enemy at your location, take 1 damage.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a17045a6-17cc-47bd-8fc1-2dccfe1f6f69",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-X. X is the number of Troop enemies at your location.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ed676843-7e5e-407c-9423-6f67659ea27a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Easy / Standard",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "fb58c415-abe0-48d7-97df-4287e0ae57e2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "THE BENDU'S SHADOW",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4b2287a3-90f4-47bc-b5a3-86e7327c49cc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "e0f94c52-8ff6-4862-98ac-658185d3ab2f",
+          "panels": [
+            {
+              "blueprint_panel_id": "47281e4f-4f89-4d6b-8bc1-3e7bceacd947",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8f729df6-79f1-404c-81f6-488f1fd51220",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarspalpatine2}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "548360f5-daff-4584-b32a-c277433dfec1",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjarjar}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8b0e67f0-231d-44bc-9960-69e1988ccda8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsbd1}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "745a4026-146e-4dc6-8258-2a18e24ec14a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "694d892f-fe72-45e4-9453-77a790c32427",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-2. If you fail, take 1 Mind damage.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "90316cbb-bbcc-468c-bb5b-4b648d7c7225",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-1. If there is an elite enemy at your location, take 1 damage.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3f1f690c-a6c6-4165-a484-e50c07c5b57c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-X. X is the number of Troop enemies at your location.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a63b835f-60e8-4cf6-ad57-e6c34d842265",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Hard",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0330be7e-aadb-43cc-b77e-2386d5bce8b9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "THE BENDU'S SHADOW",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f0ea026d-cbfa-4971-90f7-75f843153b8a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

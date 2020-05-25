@@ -1,0 +1,292 @@
+{
+  "version": 2.12,
+  "blueprint_id": "a365f666-87b1-4462-b8ab-788fca69fb8a",
+  "name": "Actions",
+  "layout_size": "63.5, 88.9",
+  "layout_grid_size": "0.232, 0.232",
+  "main_panel_id": "1fff1e05-578e-4f5e-9409-cf074e98fb8a",
+  "front_layers": [
+    {
+      "layer_id": "c3204322-40bd-4df1-9cf4-0b2b0c1af2e5",
+      "name": "Layer 1: Border",
+      "padding": 0.0,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "8766a912-5da6-4872-b75b-d962ed9fa437",
+          "name": "Background Border",
+          "enabled": true,
+          "locked": true,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#292A30FF"
+          },
+          "sort_mode": "0",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "e23e3165-b1dd-406a-96ef-5e2046418425",
+      "name": "Layer 2: Background",
+      "padding": 0.07874016,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "4e2a00de-c722-49b1-a3b2-3d53584f6292",
+          "name": "Background Image URI",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#E1E7F2FF"
+          },
+          "sort_mode": "1",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "e06227c2-b476-471a-ac9e-53440b7daff5",
+      "name": "Layer 3: Content",
+      "padding": 0.1574803,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "a5cbe1d5-1ccb-42d8-8f2a-cdaf8fdbe821",
+          "name": "Illustration URL",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0.03, 0.03, 0.03, 0.01",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 0.8797659",
+          "anchor_max_render": "1, 0.8797658",
+          "type": "text",
+          "data": {
+            "font_family": "Lato",
+            "font_preferred_size": 24,
+            "line_spacing": 1.0,
+            "text_anchor": "upperleft",
+            "text": "",
+            "color": "#141414FF",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "2",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "1fff1e05-578e-4f5e-9409-cf074e98fb8a",
+          "name": "Title",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.8797659",
+          "anchor_min_render": "0, 0.8797659",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 0.9999999",
+          "type": "text",
+          "data": {
+            "font_family": "Lato",
+            "font_preferred_size": 26,
+            "line_spacing": 1.0,
+            "text_anchor": "middlecenter",
+            "text": "Title",
+            "color": "#00000080",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "3",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ],
+  "back_layers": [
+    {
+      "layer_id": "d407fd72-2078-481b-9c0a-7e6faf61b75c",
+      "name": "Layer 1: Border",
+      "padding": 0.0,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "820fb2d6-65d9-4dae-ba4b-f53b89d5e66e",
+          "name": "Background Border",
+          "enabled": true,
+          "locked": true,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#292A30FF"
+          },
+          "sort_mode": "4",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "3da475be-6516-4bbc-b13e-a623f694dbc5",
+      "name": "Layer 2: Background",
+      "padding": 0.07874016,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "836eca54-675e-42a0-89cb-fc97d48f6562",
+          "name": "Background Image URI",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 1",
+          "type": "image",
+          "data": {
+            "uri": "",
+            "mask_uri": "",
+            "fit_mode": "fit",
+            "zoom": 1.0,
+            "offset": "0, 0",
+            "tint": "#E1E7F2FF"
+          },
+          "sort_mode": "5",
+          "split_mode": "none",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    },
+    {
+      "layer_id": "e724cdcc-22be-4016-b088-26bc5e884dd6",
+      "name": "Layer 3: Content",
+      "padding": 0.1574803,
+      "spacing": 0.0,
+      "panels": [
+        {
+          "panel_id": "af055910-5d39-4ea1-aac8-f734eaa871e7",
+          "name": "Illustration URL",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0.03, 0.03, 0.03, 0.01",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0",
+          "anchor_min_render": "0, 0",
+          "anchor_max": "1, 0.8797659",
+          "anchor_max_render": "1, 0.8797658",
+          "type": "text",
+          "data": {
+            "font_family": "Lato",
+            "font_preferred_size": 24,
+            "line_spacing": 1.0,
+            "text_anchor": "upperleft",
+            "text": "",
+            "color": "#141414FF",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "6",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        },
+        {
+          "panel_id": "01532f2c-0740-4ba2-996d-1bb5b37dacb3",
+          "name": "Title",
+          "enabled": true,
+          "locked": false,
+          "rotation": 0,
+          "padding": "0, 0, 0, 0",
+          "material_name": "Blank",
+          "material_selection": 0,
+          "material_tint": "#00000000",
+          "anchor_min": "0, 0.8797659",
+          "anchor_min_render": "0, 0.8797659",
+          "anchor_max": "1, 1",
+          "anchor_max_render": "1, 0.9999999",
+          "type": "text",
+          "data": {
+            "font_family": "Lato",
+            "font_preferred_size": 26,
+            "line_spacing": 1.0,
+            "text_anchor": "middlecenter",
+            "text": "Title",
+            "color": "#00000080",
+            "outline_length": 1.0,
+            "outline_color": "#FFFFFF00",
+            "image_scaling": 1.0,
+            "image_offset": "0, 0"
+          },
+          "sort_mode": "7",
+          "split_mode": "horizontal",
+          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
+        }
+      ]
+    }
+  ]
+}

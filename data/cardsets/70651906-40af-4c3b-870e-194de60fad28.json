@@ -1,0 +1,260 @@
+{
+  "version": 2.12,
+  "cardset_id": "70651906-40af-4c3b-870e-194de60fad28",
+  "name": "Agenda Deck",
+  "blueprint_id": "d52469cb-870f-4fa5-8d1d-1646b785214c",
+  "hint_order_index": 1,
+  "cards": [
+    {
+      "card_id": "d606171f-6867-4051-a954-7b3f1a64c3f0",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "777b4d2b-83d8-40ad-8ef2-ce869d04721b",
+          "panels": [
+            {
+              "blueprint_panel_id": "6b41452c-72a6-49d5-8079-c0131ee48657",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "51897b86-9da3-490b-a219-a223913293a4",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "<i>While en route, you feel your ship give a sudden jolt and you hear the hyperdrive whine. You're still hours away from your destination... \n\nYou hear loud bangs and scratching noises against the hull. You can only assume you in some chop. </i>\n",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "29e6de42-c3cd-462c-a388-967be52145a4",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "What just happened?",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2aa287bd-f97f-4ef3-8cb7-e79f6c48cdce",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "03d0a637-062f-4697-821f-ccbc011854bb",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "94bda7e2-2cbc-441e-b773-533c01f3d12e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "https://ak.picdn.net/shutterstock/videos/13044845/thumb/4.jpg",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "15dd9d03-74b5-4ea5-b77d-71db4dc01868",
+          "panels": [
+            {
+              "blueprint_panel_id": "ef5735a5-e666-4025-8c9e-dae9632b3f7c",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "If the 8 blue space locations have not been put into play, do so.\n\nSpawn the set aside Capital Ships into play.\n\nXXXS\nRXXX\nXXPX",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "55fa4465-5631-48af-aa8d-005acab3eed6",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "<i>The debris is only getting larger. The pilot does their best to evade and maneuver around the larger pieces. Unfortunately some of the smaller pieces are smashing against the hull... Some of this debris seems fresh from a recent battle...\n\nThen, as you turn your head, you see a grey, wedge-shaped ship in the distance in combat with a battle-scarred frigate. This can’t be good. What do you do?</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0057699b-6d9b-451c-ba64-acd8e2dc93fc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "What just happened?",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "eb1d2972-150c-4d20-95c0-517564ef15bf",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "089134e8-616b-4693-86eb-5f601b3fe7f7",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "0734abb6-aa92-4ff2-a763-a6217d26a206",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "777b4d2b-83d8-40ad-8ef2-ce869d04721b",
+          "panels": [
+            {
+              "blueprint_panel_id": "6b41452c-72a6-49d5-8079-c0131ee48657",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "7",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "51897b86-9da3-490b-a219-a223913293a4",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "<i>As the pilot maneuvers through the debris field, the ship's computers indicate intense scan levels in the area, you're not alone out here.</i>\n",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "29e6de42-c3cd-462c-a388-967be52145a4",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "What just happened?",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2aa287bd-f97f-4ef3-8cb7-e79f6c48cdce",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "03d0a637-062f-4697-821f-ccbc011854bb",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "Agenda 2a",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "94bda7e2-2cbc-441e-b773-533c01f3d12e",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "https://ak.picdn.net/shutterstock/videos/13044845/thumb/4.jpg",
+                "tint": "#FFFFFFFF"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "15dd9d03-74b5-4ea5-b77d-71db4dc01868",
+          "panels": [
+            {
+              "blueprint_panel_id": "ef5735a5-e666-4025-8c9e-dae9632b3f7c",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "Spawn the set aside Capital Ships into play.\n\nXXS\nRXX\nXPX",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "55fa4465-5631-48af-aa8d-005acab3eed6",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "<i>A feral beast, roughly humanoid with a canine cast and hooves for feet, tears through the ground in front of you. Below the floor, you can see vast tunnels beneath your house. Fiendish howling echoes from deep within the underground caverns.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0057699b-6d9b-451c-ba64-acd8e2dc93fc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "eb1d2972-150c-4d20-95c0-517564ef15bf",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "089134e8-616b-4693-86eb-5f601b3fe7f7",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "Agenda 2b",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1129 @@
+{
+  "version": 2.12,
+  "cardset_id": "350e9a18-0ee5-4b9e-a221-d5efcc331ea6",
+  "name": "Star Wars",
+  "blueprint_id": "9a649aba-bc61-44ee-8a8a-3c364b77851c",
+  "hint_order_index": 5,
+  "cards": [
+    {
+      "card_id": "2d8881c5-2b9c-44c3-bb7a-2595678eca31",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "8156edcb-ba4e-47c0-b93e-deccb421073d",
+          "panels": [
+            {
+              "blueprint_panel_id": "dbc10a97-94da-429d-8524-079862078001",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#BF131FFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "7645bdb3-0230-4291-a97c-178b12a6e610",
+          "panels": [
+            {
+              "blueprint_panel_id": "8b80b132-bb75-4f1d-b9a1-4e626e6bee24",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "https://vignette.wikia.nocookie.net/starwars/images/8/8b/E-22_Blaster_Mudtrooper.png/revision/latest?cb=20180630185003"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a55e8d4-e51b-4b49-89cb-510a06c6f912",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/heart-plus",
+                "color_tint": "#FF0000FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "284a6f93-b06b-4f72-8638-87f236039d78",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "7",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "605f225d-d930-443a-9154-3e7f56a576ba",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/headshot_(1)",
+                "color_tint": "#0000FFFF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "ce5d27fc-6dcd-4e2b-85d9-80c89f72fa69",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "5",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "faf6de7a-aa63-4f70-8210-db197a81f63a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Generic Soldier",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "7f4a9c9f-29fb-4514-9106-4d2ac42a8365",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3e9a1021-1f03-4a89-9d3f-5bf993d76841",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarssuccess}: (+1) for each insight at your location.\n",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c368189a-49a4-40ce-bf2c-54d329d8d967",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Grunt",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9bf776cc-6028-4f3c-87e3-5b7569f06c04",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarsassault",
+                "color_tint": "#FF0000FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a61ec22-fd37-4fc9-833e-164526684780",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Soldier",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cddb63d6-8ecb-491c-877b-1fbcb636ac36",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Trooper",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "be1ed53d-9a40-41d1-bc22-d2271eaa1500",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8f87a087-1d6d-46fe-8c2f-6d8788be0ea5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d2c685e9-0d86-407c-84f8-822333b44085",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f86e73fa-d812-42a6-9ec3-b0d7e1f278df",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "f03ab771-5eb4-431e-9e83-f1f6f34f99fe",
+          "panels": [
+            {
+              "blueprint_panel_id": "37d84b54-1cf9-447f-af79-d9ef61115b36",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da1ff3e4-6c8c-4e2b-89f6-cb3b93688450",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Deckbuilding Requirements</b> (do not count towards deck size):\n",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "abc6882b-0eca-492d-8afb-074e8e19d8cd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Deckbuilding Options: </b>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a209b8a2-a59e-4cb8-9260-92488e6925c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "73383841-4c04-44a7-aa00-0f97a93143de",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Soldier",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4ec4b452-8f96-4099-af04-5526b4522405",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/ba5_revolt_(2)",
+                "color_tint": "#FF0000FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "f4b40472-69bc-411a-9603-b28da7d99158",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Trooper",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "3ecc614b-4aaf-4f63-b9a1-9912a62268bd",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "8156edcb-ba4e-47c0-b93e-deccb421073d",
+          "panels": [
+            {
+              "blueprint_panel_id": "dbc10a97-94da-429d-8524-079862078001",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#1613BFFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "7645bdb3-0230-4291-a97c-178b12a6e610",
+          "panels": [
+            {
+              "blueprint_panel_id": "8b80b132-bb75-4f1d-b9a1-4e626e6bee24",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "https://vignette.wikia.nocookie.net/starwars/images/2/21/RigNema-Voices.png/revision/latest?cb=20200224063235"
+              }
+            },
+            {
+              "blueprint_panel_id": "284a6f93-b06b-4f72-8638-87f236039d78",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "5",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ce5d27fc-6dcd-4e2b-85d9-80c89f72fa69",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "8",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "faf6de7a-aa63-4f70-8210-db197a81f63a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "7f4a9c9f-29fb-4514-9106-4d2ac42a8365",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3e9a1021-1f03-4a89-9d3f-5bf993d76841",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarssuccess}: (+1) for each insight at your location.\n",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c368189a-49a4-40ce-bf2c-54d329d8d967",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Healer",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9bf776cc-6028-4f3c-87e3-5b7569f06c04",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarsofficer",
+                "color_tint": "#0000FFFF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a61ec22-fd37-4fc9-833e-164526684780",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Specialist",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cddb63d6-8ecb-491c-877b-1fbcb636ac36",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Medic",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b3b86750-2ea6-4ae6-bd38-2b44cdf9f99c",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/awareness",
+                "color_tint": "#2196F3FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "be1ed53d-9a40-41d1-bc22-d2271eaa1500",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8f87a087-1d6d-46fe-8c2f-6d8788be0ea5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "955c4c63-c6b5-4e12-a852-55ba9f2e1bd1",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/fist_(1)",
+                "color_tint": "#BF131FFF",
+                "color_background": "#FF000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "d2c685e9-0d86-407c-84f8-822333b44085",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "563986a0-0189-4539-acda-bab55c74472a",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Body&Actions/dodging",
+                "color_tint": "#42DD42FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "f86e73fa-d812-42a6-9ec3-b0d7e1f278df",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "f03ab771-5eb4-431e-9e83-f1f6f34f99fe",
+          "panels": [
+            {
+              "blueprint_panel_id": "37d84b54-1cf9-447f-af79-d9ef61115b36",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da1ff3e4-6c8c-4e2b-89f6-cb3b93688450",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "abc6882b-0eca-492d-8afb-074e8e19d8cd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a209b8a2-a59e-4cb8-9260-92488e6925c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "73383841-4c04-44a7-aa00-0f97a93143de",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f4b40472-69bc-411a-9603-b28da7d99158",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "54c854e9-6120-4a67-9484-6300adb79d1a",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "7645bdb3-0230-4291-a97c-178b12a6e610",
+          "panels": [
+            {
+              "blueprint_panel_id": "284a6f93-b06b-4f72-8638-87f236039d78",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ce5d27fc-6dcd-4e2b-85d9-80c89f72fa69",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "7",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "faf6de7a-aa63-4f70-8210-db197a81f63a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "7f4a9c9f-29fb-4514-9106-4d2ac42a8365",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3e9a1021-1f03-4a89-9d3f-5bf993d76841",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/moebius-star}: (+1) for each insight at your location.\n",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c368189a-49a4-40ce-bf2c-54d329d8d967",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Observer",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9bf776cc-6028-4f3c-87e3-5b7569f06c04",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarsspecialist",
+                "color_tint": "#FFFF00FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a61ec22-fd37-4fc9-833e-164526684780",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Pathfinder",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cddb63d6-8ecb-491c-877b-1fbcb636ac36",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Scout\t",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "be1ed53d-9a40-41d1-bc22-d2271eaa1500",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8f87a087-1d6d-46fe-8c2f-6d8788be0ea5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d2c685e9-0d86-407c-84f8-822333b44085",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f86e73fa-d812-42a6-9ec3-b0d7e1f278df",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "f03ab771-5eb4-431e-9e83-f1f6f34f99fe",
+          "panels": [
+            {
+              "blueprint_panel_id": "37d84b54-1cf9-447f-af79-d9ef61115b36",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da1ff3e4-6c8c-4e2b-89f6-cb3b93688450",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "abc6882b-0eca-492d-8afb-074e8e19d8cd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a209b8a2-a59e-4cb8-9260-92488e6925c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "73383841-4c04-44a7-aa00-0f97a93143de",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f4b40472-69bc-411a-9603-b28da7d99158",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "fffca731-ce37-4f6c-a537-c8f86b3dcaf8",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "7645bdb3-0230-4291-a97c-178b12a6e610",
+          "panels": [
+            {
+              "blueprint_panel_id": "284a6f93-b06b-4f72-8638-87f236039d78",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "7",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ce5d27fc-6dcd-4e2b-85d9-80c89f72fa69",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "faf6de7a-aa63-4f70-8210-db197a81f63a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "7f4a9c9f-29fb-4514-9106-4d2ac42a8365",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3e9a1021-1f03-4a89-9d3f-5bf993d76841",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/moebius-star}: (+1) for each insight at your location.\n",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c368189a-49a4-40ce-bf2c-54d329d8d967",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Smuggler",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9bf776cc-6028-4f3c-87e3-5b7569f06c04",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarsaerial",
+                "color_tint": "#00FF00FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a61ec22-fd37-4fc9-833e-164526684780",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Rogue",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cddb63d6-8ecb-491c-877b-1fbcb636ac36",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Scoundrel\t",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "be1ed53d-9a40-41d1-bc22-d2271eaa1500",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8f87a087-1d6d-46fe-8c2f-6d8788be0ea5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d2c685e9-0d86-407c-84f8-822333b44085",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f86e73fa-d812-42a6-9ec3-b0d7e1f278df",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "f03ab771-5eb4-431e-9e83-f1f6f34f99fe",
+          "panels": [
+            {
+              "blueprint_panel_id": "37d84b54-1cf9-447f-af79-d9ef61115b36",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da1ff3e4-6c8c-4e2b-89f6-cb3b93688450",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "abc6882b-0eca-492d-8afb-074e8e19d8cd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a209b8a2-a59e-4cb8-9260-92488e6925c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "73383841-4c04-44a7-aa00-0f97a93143de",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f4b40472-69bc-411a-9603-b28da7d99158",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b6d98cad-195e-4e91-9537-eb28c5760b69",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "7645bdb3-0230-4291-a97c-178b12a6e610",
+          "panels": [
+            {
+              "blueprint_panel_id": "8b80b132-bb75-4f1d-b9a1-4e626e6bee24",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/jedi.jpg"
+              }
+            },
+            {
+              "blueprint_panel_id": "284a6f93-b06b-4f72-8638-87f236039d78",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "5",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ce5d27fc-6dcd-4e2b-85d9-80c89f72fa69",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "8",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "faf6de7a-aa63-4f70-8210-db197a81f63a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "7f4a9c9f-29fb-4514-9106-4d2ac42a8365",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3e9a1021-1f03-4a89-9d3f-5bf993d76841",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/moebius-star}: (+1) for each insight at your location.\n",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c368189a-49a4-40ce-bf2c-54d329d8d967",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9bf776cc-6028-4f3c-87e3-5b7569f06c04",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarsjedisymbol2",
+                "color_tint": "#21BCF3FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "6a61ec22-fd37-4fc9-833e-164526684780",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Force Sensitive",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cddb63d6-8ecb-491c-877b-1fbcb636ac36",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Padawan",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "be1ed53d-9a40-41d1-bc22-d2271eaa1500",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8f87a087-1d6d-46fe-8c2f-6d8788be0ea5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d2c685e9-0d86-407c-84f8-822333b44085",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f86e73fa-d812-42a6-9ec3-b0d7e1f278df",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "f03ab771-5eb4-431e-9e83-f1f6f34f99fe",
+          "panels": [
+            {
+              "blueprint_panel_id": "37d84b54-1cf9-447f-af79-d9ef61115b36",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "da1ff3e4-6c8c-4e2b-89f6-cb3b93688450",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "abc6882b-0eca-492d-8afb-074e8e19d8cd",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a209b8a2-a59e-4cb8-9260-92488e6925c2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "73383841-4c04-44a7-aa00-0f97a93143de",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f4b40472-69bc-411a-9603-b28da7d99158",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

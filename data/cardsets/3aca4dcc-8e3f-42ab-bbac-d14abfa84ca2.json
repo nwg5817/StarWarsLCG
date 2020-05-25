@@ -1,0 +1,1616 @@
+{
+  "version": 2.12,
+  "cardset_id": "3aca4dcc-8e3f-42ab-bbac-d14abfa84ca2",
+  "name": "New CardSet",
+  "blueprint_id": "9b4b22b3-c13b-4243-8f55-ee9eade81176",
+  "hint_order_index": 16,
+  "cards": [
+    {
+      "card_id": "d99a2a45-b51e-47c3-9826-414c355b8750",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "8fd899db-eb27-4bb9-a1d9-ded95b3e4820",
+          "panels": [
+            {
+              "blueprint_panel_id": "54b133ba-29fb-4516-8250-15de1d82f422",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Common domesticated species of creatures found throughout the galaxy.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a3800a1c-e369-4138-ab01-a049ff60ea97",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0578902c-365c-4354-ad94-00250d75d7eb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "671d58d0-ce5f-485b-9b71-99f396d7e2b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "830d5392-256e-4a71-b012-8276c994ef5e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "39af32d0-1830-4f18-b4c1-1b58d81dba4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b9e47acd-a9fb-4eb9-93b8-75627d8230da",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f28d5dab-67c2-44d1-a0e8-90347eea0f2b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Common. Livestock.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ad39ca9f-9dff-4559-868d-8a8d0b8fae89",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/animals.jpg",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc638abe-b8ef-4c57-9055-4bbf5084fd50",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsheavy}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "11ba7638-b217-4961-87dc-cdf03905b2ee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Animals",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "8a31334e-d2fd-4bf2-b59c-5d3e9e496c36",
+          "panels": [
+            {
+              "blueprint_panel_id": "cdc1c1ba-f5c9-47de-aa98-f7514f65bd0b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "e636ead6-a023-429b-9e06-620f7563b2a1",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "8fd899db-eb27-4bb9-a1d9-ded95b3e4820",
+          "panels": [
+            {
+              "blueprint_panel_id": "54b133ba-29fb-4516-8250-15de1d82f422",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Rare, exotic species of creatures found throughout the galaxy.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a3800a1c-e369-4138-ab01-a049ff60ea97",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0578902c-365c-4354-ad94-00250d75d7eb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "671d58d0-ce5f-485b-9b71-99f396d7e2b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "830d5392-256e-4a71-b012-8276c994ef5e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "39af32d0-1830-4f18-b4c1-1b58d81dba4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b9e47acd-a9fb-4eb9-93b8-75627d8230da",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f28d5dab-67c2-44d1-a0e8-90347eea0f2b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Exotic. Livestock.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ad39ca9f-9dff-4559-868d-8a8d0b8fae89",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/YsalamiriEGttF.jpg",
+                "offset": "0.00169, -0.397",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc638abe-b8ef-4c57-9055-4bbf5084fd50",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsheavy}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "11ba7638-b217-4961-87dc-cdf03905b2ee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Animals",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "8a31334e-d2fd-4bf2-b59c-5d3e9e496c36",
+          "panels": [
+            {
+              "blueprint_panel_id": "cdc1c1ba-f5c9-47de-aa98-f7514f65bd0b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "fbc6637c-8e0a-47da-b74c-3816cadfda0b",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "8fd899db-eb27-4bb9-a1d9-ded95b3e4820",
+          "panels": [
+            {
+              "blueprint_panel_id": "54b133ba-29fb-4516-8250-15de1d82f422",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "A rare piece of art.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a3800a1c-e369-4138-ab01-a049ff60ea97",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0578902c-365c-4354-ad94-00250d75d7eb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "671d58d0-ce5f-485b-9b71-99f396d7e2b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "830d5392-256e-4a71-b012-8276c994ef5e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "39af32d0-1830-4f18-b4c1-1b58d81dba4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b9e47acd-a9fb-4eb9-93b8-75627d8230da",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f28d5dab-67c2-44d1-a0e8-90347eea0f2b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Exotic.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ad39ca9f-9dff-4559-868d-8a8d0b8fae89",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/art.jpg",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc638abe-b8ef-4c57-9055-4bbf5084fd50",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsheavy}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "11ba7638-b217-4961-87dc-cdf03905b2ee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Art",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "8a31334e-d2fd-4bf2-b59c-5d3e9e496c36",
+          "panels": [
+            {
+              "blueprint_panel_id": "cdc1c1ba-f5c9-47de-aa98-f7514f65bd0b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "6dd2433f-a9eb-4d95-816b-c681286ee2e1",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "8fd899db-eb27-4bb9-a1d9-ded95b3e4820",
+          "panels": [
+            {
+              "blueprint_panel_id": "54b133ba-29fb-4516-8250-15de1d82f422",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Bacta is a thick, gelatinous substance with seemingly magical healing properties. It helps the body regrow tissue, including nerves, skin, and muscles.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a3800a1c-e369-4138-ab01-a049ff60ea97",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0578902c-365c-4354-ad94-00250d75d7eb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "671d58d0-ce5f-485b-9b71-99f396d7e2b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "830d5392-256e-4a71-b012-8276c994ef5e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "39af32d0-1830-4f18-b4c1-1b58d81dba4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b9e47acd-a9fb-4eb9-93b8-75627d8230da",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f28d5dab-67c2-44d1-a0e8-90347eea0f2b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Exotic.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ad39ca9f-9dff-4559-868d-8a8d0b8fae89",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/bacta.png",
+                "fit_mode": "stretch",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc638abe-b8ef-4c57-9055-4bbf5084fd50",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsheavy}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "11ba7638-b217-4961-87dc-cdf03905b2ee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Bacta",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "8a31334e-d2fd-4bf2-b59c-5d3e9e496c36",
+          "panels": [
+            {
+              "blueprint_panel_id": "cdc1c1ba-f5c9-47de-aa98-f7514f65bd0b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "771cf9b2-970c-4cfe-a22b-b169ac71122d",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "8fd899db-eb27-4bb9-a1d9-ded95b3e4820",
+          "panels": [
+            {
+              "blueprint_panel_id": "54b133ba-29fb-4516-8250-15de1d82f422",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Droids are mechanical beings that possessed artificial intelligence. They are used in a variety of roles and environments, often those considered too menial or too dangerous for other species, but also in fields that require extensive specialization and knowledge.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a3800a1c-e369-4138-ab01-a049ff60ea97",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0578902c-365c-4354-ad94-00250d75d7eb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "671d58d0-ce5f-485b-9b71-99f396d7e2b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "830d5392-256e-4a71-b012-8276c994ef5e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "39af32d0-1830-4f18-b4c1-1b58d81dba4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b9e47acd-a9fb-4eb9-93b8-75627d8230da",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f28d5dab-67c2-44d1-a0e8-90347eea0f2b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Droids.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ad39ca9f-9dff-4559-868d-8a8d0b8fae89",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/droids.jpg",
+                "fit_mode": "stretch",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc638abe-b8ef-4c57-9055-4bbf5084fd50",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsheavy}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "11ba7638-b217-4961-87dc-cdf03905b2ee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Droids",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "8a31334e-d2fd-4bf2-b59c-5d3e9e496c36",
+          "panels": [
+            {
+              "blueprint_panel_id": "cdc1c1ba-f5c9-47de-aa98-f7514f65bd0b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "4931fcb4-e0b4-4e8b-b83a-85e959b33cf3",
+      "amount": 3,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "8fd899db-eb27-4bb9-a1d9-ded95b3e4820",
+          "panels": [
+            {
+              "blueprint_panel_id": "54b133ba-29fb-4516-8250-15de1d82f422",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Common food found throughout the galaxy.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a3800a1c-e369-4138-ab01-a049ff60ea97",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0578902c-365c-4354-ad94-00250d75d7eb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "671d58d0-ce5f-485b-9b71-99f396d7e2b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "830d5392-256e-4a71-b012-8276c994ef5e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "39af32d0-1830-4f18-b4c1-1b58d81dba4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b9e47acd-a9fb-4eb9-93b8-75627d8230da",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f28d5dab-67c2-44d1-a0e8-90347eea0f2b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Food.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ad39ca9f-9dff-4559-868d-8a8d0b8fae89",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/foodstuffs.jpg",
+                "fit_mode": "stretch",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc638abe-b8ef-4c57-9055-4bbf5084fd50",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsheavy}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "11ba7638-b217-4961-87dc-cdf03905b2ee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Foodstuffs",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "8a31334e-d2fd-4bf2-b59c-5d3e9e496c36",
+          "panels": [
+            {
+              "blueprint_panel_id": "cdc1c1ba-f5c9-47de-aa98-f7514f65bd0b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "f61159c9-00cd-4fa2-b796-f73dbd0ef545",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "8fd899db-eb27-4bb9-a1d9-ded95b3e4820",
+          "panels": [
+            {
+              "blueprint_panel_id": "54b133ba-29fb-4516-8250-15de1d82f422",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Starships are powered by Rhydonium, a volatile fuel found on the planet Abafar.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a3800a1c-e369-4138-ab01-a049ff60ea97",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0578902c-365c-4354-ad94-00250d75d7eb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "671d58d0-ce5f-485b-9b71-99f396d7e2b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "830d5392-256e-4a71-b012-8276c994ef5e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "39af32d0-1830-4f18-b4c1-1b58d81dba4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b9e47acd-a9fb-4eb9-93b8-75627d8230da",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f28d5dab-67c2-44d1-a0e8-90347eea0f2b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Fuel.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ad39ca9f-9dff-4559-868d-8a8d0b8fae89",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/fuel.jpg",
+                "fit_mode": "stretch",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc638abe-b8ef-4c57-9055-4bbf5084fd50",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsheavy}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "11ba7638-b217-4961-87dc-cdf03905b2ee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Starship Fuel",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "8a31334e-d2fd-4bf2-b59c-5d3e9e496c36",
+          "panels": [
+            {
+              "blueprint_panel_id": "cdc1c1ba-f5c9-47de-aa98-f7514f65bd0b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "e5f83b59-dac9-40ba-9fa6-d942aee18743",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "8fd899db-eb27-4bb9-a1d9-ded95b3e4820",
+          "panels": [
+            {
+              "blueprint_panel_id": "54b133ba-29fb-4516-8250-15de1d82f422",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "A collection of rare and exotic gemstones from throughout the galaxy.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a3800a1c-e369-4138-ab01-a049ff60ea97",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0578902c-365c-4354-ad94-00250d75d7eb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "5",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "671d58d0-ce5f-485b-9b71-99f396d7e2b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "830d5392-256e-4a71-b012-8276c994ef5e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "39af32d0-1830-4f18-b4c1-1b58d81dba4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b9e47acd-a9fb-4eb9-93b8-75627d8230da",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f28d5dab-67c2-44d1-a0e8-90347eea0f2b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Exotic.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ad39ca9f-9dff-4559-868d-8a8d0b8fae89",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Gem Run graphic.PNG",
+                "fit_mode": "stretch",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc638abe-b8ef-4c57-9055-4bbf5084fd50",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsheavy}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "11ba7638-b217-4961-87dc-cdf03905b2ee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Gems",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "8a31334e-d2fd-4bf2-b59c-5d3e9e496c36",
+          "panels": [
+            {
+              "blueprint_panel_id": "cdc1c1ba-f5c9-47de-aa98-f7514f65bd0b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "70464b4b-d300-4b47-8f41-48447cdb439a",
+      "amount": 2,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "8fd899db-eb27-4bb9-a1d9-ded95b3e4820",
+          "panels": [
+            {
+              "blueprint_panel_id": "54b133ba-29fb-4516-8250-15de1d82f422",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Equipment destined to one of the many heavy operations throughout the galaxy.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a3800a1c-e369-4138-ab01-a049ff60ea97",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0578902c-365c-4354-ad94-00250d75d7eb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "671d58d0-ce5f-485b-9b71-99f396d7e2b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "830d5392-256e-4a71-b012-8276c994ef5e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "39af32d0-1830-4f18-b4c1-1b58d81dba4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b9e47acd-a9fb-4eb9-93b8-75627d8230da",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f28d5dab-67c2-44d1-a0e8-90347eea0f2b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Common.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ad39ca9f-9dff-4559-868d-8a8d0b8fae89",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/IW-37.jpg",
+                "fit_mode": "fit",
+                "offset": "0.00169, -0.2543",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc638abe-b8ef-4c57-9055-4bbf5084fd50",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsheavy}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "11ba7638-b217-4961-87dc-cdf03905b2ee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Machinery",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "8a31334e-d2fd-4bf2-b59c-5d3e9e496c36",
+          "panels": [
+            {
+              "blueprint_panel_id": "cdc1c1ba-f5c9-47de-aa98-f7514f65bd0b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "7422d646-a503-4ca6-9bed-e5ab65b01a10",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "8fd899db-eb27-4bb9-a1d9-ded95b3e4820",
+          "panels": [
+            {
+              "blueprint_panel_id": "54b133ba-29fb-4516-8250-15de1d82f422",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Luxury items, affordable only to the elite. ",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a3800a1c-e369-4138-ab01-a049ff60ea97",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0578902c-365c-4354-ad94-00250d75d7eb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "5",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "671d58d0-ce5f-485b-9b71-99f396d7e2b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "830d5392-256e-4a71-b012-8276c994ef5e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "39af32d0-1830-4f18-b4c1-1b58d81dba4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b9e47acd-a9fb-4eb9-93b8-75627d8230da",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f28d5dab-67c2-44d1-a0e8-90347eea0f2b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Rare.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ad39ca9f-9dff-4559-868d-8a8d0b8fae89",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/thronechair.jpg",
+                "fit_mode": "fit",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc638abe-b8ef-4c57-9055-4bbf5084fd50",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsheavy}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "11ba7638-b217-4961-87dc-cdf03905b2ee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Luxury Items",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "8a31334e-d2fd-4bf2-b59c-5d3e9e496c36",
+          "panels": [
+            {
+              "blueprint_panel_id": "cdc1c1ba-f5c9-47de-aa98-f7514f65bd0b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "cbf9e18a-a9af-4d01-807a-412e1520d208",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "8fd899db-eb27-4bb9-a1d9-ded95b3e4820",
+          "panels": [
+            {
+              "blueprint_panel_id": "54b133ba-29fb-4516-8250-15de1d82f422",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "A collection of lightsaber crystals.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a3800a1c-e369-4138-ab01-a049ff60ea97",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0578902c-365c-4354-ad94-00250d75d7eb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "671d58d0-ce5f-485b-9b71-99f396d7e2b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "830d5392-256e-4a71-b012-8276c994ef5e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "39af32d0-1830-4f18-b4c1-1b58d81dba4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b9e47acd-a9fb-4eb9-93b8-75627d8230da",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f28d5dab-67c2-44d1-a0e8-90347eea0f2b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Exotic.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ad39ca9f-9dff-4559-868d-8a8d0b8fae89",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/sabercrystals.jpg",
+                "fit_mode": "stretch",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc638abe-b8ef-4c57-9055-4bbf5084fd50",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsheavy}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "11ba7638-b217-4961-87dc-cdf03905b2ee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Lightsaber Crystals",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "8a31334e-d2fd-4bf2-b59c-5d3e9e496c36",
+          "panels": [
+            {
+              "blueprint_panel_id": "cdc1c1ba-f5c9-47de-aa98-f7514f65bd0b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "2f875ef5-abe1-4b31-95bd-0f2a36e04976",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "8fd899db-eb27-4bb9-a1d9-ded95b3e4820",
+          "panels": [
+            {
+              "blueprint_panel_id": "54b133ba-29fb-4516-8250-15de1d82f422",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Spice is the name for a type of illicit substance or substances in demand throughout the galaxy.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a3800a1c-e369-4138-ab01-a049ff60ea97",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0578902c-365c-4354-ad94-00250d75d7eb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "5",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "671d58d0-ce5f-485b-9b71-99f396d7e2b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "830d5392-256e-4a71-b012-8276c994ef5e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "39af32d0-1830-4f18-b4c1-1b58d81dba4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b9e47acd-a9fb-4eb9-93b8-75627d8230da",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f28d5dab-67c2-44d1-a0e8-90347eea0f2b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Exotic.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ad39ca9f-9dff-4559-868d-8a8d0b8fae89",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/spice.png",
+                "fit_mode": "stretch",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc638abe-b8ef-4c57-9055-4bbf5084fd50",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsheavy}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "11ba7638-b217-4961-87dc-cdf03905b2ee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Spice",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "8a31334e-d2fd-4bf2-b59c-5d3e9e496c36",
+          "panels": [
+            {
+              "blueprint_panel_id": "cdc1c1ba-f5c9-47de-aa98-f7514f65bd0b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

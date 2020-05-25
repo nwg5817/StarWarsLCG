@@ -1,0 +1,134 @@
+{
+  "version": 2.12,
+  "cardset_id": "a6fbe064-4468-4338-8c36-38830134e3a2",
+  "name": "Act",
+  "blueprint_id": "15604cf9-d51d-4b95-958c-5d382e82074e",
+  "hint_order_index": 2,
+  "cards": [
+    {
+      "card_id": "c751e467-a31d-4a2f-8aad-f5fb0ca12e20",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "5331e8a6-43fd-4991-8db6-745336bc78a3",
+          "panels": [
+            {
+              "blueprint_panel_id": "24a3eb12-0707-4e66-9810-9fcf475c53bd",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "2{Body&Actions/person}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "705685d5-9cf4-449a-bf3c-480aa45400e9",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "You’re not sure what’s just happened, but you know it can’t be good. You’d better check the navicomp fast – you’ve got a bad feeling about this.\n\n\n<b>Objective</b> - When the captain or co-pilot takes the <b>Pilot</b> action, Advance.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "48b54414-34eb-4032-9931-98d33597b94b",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "Flying through hyperspace ain't like dusting crops.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "57ee35ed-b2b4-4930-854b-16d24e387e86",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "7aa0ea86-450d-437e-8129-fa83ce801e46",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "<size=14></size>Act 1a",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3dc702b2-b362-4073-883b-54d0a5c34fb4",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "https://ak.picdn.net/shutterstock/videos/13044845/thumb/4.jpg"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "8fcab6c4-2d69-4a3c-b715-10cdb6d98b6a",
+          "panels": [
+            {
+              "blueprint_panel_id": "b8727255-9631-4ac6-9c80-c54277f5c280",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "Put into play 8 blue space locations.\n\nXXXX\nXXXX\nXXPX",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "15f11e9e-2ac4-4e61-8b10-c415beb46720",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "<i>You notice that the starlines are no longer streaking by – you’ve dropped into realspace. This shouldn’t happen! There are no planets nearby.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c2e8896e-3954-48d2-9954-0f29aa7fb0f8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Flying through hyperspace ain't like dusting crops.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "145acf1e-c3c9-47cb-8de9-cc998452d77e",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "95559ddf-7de9-4610-a79e-26eaab53c1d9",
+              "rotation": 270,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

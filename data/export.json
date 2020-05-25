@@ -1,0 +1,13 @@
+{
+  "version": 2.12,
+  "image_format": "jpg",
+  "image_height": 1024,
+  "image_dpi": 4,
+  "paper_size": "isoa4",
+  "paper_landscape": false,
+  "scale_override": 1.0,
+  "card_spacing": 5,
+  "export_images": true,
+  "export_pdf": true,
+  "export_tts": true
+}

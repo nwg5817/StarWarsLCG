@@ -1,0 +1,65 @@
+{
+  "version": 2.12,
+  "cardset_id": "46681106-680f-428d-820e-16a003acea1b",
+  "name": "Action Card",
+  "blueprint_id": "a365f666-87b1-4462-b8ab-788fca69fb8a",
+  "hint_order_index": 10,
+  "cards": [
+    {
+      "card_id": "6ab0dd72-10a0-456d-81ac-a0479f2661cb",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "e06227c2-b476-471a-ac9e-53440b7daff5",
+          "panels": [
+            {
+              "blueprint_panel_id": "a5cbe1d5-1ccb-42d8-8f2a-cdaf8fdbe821",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Each player ship may take up to three actions during their turn. The pilot actions that may be taken are:\n\n{Weapons/bottom-right-3d-arrow} <b>Draw</b> 1 card or gain 1 <b>resource</b>.\n{Weapons/bottom-right-3d-arrow} <b>Play</b> an event or asset card from your hand. \n<i>(Fast cards do not cost an action to play.)</i>\n{Weapons/bottom-right-3d-arrow} <b>Activate</b> an {Weapons/bottom-right-3d-arrow}  ability on a card.\n{Weapons/bottom-right-3d-arrow} <b>Move</b> to a connecting quadrant.\n{Weapons/bottom-right-3d-arrow} <b>Scan</b> a card with your ship's {Abstract/rss_(1)} value.\n{Weapons/bottom-right-3d-arrow} <b>Fight</b> or <b>Engage</b> an enemy in your quadrant or a capital ship at your sector.\n{Weapons/bottom-right-3d-arrow}  Attempt to <b>Evade</b> a <b>Dogfight</b> engaged with you.\n\n{Nature/power-lightning} or {Other/rapidshare_arrow} card abilities do not cost an action to activate.\n\nIf you are engaged in a <b>Dogfight</b> with an enemy and spend an action to do anything other than <b>Fight</b>, <b>Evade</b>, or activate a <b>Parley</b> or <b>Resign</b> ability, each enemy engaged with you makes an attack of opportunity.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1fff1e05-578e-4f5e-9409-cf074e98fb8a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Pilot Actions",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "e724cdcc-22be-4016-b088-26bc5e884dd6",
+          "panels": [
+            {
+              "blueprint_panel_id": "af055910-5d39-4ea1-aac8-f734eaa871e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "01532f2c-0740-4ba2-996d-1bb5b37dacb3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

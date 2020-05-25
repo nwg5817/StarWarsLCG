@@ -1,0 +1,207 @@
+{
+  "version": 2.12,
+  "cardset_id": "9bca4763-7bae-4c29-af34-9a4d857231c2",
+  "name": "Crawl",
+  "blueprint_id": "c9a633af-71da-49ed-9eec-38066b07ef21",
+  "hint_order_index": 3,
+  "cards": [
+    {
+      "card_id": "e60be7ba-45f8-4b62-b1d4-ed510006b76f",
+      "amount": 0,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "6d0859e1-cecf-4789-9583-b34708b85d2f",
+          "panels": [
+            {
+              "blueprint_panel_id": "994a6bfa-1b5c-4102-b506-f155126b0e5d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Every spaceport in the galaxy has news of the Galactic Republic's strike on Geonosis. Unfortunately for the CIS, many privateers have taken the risk to loot the battle field. The space around Geonosis is well patrolled and many ships have been destroyed. \n\nThe players have chartered a ship to Geonosis, landing on the planet in the hopes of hitting the jackpot. \n\nDecide amongst the group who will take a {Body&Actions/ba5_read}(4) test.\n\nIf successful, the group learns that Geonosis' space is littered with junk and debris. It might be possible to avoid detection navigating a junk field.\n\nElse, Nothing Happens...\n\n",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a8d8f20-3e4c-4683-9c85-5d1ff0b5a8bb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Creatures/cm7_crossed_slashes}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4d610397-0785-45f6-92cb-a6c40d2748ee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Operation: Heist",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "90013f45-04e7-4d5f-913c-26129871d8a3",
+          "panels": [
+            {
+              "blueprint_panel_id": "b9c2a5c6-7f63-490f-8711-8319cdfbd910",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1ace09a0-344e-4b4d-9a56-57d2d332af4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "65b776cf-64e0-4762-b553-dff24e62c0f8",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "6d0859e1-cecf-4789-9583-b34708b85d2f",
+          "panels": [
+            {
+              "blueprint_panel_id": "994a6bfa-1b5c-4102-b506-f155126b0e5d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "The galaxy is in turmoil. While the GALACTIC REPUBLIC struggles to defeat the SEPERATISTS, countless individuals find themselves caught in the middle.\n\nIn the deep reaches of the OUTER RIM, a group of spacers travel from job to job, trying to make their way in a galaxy at war.\n\nLittle do they know that they are about to become a vital part of that war as they pursue the secrets of the BENDU'S SHADOW..\n\n\nThe players find themselves pulled out of hyperspace abruptly.\n\nPlay the game.\n\n",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a8d8f20-3e4c-4683-9c85-5d1ff0b5a8bb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4d610397-0785-45f6-92cb-a6c40d2748ee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "THE BENDU'S SHADOW",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "90013f45-04e7-4d5f-913c-26129871d8a3",
+          "panels": [
+            {
+              "blueprint_panel_id": "b9c2a5c6-7f63-490f-8711-8319cdfbd910",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1ace09a0-344e-4b4d-9a56-57d2d332af4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "deb88356-1248-49d8-a6f5-17e2040e057d",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "6d0859e1-cecf-4789-9583-b34708b85d2f",
+          "panels": [
+            {
+              "blueprint_panel_id": "994a6bfa-1b5c-4102-b506-f155126b0e5d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "You hear a broadcast over your ship’s comm system:\n\"Attention, new vessel. This is the Republic frigate Adoran Sunrise. We are protecting a medical station caring for victims from the Separist attack on the Ryloth colonies. We've managed to hold them off, but we won't last forever. \nPlease help!\"\n\n\nThe players must decide (choose one):\n\n- \"Forget that!\" Flip this card back over, exhausted and unengaged. For the remainder of the scenario, you cannot parley with Republic ship. (Note in the campaign log \"It's not our fight\".\n\n- \"We'll do what we can.\" Remove the location card for Republic ship and replace with set aside medical station.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3a8d8f20-3e4c-4683-9c85-5d1ff0b5a8bb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4d610397-0785-45f6-92cb-a6c40d2748ee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Communications A-1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "90013f45-04e7-4d5f-913c-26129871d8a3",
+          "panels": [
+            {
+              "blueprint_panel_id": "b9c2a5c6-7f63-490f-8711-8319cdfbd910",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1ace09a0-344e-4b4d-9a56-57d2d332af4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
