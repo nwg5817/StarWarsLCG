@@ -6,19 +6,24 @@
   "hint_order_index": 6,
   "cards": [
     {
-      "card_id": "64c9bca5-7dff-4fbe-9f33-f60d8d4ba52c",
+      "card_id": "dddc2454-c218-47c2-9487-ed2b8e54f091",
       "amount": 1,
       "front_layers": [
         {
           "blueprint_layer_id": "c001572e-0275-488d-b03f-5f8ab8f3f240",
           "panels": [
             {
-              "blueprint_panel_id": "d4267302-88e0-4c66-9a60-f8e6449f88cf",
+              "blueprint_panel_id": "3c215247-c97c-49e5-928c-1598f556fb6e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "2c9a2ee9-2423-41f2-aba1-36c8841eb3be",
               "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/yt1000.png",
-                "fit_mode": "stretch"
+                "uri": "%PROJECT%/Barloz-class_freighter.png",
+                "fit_mode": "stretch",
+                "offset": "0.1993525, -0.02120451"
               }
             },
             {
@@ -26,7 +31,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "3",
+                "text": "2",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -46,7 +51,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "8",
+                "text": "9",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -66,7 +71,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<b>Hyperdrive:</b> Primary: Class 3, Backup: Class 16.\n<b>Navicomputer</b>: Yes.\n<b>Sensor Range</b>: Short.\n<b>Ship's Complement:</b> 1 Pilot, 1 Co-Pilot/Engineer.\n<b>Passenger Capacity:</b> 4",
+                "text": "{StarWars/starwarssuccess}: (+1) for each insight at your location.\n\n\n<b>Weaponry</b>:{Abstract/plain-circle}Light Laser Cannon. (Dorsal Turret)\n<b>Sensor systems</b>: Simple sensor suite\n<b>Hyperdrive</b>:{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}Class 2\n<b>Sensor Range</b>: Short.\n<b>Ship's Complement:</b> 1 Pilot, 1 Co-Pilot/Engineer.\n<b>Passenger Capacity:</b> 4",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -95,7 +100,557 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "15",
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4da79c27-3373-4a77-bdcb-7f2bf66486fa",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Medium Freighter",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d080b6a0-cd8d-445f-865c-7c5a0eedf60a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Barloz-Class",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "083b7a42-0c5b-4c92-add9-3cfc9add5cf3",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/abstract-049",
+                "color_tint": "#2196F3FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "b03d583d-366b-4203-a9db-e31476ac403e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8c09b9b9-aecc-4db0-b000-6c3ee2e69ae9",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/rss_(1)",
+                "color_tint": "#C600FFFF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "30c2e65a-0f3a-4dee-8ffd-f24080741ad6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "95e80387-5902-4709-8c8e-db13837330b7",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/target_laser",
+                "color_tint": "#BF131FFF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "233fe564-1387-4d13-94be-e42fd7b7fc7e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "70e8c21b-226d-4202-9f60-2a0f84854e38",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "1",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "0f5bad6a-9563-4c93-84be-67807604515d",
+          "panels": [
+            {
+              "blueprint_panel_id": "9a93f9b3-6fe3-49e8-a23e-65596df704a3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Hyperdrive:</b> Primary: Class 3, Backup: Class 16.\n<b>Navicomputer</b>: Yes.\n<b>Sensor Range</b>: Short.\n<b>Ship's Complement:</b> 1 Pilot, 1 Co-Pilot/Engineer.\n<b>Passenger Capacity:</b> 4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2013a765-424b-4649-94ac-577cf4c1564e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "6457967a-a337-46a6-99b8-f03289cf1d7a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "04ccece1-33a6-4203-aa3f-d8a1c5dac3a1",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "094554b1-d865-4c6a-929f-ed06bc27687b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "fd4d82fd-a549-46c0-a12d-44a2c8670426",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "3337f057-dc68-402b-9a47-87f295ae7b95",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "c001572e-0275-488d-b03f-5f8ab8f3f240",
+          "panels": [
+            {
+              "blueprint_panel_id": "3c215247-c97c-49e5-928c-1598f556fb6e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "2c9a2ee9-2423-41f2-aba1-36c8841eb3be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/9c9b7d36277f418fe89756035cd7a178.jpg",
+                "fit_mode": "stretch"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc340ca6-777b-4210-9133-04fb25ca3e82",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "0",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "55846b98-33ff-4e66-bb45-b6e3293dabf8",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Weapons/bordered-shield",
+                "color_tint": "#FF0000FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "e7dcdfe0-547c-41f4-a9c4-3ac3df71879b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8621f92d-e8c0-42ed-acae-204d28c95d2d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "The YT-1760 was released with no weapons and no combat shields, and its hull was less sturdy. Fortunately, the YT-1760, like all ships of its line, can be easily modified and personalized to its owner’s needs.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "85f288f4-0a16-4438-99a8-ac1960b64174",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarssuccess}: (+1) for each insight at your location.\n\n\n<b>Weaponry</b>: None\n<b>Sensor systems</b>: Basic sensor suite\n<b>Hyperdrive</b>:{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/abstract-016}Class 1\n<b>Sensor Range</b>: Short.\n<b>Ship's Complement:</b> 1 Pilot, 1 Co-Pilot/Engineer.\n<b>Passenger Capacity:</b> 8",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f8af681a-ebdf-4232-bc25-d2fabd35c43a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Light Freighter",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0cbe9b77-db74-46e9-8ff0-144d2840a047",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8d88811f-4905-45c2-97d4-9866c641a3bf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "5",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4da79c27-3373-4a77-bdcb-7f2bf66486fa",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Small Transport",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d080b6a0-cd8d-445f-865c-7c5a0eedf60a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "YT-1760",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "083b7a42-0c5b-4c92-add9-3cfc9add5cf3",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/abstract-049",
+                "color_tint": "#2196F3FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "b03d583d-366b-4203-a9db-e31476ac403e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8c09b9b9-aecc-4db0-b000-6c3ee2e69ae9",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/rss_(1)",
+                "color_tint": "#C600FFFF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "30c2e65a-0f3a-4dee-8ffd-f24080741ad6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "95e80387-5902-4709-8c8e-db13837330b7",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/target_laser",
+                "color_tint": "#BF131FFF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "233fe564-1387-4d13-94be-e42fd7b7fc7e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "70e8c21b-226d-4202-9f60-2a0f84854e38",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "5",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "0f5bad6a-9563-4c93-84be-67807604515d",
+          "panels": [
+            {
+              "blueprint_panel_id": "9a93f9b3-6fe3-49e8-a23e-65596df704a3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Hyperdrive:</b> Primary: Class 3, Backup: Class 16.\n<b>Navicomputer</b>: Yes.\n<b>Sensor Range</b>: Short.\n<b>Ship's Complement:</b> 1 Pilot, 1 Co-Pilot/Engineer.\n<b>Passenger Capacity:</b> 4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2013a765-424b-4649-94ac-577cf4c1564e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "6457967a-a337-46a6-99b8-f03289cf1d7a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "04ccece1-33a6-4203-aa3f-d8a1c5dac3a1",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "094554b1-d865-4c6a-929f-ed06bc27687b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "fd4d82fd-a549-46c0-a12d-44a2c8670426",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "64c9bca5-7dff-4fbe-9f33-f60d8d4ba52c",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "c001572e-0275-488d-b03f-5f8ab8f3f240",
+          "panels": [
+            {
+              "blueprint_panel_id": "3c215247-c97c-49e5-928c-1598f556fb6e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9f261ab5-1091-4bd3-928b-70ba90f78ff6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FCAD24FF>{Other/person-in-bed}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "1cfb0633-ae88-4a26-99bf-a539f1b78afc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#42DD42FF>{Abstract/abstract-031}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "c8010ba1-a68f-440e-9222-adf67b044024",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Cinema/afterburn}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "7d6c3b1e-4b5d-449f-9fa8-1d9599b00007",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Machine/circuitry}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "fd4f0d94-d99c-444f-83a4-aa629bbde3fc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#C600FFFF>{Abstract/aquarius}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "2c9a2ee9-2423-41f2-aba1-36c8841eb3be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/yt1000.png",
+                "fit_mode": "stretch"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc340ca6-777b-4210-9133-04fb25ca3e82",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "55846b98-33ff-4e66-bb45-b6e3293dabf8",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Weapons/bordered-shield",
+                "color_tint": "#FF0000FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "e7dcdfe0-547c-41f4-a9c4-3ac3df71879b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "7",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8621f92d-e8c0-42ed-acae-204d28c95d2d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Prior to the introduction of the YT-1300, this light freighter was widely popular. The cargo hold is modular and the facilities are serviceable for the ship of this class. It remains a great choice for those in the Outer Rim, at a great price.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "85f288f4-0a16-4438-99a8-ac1960b64174",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarssuccess}: (+1) for each insight at your location.\n\n\n<b>Weaponry</b>:{Abstract/plain-circle}{Abstract/plain-circle} Twin Light Laser Cannon. (Dorsal Turret)\n<b>Sensor systems</b>: Simple sensor suite\n<b>Hyperdrive</b>:{Abstract/plain-circle} Class 3\n<b>Sensor Range</b>: Short.\n<b>Ship's Complement:</b> 1 Pilot, 1 Co-Pilot/Engineer.\n<b>Passenger Capacity:</b> 4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f8af681a-ebdf-4232-bc25-d2fabd35c43a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Light Freighter",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0cbe9b77-db74-46e9-8ff0-144d2840a047",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8d88811f-4905-45c2-97d4-9866c641a3bf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -134,7 +689,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "2",
+                "text": "3",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -184,7 +739,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "3",
+                "text": "2",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -263,7 +818,11 @@
           "blueprint_layer_id": "c001572e-0275-488d-b03f-5f8ab8f3f240",
           "panels": [
             {
-              "blueprint_panel_id": "d4267302-88e0-4c66-9a60-f8e6449f88cf",
+              "blueprint_panel_id": "3c215247-c97c-49e5-928c-1598f556fb6e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "2c9a2ee9-2423-41f2-aba1-36c8841eb3be",
               "rotation": 0,
               "type": "image",
               "data": {
@@ -276,7 +835,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "3",
+                "text": "2",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -316,7 +875,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<b>Hyperdrive:</b> Primary: Class 3, Backup: Class 16.\n<b>Navicomputer</b>: Yes.\n<b>Sensor Range</b>: Short.\n<b>Ship's Complement:</b> 1 Pilot, 1 Co-Pilot/Engineer.\n<b>Passenger Capacity:</b> 4",
+                "text": "{StarWars/starwarssuccess}: (+1) for each insight at your location.\n\n\n<b>Weaponry</b>:{Abstract/plain-circle}{Abstract/plain-circle}Medium Laser Cannon. (Dorsal Turret)\n<b>Hyperdrive</b>:{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}Class 2\n<b>Sensor Range</b>: Short.\n<b>Ship's Complement:</b> 1 Pilot, 1 Co-Pilot/Engineer.\n<b>Passenger Capacity:</b> 4",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -345,7 +904,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "18",
+                "text": "8",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -365,6 +924,261 @@
               "type": "text",
               "data": {
                 "text": "YT-1300",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "083b7a42-0c5b-4c92-add9-3cfc9add5cf3",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/abstract-049",
+                "color_tint": "#2196F3FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "b03d583d-366b-4203-a9db-e31476ac403e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8c09b9b9-aecc-4db0-b000-6c3ee2e69ae9",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Abstract/rss_(1)",
+                "color_tint": "#C600FFFF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "30c2e65a-0f3a-4dee-8ffd-f24080741ad6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "95e80387-5902-4709-8c8e-db13837330b7",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/target_laser",
+                "color_tint": "#BF131FFF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "233fe564-1387-4d13-94be-e42fd7b7fc7e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "70e8c21b-226d-4202-9f60-2a0f84854e38",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "0f5bad6a-9563-4c93-84be-67807604515d",
+          "panels": [
+            {
+              "blueprint_panel_id": "9a93f9b3-6fe3-49e8-a23e-65596df704a3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Hyperdrive:</b> Primary: Class 3, Backup: Class 16.\n<b>Navicomputer</b>: Yes.\n<b>Sensor Range</b>: Short.\n<b>Ship's Complement:</b> 1 Pilot, 1 Co-Pilot/Engineer.\n<b>Passenger Capacity:</b> 4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2013a765-424b-4649-94ac-577cf4c1564e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "6457967a-a337-46a6-99b8-f03289cf1d7a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "04ccece1-33a6-4203-aa3f-d8a1c5dac3a1",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "094554b1-d865-4c6a-929f-ed06bc27687b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "fd4d82fd-a549-46c0-a12d-44a2c8670426",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "5fee7342-ff9c-4269-94b5-27eae814f690",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "c001572e-0275-488d-b03f-5f8ab8f3f240",
+          "panels": [
+            {
+              "blueprint_panel_id": "3c215247-c97c-49e5-928c-1598f556fb6e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "2c9a2ee9-2423-41f2-aba1-36c8841eb3be",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Corellian_YT-1250_Freighter.png",
+                "fit_mode": "stretch",
+                "offset": "0.1993525, -0.02120451"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc340ca6-777b-4210-9133-04fb25ca3e82",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "55846b98-33ff-4e66-bb45-b6e3293dabf8",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Weapons/bordered-shield",
+                "color_tint": "#FF0000FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "e7dcdfe0-547c-41f4-a9c4-3ac3df71879b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "7",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8621f92d-e8c0-42ed-acae-204d28c95d2d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Prior to the introduction of the YT-1300, this light freighter was widely popular. The cargo hold is modular and the facilities are serviceable for the ship of this class. It remains a great choice for those in the Outer Rim, at a great price.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "85f288f4-0a16-4438-99a8-ac1960b64174",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarssuccess}: (+1) for each insight at your location.\n\n\n<b>Weaponry</b>:{Abstract/plain-circle}{Abstract/plain-circle}Twin Light Laser Cannon. (Dorsal Turret)\n<b>Sensor systems</b>: Sensor-laden boom\n<b>Hyperdrive</b>:{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}Class 2\n<b>Sensor Range</b>: Short.\n<b>Ship's Complement:</b> 1 Pilot, 1 Co-Pilot/Engineer.\n<b>Passenger Capacity:</b> 4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f8af681a-ebdf-4232-bc25-d2fabd35c43a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Light Freighter",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0cbe9b77-db74-46e9-8ff0-144d2840a047",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8d88811f-4905-45c2-97d4-9866c641a3bf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "10",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4da79c27-3373-4a77-bdcb-7f2bf66486fa",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d080b6a0-cd8d-445f-865c-7c5a0eedf60a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "YT-1210",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -404,7 +1218,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "3",
+                "text": "4",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }

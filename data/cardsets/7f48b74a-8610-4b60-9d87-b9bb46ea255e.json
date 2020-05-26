@@ -1,7 +1,7 @@
 {
   "version": 2.12,
   "cardset_id": "7f48b74a-8610-4b60-9d87-b9bb46ea255e",
-  "name": "New CardSet",
+  "name": "Locations - Space",
   "blueprint_id": "82469ddf-42c7-4496-bfc0-412b93c21e0e",
   "hint_order_index": 12,
   "cards": [
@@ -56,7 +56,7 @@
               "rotation": 270,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/spaceblue1.png",
+                "uri": "%PROJECT%/81f73dba-f140-4695-9c45-23bcbed955eb.png",
                 "tint": "#FFFFFFFF"
               }
             },
@@ -242,7 +242,7 @@
               "rotation": 270,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/spaceblue2.png",
+                "uri": "%PROJECT%/5fe4efcf-23eb-4e48-881b-fb82876304be.png",
                 "tint": "#FFFFFFFF"
               }
             },
@@ -429,7 +429,7 @@
               "rotation": 270,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/spaceblue3.png",
+                "uri": "%PROJECT%/570ad08f-3e3a-4bd4-9917-e0914a3cf1b5.png",
                 "tint": "#FFFFFFFF"
               }
             },
@@ -616,7 +616,7 @@
               "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/spaceblue11.png",
+                "uri": "%PROJECT%/3c7aed6e-947a-4c53-930f-511fb06d5060.png",
                 "tint": "#FFFFFFFF"
               }
             },
@@ -803,7 +803,7 @@
               "rotation": 270,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/spaceblue4.png",
+                "uri": "%PROJECT%/fe9efbcc-23c6-4d09-9ae5-1281b7f05af9.png",
                 "tint": "#FFFFFFFF"
               }
             },
@@ -987,10 +987,10 @@
             },
             {
               "blueprint_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
-              "rotation": 270,
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/spaceblue5.png",
+                "uri": "%PROJECT%/bcdeda95-c290-4c11-8bfe-4a738b708811.png",
                 "tint": "#FFFFFFFF"
               }
             },
@@ -1177,7 +1177,7 @@
               "rotation": 270,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/spaceblue6.png",
+                "uri": "%PROJECT%/97256267-2e2f-415a-8523-f9aba2ab24d2.png",
                 "tint": "#FFFFFFFF"
               }
             },
@@ -1363,7 +1363,7 @@
               "rotation": 270,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/spaceblue7.png",
+                "uri": "%PROJECT%/5f8f0a2e-a117-47be-8278-5c085f77a009.png",
                 "tint": "#FFFFFFFF"
               }
             },
@@ -1550,7 +1550,7 @@
               "rotation": 270,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/spaceblue8.png",
+                "uri": "%PROJECT%/e1e4e852-db51-4e28-9af0-2aa43de148db.png",
                 "tint": "#FFFFFFFF"
               }
             },
@@ -1738,7 +1738,7 @@
               "rotation": 270,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/spaceblue9.png",
+                "uri": "%PROJECT%/crabnebula.png",
                 "tint": "#FFFFFFFF"
               }
             },
@@ -1921,10 +1921,10 @@
             },
             {
               "blueprint_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
-              "rotation": 180,
+              "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/spaceblue13.png",
+                "uri": "%PROJECT%/3c54c985-26ca-4a44-b3aa-4a6fe973e84b.png",
                 "tint": "#FFFFFFFF"
               }
             },
@@ -2111,7 +2111,7 @@
               "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/spaceblue10.png",
+                "uri": "%PROJECT%/1896ac41-5087-4705-92be-49ae58ac7ef8.png",
                 "tint": "#FFFFFFFF"
               }
             },
@@ -2201,6 +2201,7 @@
               "rotation": 270,
               "type": "image",
               "data": {
+                "uri": "%PROJECT%/460dcffd-53d3-44bd-b5db-d80ff97829ea.png",
                 "fit_mode": "fitwidth",
                 "tint": "#FFFFFFFF"
               }
@@ -2299,7 +2300,7 @@
               "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/spaceblue12.png",
+                "uri": "%PROJECT%/460dcffd-53d3-44bd-b5db-d80ff97829ea.png",
                 "tint": "#FFFFFFFF"
               }
             },
@@ -2389,8 +2390,8 @@
               "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/spaceblue12.png",
-                "fit_mode": "fitwidth",
+                "uri": "%PROJECT%/460dcffd-53d3-44bd-b5db-d80ff97829ea.png",
+                "fit_mode": "fit",
                 "tint": "#FFFFFFFF"
               }
             },
@@ -2486,7 +2487,7 @@
               "rotation": 270,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/spacebluedebrisstart.png",
+                "uri": "%PROJECT%/spaceblue14.png",
                 "tint": "#FFFFFFFF"
               }
             },
@@ -2576,7 +2577,7 @@
               "rotation": 270,
               "type": "image",
               "data": {
-                "uri": "%PROJECT%/spacebluedebrisstart.png",
+                "uri": "%PROJECT%/spaceblue14.png",
                 "fit_mode": "fitwidth",
                 "tint": "#FFFFFFFF"
               }

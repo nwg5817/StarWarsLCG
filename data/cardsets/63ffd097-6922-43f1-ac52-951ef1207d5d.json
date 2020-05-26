@@ -1,0 +1,27 @@
+{
+  "version": 2.12,
+  "cardset_id": "63ffd097-6922-43f1-ac52-951ef1207d5d",
+  "name": "UNNAMED",
+  "blueprint_id": "4e94c447-4fe0-43d5-910f-001dc5cc368d",
+  "hint_order_index": 18,
+  "cards": [
+    {
+      "card_id": "461874d4-0452-4633-ae67-be40dfd149e5",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d00708bb-93ef-48c8-8609-eaf72d736c1b",
+          "panels": [
+            {
+              "blueprint_panel_id": "0cf93d85-6622-4cde-ad82-36c4177205f3",
+              "type": "text",
+              "data": {
+                "text": "Items from future era's earn the quality Prototype.\n\nPrototype - 25% more expensive, more rare.\n\nArchaic: -1\n\n"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

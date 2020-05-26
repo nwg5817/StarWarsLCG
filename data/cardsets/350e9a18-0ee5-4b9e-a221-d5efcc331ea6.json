@@ -88,7 +88,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "0",
+                "text": "1",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -324,7 +324,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "0",
+                "text": "1",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -555,7 +555,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "0",
+                "text": "1",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }

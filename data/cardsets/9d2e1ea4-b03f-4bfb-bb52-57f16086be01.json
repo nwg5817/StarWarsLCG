@@ -1,0 +1,1313 @@
+{
+  "version": 2.12,
+  "cardset_id": "9d2e1ea4-b03f-4bfb-bb52-57f16086be01",
+  "name": "Locations - Planet",
+  "blueprint_id": "7f9dca98-1420-4cb8-b409-05a44b78aaef",
+  "hint_order_index": 8,
+  "cards": [
+    {
+      "card_id": "9060c38e-aa66-44f8-8916-6a6449ddccb6",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
+          "panels": [
+            {
+              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "The Jedi Covenant Mission pg 56 kotor\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "2448332d-9c36-419e-a4ae-569988501c01",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            },
+            {
+              "blueprint_panel_id": "0a141bc8-1f47-4003-80b8-871fca3aa7fb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "09ddb5e4-0449-462f-a20a-4ca955272451",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "e8111726-3dfb-4f09-a2de-1c4d63963f3a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Originalenclave.jpg",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "72f13c67-b97f-4d85-aebf-f560c4e0baed",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediorder}"
+              }
+            },
+            {
+              "blueprint_panel_id": "ce5eca03-321a-4aba-9891-c920ecdc923d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}"
+              }
+            },
+            {
+              "blueprint_panel_id": "de445cb6-9902-44fd-b3d9-2673c7dfe5ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Dantooine"
+              }
+            },
+            {
+              "blueprint_panel_id": "2162905c-f51c-441f-bc28-03de778431f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Enclave"
+              }
+            },
+            {
+              "blueprint_panel_id": "a1f218ec-061f-4093-bbfa-d1da361fed7a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
+          "panels": [
+            {
+              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\"Even the Sith would think twice before attacking Dantooine. There are many Jedi here, including several of the most powerful Masters of the Order. There is great strength within this place.\"\n―Bastila Shan"
+              }
+            },
+            {
+              "blueprint_panel_id": "d3b9aeb7-7063-407c-b1e3-2c84fab5e4e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "81f0ec39-2003-4a9d-93be-31267d8d9d59",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Originalenclave.jpg",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "19d58920-66ce-4d24-a71f-8d95cc3d0eef",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediorder}"
+              }
+            },
+            {
+              "blueprint_panel_id": "488601b6-331a-447f-935b-a0525399c38a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Dantooine"
+              }
+            },
+            {
+              "blueprint_panel_id": "656717c8-035c-4a1d-ab90-160810d6f3ae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Enclave"
+              }
+            },
+            {
+              "blueprint_panel_id": "06112086-583a-4a12-80a2-658c6a9ad2f6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "1e6f8adf-de11-4a71-aee0-3a9bafd05a8a",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
+          "panels": [
+            {
+              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Ancient Cloning Technology Heretical Texts"
+              }
+            },
+            {
+              "blueprint_panel_id": "2448332d-9c36-419e-a4ae-569988501c01",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            },
+            {
+              "blueprint_panel_id": "0a141bc8-1f47-4003-80b8-871fca3aa7fb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "09ddb5e4-0449-462f-a20a-4ca955272451",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "e8111726-3dfb-4f09-a2de-1c4d63963f3a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/swtorenclaveruin.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "72f13c67-b97f-4d85-aebf-f560c4e0baed",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediweakened}"
+              }
+            },
+            {
+              "blueprint_panel_id": "ce5eca03-321a-4aba-9891-c920ecdc923d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}"
+              }
+            },
+            {
+              "blueprint_panel_id": "de445cb6-9902-44fd-b3d9-2673c7dfe5ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Dantooine"
+              }
+            },
+            {
+              "blueprint_panel_id": "2162905c-f51c-441f-bc28-03de778431f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Enclave (Ruins)"
+              }
+            },
+            {
+              "blueprint_panel_id": "a1f218ec-061f-4093-bbfa-d1da361fed7a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarseraclone}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
+          "panels": [
+            {
+              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\"Even the Sith would think twice before attacking Dantooine. There are many Jedi here, including several of the most powerful Masters of the Order. There is great strength within this place.\"\n―Bastila Shan"
+              }
+            },
+            {
+              "blueprint_panel_id": "d3b9aeb7-7063-407c-b1e3-2c84fab5e4e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "81f0ec39-2003-4a9d-93be-31267d8d9d59",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/swtorenclaveruin.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "19d58920-66ce-4d24-a71f-8d95cc3d0eef",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediweakened}"
+              }
+            },
+            {
+              "blueprint_panel_id": "fa02425d-0c49-45a1-94ba-02ecca788f83",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}"
+              }
+            },
+            {
+              "blueprint_panel_id": "488601b6-331a-447f-935b-a0525399c38a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Dantooine"
+              }
+            },
+            {
+              "blueprint_panel_id": "656717c8-035c-4a1d-ab90-160810d6f3ae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Enclave (Ruins)"
+              }
+            },
+            {
+              "blueprint_panel_id": "06112086-583a-4a12-80a2-658c6a9ad2f6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarseraclone}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a53050c9-79dc-421d-8d79-21725601bf80",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
+          "panels": [
+            {
+              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Ancient Cloning Technology Heretical Texts\nPeople are now going missing."
+              }
+            },
+            {
+              "blueprint_panel_id": "2448332d-9c36-419e-a4ae-569988501c01",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            },
+            {
+              "blueprint_panel_id": "0a141bc8-1f47-4003-80b8-871fca3aa7fb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "09ddb5e4-0449-462f-a20a-4ca955272451",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "e8111726-3dfb-4f09-a2de-1c4d63963f3a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/swtorruinenclave2.jpg",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "72f13c67-b97f-4d85-aebf-f560c4e0baed",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediweakened}"
+              }
+            },
+            {
+              "blueprint_panel_id": "ce5eca03-321a-4aba-9891-c920ecdc923d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}"
+              }
+            },
+            {
+              "blueprint_panel_id": "de445cb6-9902-44fd-b3d9-2673c7dfe5ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Dantooine"
+              }
+            },
+            {
+              "blueprint_panel_id": "2162905c-f51c-441f-bc28-03de778431f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Enclave (Ruins)"
+              }
+            },
+            {
+              "blueprint_panel_id": "a1f218ec-061f-4093-bbfa-d1da361fed7a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsera}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
+          "panels": [
+            {
+              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\"Even the Sith would think twice before attacking Dantooine. There are many Jedi here, including several of the most powerful Masters of the Order. There is great strength within this place.\"\n―Bastila Shan"
+              }
+            },
+            {
+              "blueprint_panel_id": "d3b9aeb7-7063-407c-b1e3-2c84fab5e4e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "81f0ec39-2003-4a9d-93be-31267d8d9d59",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/swtorruinenclave2.jpg",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "19d58920-66ce-4d24-a71f-8d95cc3d0eef",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediweakened}"
+              }
+            },
+            {
+              "blueprint_panel_id": "fa02425d-0c49-45a1-94ba-02ecca788f83",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}"
+              }
+            },
+            {
+              "blueprint_panel_id": "488601b6-331a-447f-935b-a0525399c38a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Dantooine"
+              }
+            },
+            {
+              "blueprint_panel_id": "656717c8-035c-4a1d-ab90-160810d6f3ae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Enclave (Ruins)"
+              }
+            },
+            {
+              "blueprint_panel_id": "06112086-583a-4a12-80a2-658c6a9ad2f6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsera}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "bfc5c479-ff84-475f-8a2e-e54a6accf48e",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
+          "panels": [
+            {
+              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi High Council"
+              }
+            },
+            {
+              "blueprint_panel_id": "2448332d-9c36-419e-a4ae-569988501c01",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            },
+            {
+              "blueprint_panel_id": "0a141bc8-1f47-4003-80b8-871fca3aa7fb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "09ddb5e4-0449-462f-a20a-4ca955272451",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "e8111726-3dfb-4f09-a2de-1c4d63963f3a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/torjeditemple.jpg",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "72f13c67-b97f-4d85-aebf-f560c4e0baed",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediorder}"
+              }
+            },
+            {
+              "blueprint_panel_id": "ce5eca03-321a-4aba-9891-c920ecdc923d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}"
+              }
+            },
+            {
+              "blueprint_panel_id": "de445cb6-9902-44fd-b3d9-2673c7dfe5ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Coruscant"
+              }
+            },
+            {
+              "blueprint_panel_id": "2162905c-f51c-441f-bc28-03de778431f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Temple"
+              }
+            },
+            {
+              "blueprint_panel_id": "a1f218ec-061f-4093-bbfa-d1da361fed7a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
+          "panels": [
+            {
+              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\"Even the Sith would think twice before attacking Dantooine. There are many Jedi here, including several of the most powerful Masters of the Order. There is great strength within this place.\"\n―Bastila Shan"
+              }
+            },
+            {
+              "blueprint_panel_id": "d3b9aeb7-7063-407c-b1e3-2c84fab5e4e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "81f0ec39-2003-4a9d-93be-31267d8d9d59",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/torjeditemple.jpg",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "19d58920-66ce-4d24-a71f-8d95cc3d0eef",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediorder}"
+              }
+            },
+            {
+              "blueprint_panel_id": "fa02425d-0c49-45a1-94ba-02ecca788f83",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}"
+              }
+            },
+            {
+              "blueprint_panel_id": "488601b6-331a-447f-935b-a0525399c38a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Coruscant"
+              }
+            },
+            {
+              "blueprint_panel_id": "656717c8-035c-4a1d-ab90-160810d6f3ae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Temple"
+              }
+            },
+            {
+              "blueprint_panel_id": "06112086-583a-4a12-80a2-658c6a9ad2f6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "7f36001e-b5bf-4639-a2ae-13c582f275b7",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
+          "panels": [
+            {
+              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi High Council"
+              }
+            },
+            {
+              "blueprint_panel_id": "2448332d-9c36-419e-a4ae-569988501c01",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            },
+            {
+              "blueprint_panel_id": "0a141bc8-1f47-4003-80b8-871fca3aa7fb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "09ddb5e4-0449-462f-a20a-4ca955272451",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "e8111726-3dfb-4f09-a2de-1c4d63963f3a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Jedi_Temple_Tython.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "72f13c67-b97f-4d85-aebf-f560c4e0baed",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediorder}"
+              }
+            },
+            {
+              "blueprint_panel_id": "ce5eca03-321a-4aba-9891-c920ecdc923d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}"
+              }
+            },
+            {
+              "blueprint_panel_id": "de445cb6-9902-44fd-b3d9-2673c7dfe5ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Tython"
+              }
+            },
+            {
+              "blueprint_panel_id": "2162905c-f51c-441f-bc28-03de778431f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Temple"
+              }
+            },
+            {
+              "blueprint_panel_id": "a1f218ec-061f-4093-bbfa-d1da361fed7a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
+          "panels": [
+            {
+              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\"Even the Sith would think twice before attacking Dantooine. There are many Jedi here, including several of the most powerful Masters of the Order. There is great strength within this place.\"\n―Bastila Shan"
+              }
+            },
+            {
+              "blueprint_panel_id": "d3b9aeb7-7063-407c-b1e3-2c84fab5e4e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "81f0ec39-2003-4a9d-93be-31267d8d9d59",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Jedi_Temple_Tython.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "19d58920-66ce-4d24-a71f-8d95cc3d0eef",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediorder}"
+              }
+            },
+            {
+              "blueprint_panel_id": "fa02425d-0c49-45a1-94ba-02ecca788f83",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}"
+              }
+            },
+            {
+              "blueprint_panel_id": "488601b6-331a-447f-935b-a0525399c38a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Tython"
+              }
+            },
+            {
+              "blueprint_panel_id": "656717c8-035c-4a1d-ab90-160810d6f3ae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Temple"
+              }
+            },
+            {
+              "blueprint_panel_id": "06112086-583a-4a12-80a2-658c6a9ad2f6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "636ebdf9-7f66-429c-b398-a5bc50148d9c",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
+          "panels": [
+            {
+              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi High Council"
+              }
+            },
+            {
+              "blueprint_panel_id": "2448332d-9c36-419e-a4ae-569988501c01",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            },
+            {
+              "blueprint_panel_id": "0a141bc8-1f47-4003-80b8-871fca3aa7fb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "09ddb5e4-0449-462f-a20a-4ca955272451",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "e8111726-3dfb-4f09-a2de-1c4d63963f3a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/jeditempletorruins.jpg",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "72f13c67-b97f-4d85-aebf-f560c4e0baed",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediweakened}"
+              }
+            },
+            {
+              "blueprint_panel_id": "ce5eca03-321a-4aba-9891-c920ecdc923d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}"
+              }
+            },
+            {
+              "blueprint_panel_id": "de445cb6-9902-44fd-b3d9-2673c7dfe5ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Coruscant"
+              }
+            },
+            {
+              "blueprint_panel_id": "2162905c-f51c-441f-bc28-03de778431f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Temple (Ruins)"
+              }
+            },
+            {
+              "blueprint_panel_id": "a1f218ec-061f-4093-bbfa-d1da361fed7a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
+          "panels": [
+            {
+              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\"Even the Sith would think twice before attacking Dantooine. There are many Jedi here, including several of the most powerful Masters of the Order. There is great strength within this place.\"\n―Bastila Shan"
+              }
+            },
+            {
+              "blueprint_panel_id": "d3b9aeb7-7063-407c-b1e3-2c84fab5e4e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "81f0ec39-2003-4a9d-93be-31267d8d9d59",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/jeditempletorruins.jpg",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "19d58920-66ce-4d24-a71f-8d95cc3d0eef",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediweakened}"
+              }
+            },
+            {
+              "blueprint_panel_id": "fa02425d-0c49-45a1-94ba-02ecca788f83",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}"
+              }
+            },
+            {
+              "blueprint_panel_id": "488601b6-331a-447f-935b-a0525399c38a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Coruscant"
+              }
+            },
+            {
+              "blueprint_panel_id": "656717c8-035c-4a1d-ab90-160810d6f3ae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Temple (Ruins)"
+              }
+            },
+            {
+              "blueprint_panel_id": "06112086-583a-4a12-80a2-658c6a9ad2f6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "c35a36ec-1405-4ea5-8eb5-fb5b3b209613",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
+          "panels": [
+            {
+              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi High Council"
+              }
+            },
+            {
+              "blueprint_panel_id": "2448332d-9c36-419e-a4ae-569988501c01",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            },
+            {
+              "blueprint_panel_id": "0a141bc8-1f47-4003-80b8-871fca3aa7fb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "09ddb5e4-0449-462f-a20a-4ca955272451",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "e8111726-3dfb-4f09-a2de-1c4d63963f3a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/ProcessionalWay-Deceived.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "72f13c67-b97f-4d85-aebf-f560c4e0baed",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediorder}"
+              }
+            },
+            {
+              "blueprint_panel_id": "ce5eca03-321a-4aba-9891-c920ecdc923d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}"
+              }
+            },
+            {
+              "blueprint_panel_id": "de445cb6-9902-44fd-b3d9-2673c7dfe5ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Coruscant"
+              }
+            },
+            {
+              "blueprint_panel_id": "2162905c-f51c-441f-bc28-03de778431f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Temple"
+              }
+            },
+            {
+              "blueprint_panel_id": "a1f218ec-061f-4093-bbfa-d1da361fed7a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
+          "panels": [
+            {
+              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\"Even the Sith would think twice before attacking Dantooine. There are many Jedi here, including several of the most powerful Masters of the Order. There is great strength within this place.\"\n―Bastila Shan"
+              }
+            },
+            {
+              "blueprint_panel_id": "d3b9aeb7-7063-407c-b1e3-2c84fab5e4e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "81f0ec39-2003-4a9d-93be-31267d8d9d59",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/ProcessionalWay-Deceived.png",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "19d58920-66ce-4d24-a71f-8d95cc3d0eef",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediorder}"
+              }
+            },
+            {
+              "blueprint_panel_id": "fa02425d-0c49-45a1-94ba-02ecca788f83",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}"
+              }
+            },
+            {
+              "blueprint_panel_id": "488601b6-331a-447f-935b-a0525399c38a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Coruscant"
+              }
+            },
+            {
+              "blueprint_panel_id": "656717c8-035c-4a1d-ab90-160810d6f3ae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Temple"
+              }
+            },
+            {
+              "blueprint_panel_id": "06112086-583a-4a12-80a2-658c6a9ad2f6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a4399572-ed87-46f9-888f-0bea1169954a",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
+          "panels": [
+            {
+              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "The First Watch Circle of Krynda's Covenant"
+              }
+            },
+            {
+              "blueprint_panel_id": "2448332d-9c36-419e-a4ae-569988501c01",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            },
+            {
+              "blueprint_panel_id": "0a141bc8-1f47-4003-80b8-871fca3aa7fb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "09ddb5e4-0449-462f-a20a-4ca955272451",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "e8111726-3dfb-4f09-a2de-1c4d63963f3a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/taris.jpg",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "72f13c67-b97f-4d85-aebf-f560c4e0baed",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediorder}"
+              }
+            },
+            {
+              "blueprint_panel_id": "ce5eca03-321a-4aba-9891-c920ecdc923d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}"
+              }
+            },
+            {
+              "blueprint_panel_id": "de445cb6-9902-44fd-b3d9-2673c7dfe5ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Taris"
+              }
+            },
+            {
+              "blueprint_panel_id": "2162905c-f51c-441f-bc28-03de778431f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Tower"
+              }
+            },
+            {
+              "blueprint_panel_id": "a1f218ec-061f-4093-bbfa-d1da361fed7a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
+          "panels": [
+            {
+              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "\"For five years, this building was home.\"\n―Zayne Carrick"
+              }
+            },
+            {
+              "blueprint_panel_id": "d3b9aeb7-7063-407c-b1e3-2c84fab5e4e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "81f0ec39-2003-4a9d-93be-31267d8d9d59",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/taris.jpg",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "19d58920-66ce-4d24-a71f-8d95cc3d0eef",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediorder}"
+              }
+            },
+            {
+              "blueprint_panel_id": "fa02425d-0c49-45a1-94ba-02ecca788f83",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}"
+              }
+            },
+            {
+              "blueprint_panel_id": "488601b6-331a-447f-935b-a0525399c38a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Taris"
+              }
+            },
+            {
+              "blueprint_panel_id": "656717c8-035c-4a1d-ab90-160810d6f3ae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Tower"
+              }
+            },
+            {
+              "blueprint_panel_id": "06112086-583a-4a12-80a2-658c6a9ad2f6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

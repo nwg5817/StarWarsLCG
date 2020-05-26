@@ -1,7 +1,7 @@
 {
   "version": 2.12,
   "cardset_id": "3aca4dcc-8e3f-42ab-bbac-d14abfa84ca2",
-  "name": "New CardSet",
+  "name": "Crates",
   "blueprint_id": "9b4b22b3-c13b-4243-8f55-ee9eade81176",
   "hint_order_index": 16,
   "cards": [
@@ -37,7 +37,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "1",
+                "text": "-",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -170,7 +170,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "3",
+                "text": "2",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -304,7 +304,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "3",
+                "text": "2",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -437,7 +437,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "2",
+                "text": "1",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -571,7 +571,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "2",
+                "text": "-",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -705,7 +705,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "1",
+                "text": "-",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -839,7 +839,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "3",
+                "text": "1",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -973,7 +973,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "5",
+                "text": "4",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -1107,7 +1107,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "3",
+                "text": "2",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -1242,7 +1242,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "5",
+                "text": "3",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -1510,7 +1510,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "5",
+                "text": "3",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }

@@ -1,7 +1,7 @@
 {
   "version": 2.12,
   "cardset_id": "25a3c4a2-1f83-424a-aa86-954d2d1ec4ba",
-  "name": "Locations",
+  "name": "Locations - Ships",
   "blueprint_id": "8837ca7f-23e2-48fb-b18b-006c12e382c3",
   "hint_order_index": 9,
   "cards": [
@@ -714,7 +714,7 @@
     },
     {
       "card_id": "eaf17e5d-0e8d-4f44-afd2-f9d4fd2e87bb",
-      "amount": 0,
+      "amount": 1,
       "front_layers": [
         {
           "blueprint_layer_id": "12f58abf-b4f4-4bdb-9b11-922ae20f7e50",
@@ -734,6 +734,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
+                "text": "<color=#FF0000FF>{Cinema/afterburn}</color>",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -914,6 +915,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
+                "text": "<color=#FF0000FF>{Cinema/afterburn}</color>",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -1066,6 +1068,359 @@
     },
     {
       "card_id": "44529bf5-c484-46bf-aebe-055f9dec4202",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "12f58abf-b4f4-4bdb-9b11-922ae20f7e50",
+          "panels": [
+            {
+              "blueprint_panel_id": "22c5b48d-4a32-4fe3-a113-315ea1c4466c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF8000FF>{Abstract/abstract-051}</color>/<color=#42DD42FF>{Abstract/abstract-031}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "6b6419bd-b6ab-4e71-969c-6cb1753e2907",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8184002a-4cec-46eb-bda3-0e6c730ef9a2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "001b08bf-805b-49e5-ab76-f3ae1ddb84d6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3c426ce7-9951-4247-b25a-8e94d169bfdb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "5f414d99-5cec-4031-a1b2-063e398066b5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d04ba677-0680-4b2d-944c-7e1f8d477744",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1e51df0b-ede0-43d0-9f98-044660039e95",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Nature/power-lightning} <b>Pilot. </b>Take control of the vessel. \n\n{Weapons/bottom-right-3d-arrow} <b>Parley.</b> Communicate with another ship in your quadrant.\n\n{Weapons/bottom-right-3d-arrow} <b>Repair.</b> You may repair another location on the ship as if you were at that location if the check symbols match. (You may perform this action while piloting)",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "32721303-841c-4b43-9a38-f0ea97e1973d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Main Deck.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4a843c52-aea2-42b8-812a-32eef4d4b599",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Ship",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a202bb67-a17b-4e1e-92e9-14ea645d25d7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Weapons/bordered-shield}3</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "81433261-0bff-4df9-9bb8-b87fdfbf1bf2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "431d2817-d333-4455-88f3-86b040b30aa1",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#BF131FFF>{Body&Actions/fist_(1)}</color>2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cce5d371-2ec0-40ce-bd0c-246f901edf42",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/cockpit.jpg",
+                "offset": "0.00111, 0.22895",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "4a465b3d-a2ab-47c5-a22e-25440c5f4c48",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Cinema/afterburn}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ec57ac51-c723-40ab-baf3-3b6a01c5d38e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "60d0ac8f-a935-4adf-b1bf-4b75f6ee5e81",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/sunken-eye}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "e7695df8-7339-48a6-9b90-98de81f23284",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Cockpit",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "2f236b20-226a-4c12-9ac5-60e4d95f4a3d",
+          "panels": [
+            {
+              "blueprint_panel_id": "60f53119-2981-4713-b712-76a673bb5f63",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF8000FF>{Abstract/abstract-051}</color>/<color=#42DD42FF>{Abstract/abstract-031}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8adf786a-545f-49aa-8da2-47118afd05db",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "14a07e9c-7fb2-4b76-b705-bf072cbb9c70",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "eeb57565-22d6-460d-bed8-19fe32151936",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f4dd2335-e525-4758-80a9-8a68117cd758",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "b877b6c1-37d1-4fd2-ad75-d9f971ce8255",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3f334eb6-fc33-43bb-8263-aa035eb43869",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "The only access point to the cockpit.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1ecc8ec7-9f25-4f22-9563-049255ea6a3e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Main Deck.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "89961888-d3a2-4f3a-b8b0-ce78df53465b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Ship",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "1ee13d47-f853-4106-85ad-230f5c2954e0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "29ae93a1-b0c8-4ff4-8125-183f0008ce19",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/shadow-follower}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "6d9a0890-5f22-45d0-875f-74cf0629110e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c69220b3-4cf2-48cd-a90d-5d1d6f08170f",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/cockpit.jpg",
+                "offset": "-0.0011, 0.2817586",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "192ca5cb-f043-4712-9cb3-8341f6215da6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Cinema/afterburn}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "59cae792-f7a0-4d3e-b1a3-bbb7c1b54d9e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ed5cad62-0fcc-4432-ad5d-2634c03b3aee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Other/padlock}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d84210e2-b3f1-429b-8af0-6aece3a45d6d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Cockpit",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "8144e531-4e6a-4e19-9281-68d5cd15c9ac",
       "amount": 1,
       "front_layers": [
         {

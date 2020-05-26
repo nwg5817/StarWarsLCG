@@ -4,7 +4,7 @@
   "name": "Space Locations",
   "layout_size": "63.5, 88.9",
   "layout_grid_size": "0.232, 0.232",
-  "main_panel_id": "00000000-0000-0000-0000-000000000000",
+  "main_panel_id": "da2b41be-0c99-47e3-9506-5299c5ee28c9",
   "front_layers": [
     {
       "layer_id": "0e67db96-c10f-4009-8685-57070943790d",
@@ -128,7 +128,7 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 3.577021E-08",
+          "anchor_min_render": "0, -5.38489E-08",
           "anchor_max": "1, 0.202282",
           "anchor_max_render": "1, 0.202282",
           "type": "text",
@@ -190,9 +190,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 0.202282",
+          "anchor_min_render": "-7.722944E-08, 0.202282",
           "anchor_max": "0.1609923, 1",
-          "anchor_max_render": "0.1609924, 0.2491667",
+          "anchor_max_render": "0.1609923, 0.2491667",
           "type": "text",
           "data": {
             "font_family": "Lato",
@@ -221,9 +221,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0.1609923, 0",
-          "anchor_min_render": "0.1609923, 0.202282",
+          "anchor_min_render": "0.1609924, 0.202282",
           "anchor_max": "0.8162246, 1",
-          "anchor_max_render": "0.8162248, 0.2491667",
+          "anchor_max_render": "0.8162246, 0.2491667",
           "type": "text",
           "data": {
             "font_family": "Lato",
@@ -277,7 +277,7 @@
           "name": "",
           "enabled": true,
           "locked": false,
-          "rotation": 90,
+          "rotation": 0,
           "padding": "0, 0, 0, 0",
           "material_name": "Blank",
           "material_selection": 0,
@@ -285,7 +285,7 @@
           "anchor_min": "0, 0.2491667",
           "anchor_min_render": "0, 0.2491667",
           "anchor_max": "1, 0.9184461",
-          "anchor_max_render": "1, 0.9184461",
+          "anchor_max_render": "1, 0.9184462",
           "type": "image",
           "data": {
             "uri": "",
@@ -312,7 +312,7 @@
           "anchor_min": "0, 0.9184461",
           "anchor_min_render": "0, 0.9184461",
           "anchor_max": "1, 1",
-          "anchor_max_render": "1, 1",
+          "anchor_max_render": "1, 0.9999999",
           "type": "none",
           "data": {},
           "sort_mode": "4",
@@ -330,9 +330,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 0.9184461",
+          "anchor_min_render": "-7.722944E-08, 0.9184461",
           "anchor_max": "0.1609923, 1",
-          "anchor_max_render": "0.1609924, 1",
+          "anchor_max_render": "0.1609923, 0.9999999",
           "type": "text",
           "data": {
             "font_family": "Lato",
@@ -361,9 +361,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 0.9184461",
+          "anchor_min_render": "-7.722944E-08, 0.9184462",
           "anchor_max": "1, 0.7460988",
-          "anchor_max_render": "0.1609924, 0.9792934",
+          "anchor_max_render": "0.1609923, 0.9792933",
           "type": "text",
           "data": {
             "font_family": "Lato",
@@ -392,9 +392,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0.7460988",
-          "anchor_min_render": "0, 0.9792933",
+          "anchor_min_render": "-7.722944E-08, 0.9792933",
           "anchor_max": "1, 1",
-          "anchor_max_render": "0.1609924, 0.9999999",
+          "anchor_max_render": "0.1609923, 1",
           "type": "text",
           "data": {
             "font_family": "Lato",
@@ -425,7 +425,7 @@
           "anchor_min": "0.1609923, 0",
           "anchor_min_render": "0.1609922, 0.9184461",
           "anchor_max": "1, 1",
-          "anchor_max_render": "1, 1",
+          "anchor_max_render": "1, 0.9999999",
           "type": "none",
           "data": {},
           "sort_mode": "5",
@@ -443,7 +443,7 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0.1609922, 0.9184461",
+          "anchor_min_render": "0.1609922, 0.9184462",
           "anchor_max": "1, 0.4311696",
           "anchor_max_render": "1, 0.9536097",
           "type": "text",
@@ -490,7 +490,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "15",
+          "sort_mode": "11",
           "split_mode": "horizontal",
           "parent_panel_id": "b0dfc9e5-9eac-463c-ace2-6f1fbfa1ee46"
         }
@@ -527,7 +527,7 @@
             "offset": "0, 0",
             "tint": "#292A30FF"
           },
-          "sort_mode": "11",
+          "sort_mode": "12",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -562,7 +562,7 @@
             "offset": "0, 0",
             "tint": "#DDDECCFF"
           },
-          "sort_mode": "12",
+          "sort_mode": "13",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -597,7 +597,7 @@
             "offset": "0, 0",
             "tint": "#E1E7E1FF"
           },
-          "sort_mode": "13",
+          "sort_mode": "14",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -620,7 +620,7 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, -1.78851E-08",
+          "anchor_min_render": "0, 0",
           "anchor_max": "1, 0.1152263",
           "anchor_max_render": "1, 0.1152263",
           "type": "text",
@@ -636,7 +636,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "14",
+          "sort_mode": "15",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -653,7 +653,7 @@
           "anchor_min": "0, 0.1152263",
           "anchor_min_render": "0, 0.1152263",
           "anchor_max": "1, 0.1604938",
-          "anchor_max_render": "1, 0.1604939",
+          "anchor_max_render": "1, 0.1604938",
           "type": "text",
           "data": {
             "font_family": "Lato",
@@ -682,9 +682,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 0.1152263",
+          "anchor_min_render": "-7.722944E-08, 0.1152263",
           "anchor_max": "0.15979, 1",
-          "anchor_max_render": "0.1597901, 0.1604939",
+          "anchor_max_render": "0.15979, 0.1604938",
           "type": "text",
           "data": {
             "font_family": "Lato",
@@ -715,7 +715,7 @@
           "anchor_min": "0.15979, 0",
           "anchor_min_render": "0.15979, 0.1152263",
           "anchor_max": "0.8162246, 1",
-          "anchor_max_render": "0.8162248, 0.1604939",
+          "anchor_max_render": "0.8162246, 0.1604938",
           "type": "text",
           "data": {
             "font_family": "Lato",
@@ -746,7 +746,7 @@
           "anchor_min": "0.8162246, 0",
           "anchor_min_render": "0.8162246, 0.1152263",
           "anchor_max": "1, 1",
-          "anchor_max_render": "1, 0.1604939",
+          "anchor_max_render": "1, 0.1604938",
           "type": "text",
           "data": {
             "font_family": "Lato",
@@ -777,7 +777,7 @@
           "anchor_min": "0, 0.1604938",
           "anchor_min_render": "0, 0.1604938",
           "anchor_max": "1, 0.9184461",
-          "anchor_max_render": "1, 0.9184461",
+          "anchor_max_render": "1, 0.9184462",
           "type": "image",
           "data": {
             "uri": "%PROJECT%/spacegrid.png",
@@ -802,7 +802,7 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0.9184461",
-          "anchor_min_render": "0, 0.9184461",
+          "anchor_min_render": "0, 0.9184462",
           "anchor_max": "1, 1",
           "anchor_max_render": "1, 1",
           "type": "none",
@@ -822,9 +822,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 0.9184461",
+          "anchor_min_render": "-7.722944E-08, 0.9184462",
           "anchor_max": "0.1609923, 1",
-          "anchor_max_render": "0.1609924, 1",
+          "anchor_max_render": "0.1609923, 1",
           "type": "text",
           "data": {
             "font_family": "Lato",
@@ -853,9 +853,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0, 0.9184461",
+          "anchor_min_render": "-7.722944E-08, 0.9184461",
           "anchor_max": "1, 0.7460988",
-          "anchor_max_render": "0.1609924, 0.9792934",
+          "anchor_max_render": "0.1609923, 0.9792933",
           "type": "text",
           "data": {
             "font_family": "Lato",
@@ -884,9 +884,9 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0.7460988",
-          "anchor_min_render": "0, 0.9792933",
+          "anchor_min_render": "-7.722944E-08, 0.9792933",
           "anchor_max": "1, 1",
-          "anchor_max_render": "0.1609924, 0.9999999",
+          "anchor_max_render": "0.1609923, 1",
           "type": "text",
           "data": {
             "font_family": "Lato",
@@ -915,7 +915,7 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0.1609923, 0",
-          "anchor_min_render": "0.1609922, 0.9184461",
+          "anchor_min_render": "0.1609922, 0.9184462",
           "anchor_max": "1, 1",
           "anchor_max_render": "1, 1",
           "type": "none",
@@ -935,7 +935,7 @@
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0",
-          "anchor_min_render": "0.1609922, 0.9184461",
+          "anchor_min_render": "0.1609922, 0.9184462",
           "anchor_max": "1, 0.3829534",
           "anchor_max_render": "1, 0.9496775",
           "type": "text",

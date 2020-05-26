@@ -26,7 +26,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{StarWars/starwarspalpatine2}",
+                "text": "{StarWars/starwarsguard}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -36,7 +36,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{StarWars/starwarsjarjar}",
+                "text": "{StarWars/starwarsdarksider}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -46,7 +46,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{StarWars/starwarsbd1}",
+                "text": "{StarWars/starwarsdarksidealliance}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -141,7 +141,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{StarWars/starwarspalpatine2}",
+                "text": "{StarWars/starwarsguard}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -151,7 +151,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{StarWars/starwarsjarjar}",
+                "text": "{StarWars/starwarsdarksider}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -161,7 +161,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{StarWars/starwarsbd1}",
+                "text": "{StarWars/starwarsdarksidealliance}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }

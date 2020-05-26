@@ -96,7 +96,7 @@
               "rotation": 0,
               "type": "image",
               "data": {
-                "uri": "C:/Users/Ailan/Pictures/enginedamage.PNG",
+                "uri": "%PROJECT%/counterattack.jpg",
                 "tint": "#FFFFFFFF"
               }
             },
@@ -2397,7 +2397,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{Weapons/bottom-right-3d-arrow} <b>Fight.</b> You get +1 {Other/target_laser} for this attack. This attack deals 6 damage.",
+                "text": "{Weapons/bottom-right-3d-arrow} <b>Fight.</b> You get +1 {Other/target_laser} for this attack. This attack deals +2 damage.",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -2468,7 +2468,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "-",
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -2487,7 +2487,353 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Laser Cannons",
+                "text": "Medium Laser Cannon",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "5ebfb59f-1c8b-44bc-acf9-ac7fde5201ea",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9b17a9c-5dac-430a-a69e-0025b301aeee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "31200799-7b03-49ab-a1eb-a573545b47ac",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d23ea064-cfec-4af6-80b7-c234317821e4",
+          "panels": [
+            {
+              "blueprint_panel_id": "433b324f-cb86-483c-ae22-71d22687301f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bd8c0da4-c435-4892-bb2c-c3cf49adb71e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "6db9c84f-b68d-47a2-8786-d6f8dc6ccb60",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d97237e7-2348-4bd6-8a9a-b9c63204e5b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/abstract-089}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c5e509b1-7afd-498f-9dac-ef1c386ea359",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "e1c5ee8a-4b9e-4968-9682-a992e2d37bf0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Weapons/bottom-right-3d-arrow} <b>Fight.</b> You get +2{Other/target_laser} for this attack. This attack deals +1 damage.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a94816b4-d3bf-4d15-a704-2ceb758aab90",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Cannon. Laser. Linked.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2992c93a-bfa1-46a1-8c5f-a7cb1167bf5c",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/target_laser",
+                "color_tint": "#BF131FFF",
+                "color_background": "#FF000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "322823ca-2831-48dc-b862-d5819f4a3383",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/target_laser",
+                "color_tint": "#BF131FFF",
+                "color_background": "#FF000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "a05524cd-9a72-426f-8a29-99e1db8dee0f",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/GroundBuzzer-TESB.png",
+                "fit_mode": "stretch",
+                "offset": "0.26198, -0.0185",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3d77b4e8-2c81-4f10-88db-4de163af4c68",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Neutral",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9faed2b1-2bf4-4756-961b-bff43c07dca6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Armament",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f0c573e4-4333-456e-adab-f94c3fda7bcc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3197e44b-b813-40d4-abbc-5b70831d0b27",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9226e901-987d-4757-93a1-6a933633c9f2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Light Laser Cannons",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "5ebfb59f-1c8b-44bc-acf9-ac7fde5201ea",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9b17a9c-5dac-430a-a69e-0025b301aeee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "958b68c6-e443-4db0-995b-a17c56243bda",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d23ea064-cfec-4af6-80b7-c234317821e4",
+          "panels": [
+            {
+              "blueprint_panel_id": "433b324f-cb86-483c-ae22-71d22687301f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bd8c0da4-c435-4892-bb2c-c3cf49adb71e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "6db9c84f-b68d-47a2-8786-d6f8dc6ccb60",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d97237e7-2348-4bd6-8a9a-b9c63204e5b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/abstract-089}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c5e509b1-7afd-498f-9dac-ef1c386ea359",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "e1c5ee8a-4b9e-4968-9682-a992e2d37bf0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Weapons/bottom-right-3d-arrow} <b>Fight.</b> You get +2{Other/target_laser} for this attack. This attack deals +1 damage. If you succeed by 2 or more, this attack deals +2 damage.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a94816b4-d3bf-4d15-a704-2ceb758aab90",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Cannon. Laser. Linked.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2992c93a-bfa1-46a1-8c5f-a7cb1167bf5c",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/target_laser",
+                "color_tint": "#BF131FFF",
+                "color_background": "#FF000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "322823ca-2831-48dc-b862-d5819f4a3383",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/target_laser",
+                "color_tint": "#BF131FFF",
+                "color_background": "#FF000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "a05524cd-9a72-426f-8a29-99e1db8dee0f",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/HSG-67_laser_cannon.png",
+                "fit_mode": "stretch",
+                "offset": "0.26198, -0.0185",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3d77b4e8-2c81-4f10-88db-4de163af4c68",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Neutral",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9faed2b1-2bf4-4756-961b-bff43c07dca6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Armament",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f0c573e4-4333-456e-adab-f94c3fda7bcc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3197e44b-b813-40d4-abbc-5b70831d0b27",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9226e901-987d-4757-93a1-6a933633c9f2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Twin Light Laser Cannons",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -2906,7 +3252,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Uses (0 Time) If Hyperdrive has no time left, (➔R0).\n\n{Weapons/bottom-right-3d-arrow} <b>Resign.</b> \"Let's get out of here!\" You activate the hyperdrive. Add 1 X token to hyperdrive where X is your hyperdrive class. Place at least 2 supply.\n\n<b>Forced: </b>At the end of the upkeep phase, remove a supply.",
+                "text": "Uses (0 Time) If Hyperdrive has no time left, (➔R0).\n\n{Weapons/bottom-right-3d-arrow} <b>Resign.</b> \"Let's get out of here!\" You activate the hyperdrive. Add 2 + X tokens to hyperdrive where X is your hyperdrive class. Place at least 2 supply.\n\n<b>Forced: </b>At the end of the upkeep phase, remove a supply.",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -2916,9 +3262,19 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<i>Hyperdrive. Class V.</i>",
+                "text": "<i>Hyperdrive. Class III.</i>",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2992c93a-bfa1-46a1-8c5f-a7cb1167bf5c",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarssuccess",
+                "color_tint": "#342626FF",
+                "color_background": "#00000000"
               }
             },
             {
@@ -2977,6 +3333,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
+                "text": "{Abstract/plain-circle}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -2986,7 +3343,365 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Hyperdrive",
+                "text": "Hyperdrive (Class 3)",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "5ebfb59f-1c8b-44bc-acf9-ac7fde5201ea",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9b17a9c-5dac-430a-a69e-0025b301aeee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "d7935334-f413-4ec9-8063-fe6526212700",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d23ea064-cfec-4af6-80b7-c234317821e4",
+          "panels": [
+            {
+              "blueprint_panel_id": "433b324f-cb86-483c-ae22-71d22687301f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bd8c0da4-c435-4892-bb2c-c3cf49adb71e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "6db9c84f-b68d-47a2-8786-d6f8dc6ccb60",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d97237e7-2348-4bd6-8a9a-b9c63204e5b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/abstract-089}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c5e509b1-7afd-498f-9dac-ef1c386ea359",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "e1c5ee8a-4b9e-4968-9682-a992e2d37bf0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Uses (0 Time) If Hyperdrive has no time left, (➔R0).\n\n{Weapons/bottom-right-3d-arrow} <b>Resign.</b> \"Let's get out of here!\" You activate the hyperdrive. Add 2 + X tokens to hyperdrive where X is your hyperdrive class. Place at least 2 supply.\n\n<b>Forced: </b>At the end of the upkeep phase, remove a supply.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a94816b4-d3bf-4d15-a704-2ceb758aab90",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Hyperdrive. Class II.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2992c93a-bfa1-46a1-8c5f-a7cb1167bf5c",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarssuccess",
+                "color_tint": "#342626FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "322823ca-2831-48dc-b862-d5819f4a3383",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarssuccess",
+                "color_tint": "#342626FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "a05524cd-9a72-426f-8a29-99e1db8dee0f",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/hyperdrive.jpg",
+                "fit_mode": "stretch",
+                "offset": "0.26198, -0.0185",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3d77b4e8-2c81-4f10-88db-4de163af4c68",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Neutral",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9faed2b1-2bf4-4756-961b-bff43c07dca6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "System.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f0c573e4-4333-456e-adab-f94c3fda7bcc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3197e44b-b813-40d4-abbc-5b70831d0b27",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9226e901-987d-4757-93a1-6a933633c9f2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Hyperdrive (Class 2)",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "5ebfb59f-1c8b-44bc-acf9-ac7fde5201ea",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9b17a9c-5dac-430a-a69e-0025b301aeee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "d31618cd-e18e-4542-981e-a6174eb5ae5e",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d23ea064-cfec-4af6-80b7-c234317821e4",
+          "panels": [
+            {
+              "blueprint_panel_id": "433b324f-cb86-483c-ae22-71d22687301f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bd8c0da4-c435-4892-bb2c-c3cf49adb71e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "6db9c84f-b68d-47a2-8786-d6f8dc6ccb60",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d97237e7-2348-4bd6-8a9a-b9c63204e5b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/abstract-089}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c5e509b1-7afd-498f-9dac-ef1c386ea359",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "e1c5ee8a-4b9e-4968-9682-a992e2d37bf0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Uses (0 Time) If Hyperdrive has no time left, (➔R0).\n\n{Weapons/bottom-right-3d-arrow} <b>Resign.</b> \"Let's get out of here!\" You activate the hyperdrive. Add 2 + X tokens to hyperdrive where X is your hyperdrive class. Place at least 2 supply.\n\n<b>Forced: </b>At the end of the upkeep phase, remove a supply.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a94816b4-d3bf-4d15-a704-2ceb758aab90",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Hyperdrive. Class I.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "972f87f7-e62d-46a0-8f31-618bb557b1a1",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarssuccess",
+                "color_tint": "#342626FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "2992c93a-bfa1-46a1-8c5f-a7cb1167bf5c",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarssuccess",
+                "color_tint": "#342626FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "322823ca-2831-48dc-b862-d5819f4a3383",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarssuccess",
+                "color_tint": "#342626FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "a05524cd-9a72-426f-8a29-99e1db8dee0f",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/hyperdrive.jpg",
+                "fit_mode": "stretch",
+                "offset": "0.26198, -0.0185",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3d77b4e8-2c81-4f10-88db-4de163af4c68",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Neutral",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9faed2b1-2bf4-4756-961b-bff43c07dca6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "System.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f0c573e4-4333-456e-adab-f94c3fda7bcc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3197e44b-b813-40d4-abbc-5b70831d0b27",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/abstract-016}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9226e901-987d-4757-93a1-6a933633c9f2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Hyperdrive (Class 1)",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -3068,7 +3783,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{Other/rapidshare_arrow} When you play Fire-Linked weapons, attach to up to 2 weapon system. \n\n{Other/rapidshare_arrow} When you perform a Fight action with attached weapon system, resolve the action again (Once per round).",
+                "text": "{Other/rapidshare_arrow} When you play Fire-Linked weapons, attach to 2 weapon systems. \n\n{Other/rapidshare_arrow} When you perform a Fight action with an attached weapon system, resolve the an action on the other, paying all costs except the action (Once per round).",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -3157,6 +3872,558 @@
               "type": "text",
               "data": {
                 "text": "Fire-Linked Weapons",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "5ebfb59f-1c8b-44bc-acf9-ac7fde5201ea",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9b17a9c-5dac-430a-a69e-0025b301aeee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "5c2a1e4d-75b2-4857-866c-d618c1e6117b",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d23ea064-cfec-4af6-80b7-c234317821e4",
+          "panels": [
+            {
+              "blueprint_panel_id": "433b324f-cb86-483c-ae22-71d22687301f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bd8c0da4-c435-4892-bb2c-c3cf49adb71e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "6db9c84f-b68d-47a2-8786-d6f8dc6ccb60",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d97237e7-2348-4bd6-8a9a-b9c63204e5b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/abstract-089}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c5e509b1-7afd-498f-9dac-ef1c386ea359",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "e1c5ee8a-4b9e-4968-9682-a992e2d37bf0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Shields - 2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a94816b4-d3bf-4d15-a704-2ceb758aab90",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Deflector Shield.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2992c93a-bfa1-46a1-8c5f-a7cb1167bf5c",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarssuccess",
+                "color_tint": "#342626FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "322823ca-2831-48dc-b862-d5819f4a3383",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarssuccess",
+                "color_tint": "#342626FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "a05524cd-9a72-426f-8a29-99e1db8dee0f",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/shield gen.png",
+                "fit_mode": "stretch",
+                "offset": "0.26198, -0.0185",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3d77b4e8-2c81-4f10-88db-4de163af4c68",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Neutral",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9faed2b1-2bf4-4756-961b-bff43c07dca6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "System.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f0c573e4-4333-456e-adab-f94c3fda7bcc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3197e44b-b813-40d4-abbc-5b70831d0b27",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9226e901-987d-4757-93a1-6a933633c9f2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Shield Generator (Standard)",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "5ebfb59f-1c8b-44bc-acf9-ac7fde5201ea",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9b17a9c-5dac-430a-a69e-0025b301aeee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "d1c8ca63-d09a-4dfe-8783-3c40b3efda6a",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d23ea064-cfec-4af6-80b7-c234317821e4",
+          "panels": [
+            {
+              "blueprint_panel_id": "433b324f-cb86-483c-ae22-71d22687301f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bd8c0da4-c435-4892-bb2c-c3cf49adb71e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "6db9c84f-b68d-47a2-8786-d6f8dc6ccb60",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d97237e7-2348-4bd6-8a9a-b9c63204e5b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/abstract-089}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c5e509b1-7afd-498f-9dac-ef1c386ea359",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "e1c5ee8a-4b9e-4968-9682-a992e2d37bf0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Shields - 3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a94816b4-d3bf-4d15-a704-2ceb758aab90",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Deflector Shield.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "972f87f7-e62d-46a0-8f31-618bb557b1a1",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarssuccess",
+                "color_tint": "#342626FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "2992c93a-bfa1-46a1-8c5f-a7cb1167bf5c",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarssuccess",
+                "color_tint": "#342626FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "322823ca-2831-48dc-b862-d5819f4a3383",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarssuccess",
+                "color_tint": "#342626FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "a05524cd-9a72-426f-8a29-99e1db8dee0f",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/shieldgen.jpg",
+                "fit_mode": "stretch",
+                "offset": "0.26198, -0.0185",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3d77b4e8-2c81-4f10-88db-4de163af4c68",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Neutral",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9faed2b1-2bf4-4756-961b-bff43c07dca6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "System.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f0c573e4-4333-456e-adab-f94c3fda7bcc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3197e44b-b813-40d4-abbc-5b70831d0b27",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9226e901-987d-4757-93a1-6a933633c9f2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Shield Generator (Advanced)",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "5ebfb59f-1c8b-44bc-acf9-ac7fde5201ea",
+          "panels": [
+            {
+              "blueprint_panel_id": "d9b17a9c-5dac-430a-a69e-0025b301aeee",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "74bdfa1c-8438-4f6e-b1a6-dcf4d79f6547",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d23ea064-cfec-4af6-80b7-c234317821e4",
+          "panels": [
+            {
+              "blueprint_panel_id": "433b324f-cb86-483c-ae22-71d22687301f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bd8c0da4-c435-4892-bb2c-c3cf49adb71e",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "6db9c84f-b68d-47a2-8786-d6f8dc6ccb60",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d97237e7-2348-4bd6-8a9a-b9c63204e5b8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/abstract-089}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c5e509b1-7afd-498f-9dac-ef1c386ea359",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "e1c5ee8a-4b9e-4968-9682-a992e2d37bf0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Shields - 4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a94816b4-d3bf-4d15-a704-2ceb758aab90",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Deflector Shield.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "e8a8ad6c-0561-4125-984a-acf74a336cc7",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarssuccess",
+                "color_tint": "#342626FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "972f87f7-e62d-46a0-8f31-618bb557b1a1",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarssuccess",
+                "color_tint": "#342626FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "2992c93a-bfa1-46a1-8c5f-a7cb1167bf5c",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarssuccess",
+                "color_tint": "#342626FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "322823ca-2831-48dc-b862-d5819f4a3383",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "StarWars/starwarssuccess",
+                "color_tint": "#342626FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
+              "blueprint_panel_id": "a05524cd-9a72-426f-8a29-99e1db8dee0f",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/shieldgen2.png",
+                "fit_mode": "stretch",
+                "offset": "0.26198, -0.0185",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "3d77b4e8-2c81-4f10-88db-4de163af4c68",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Neutral",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9faed2b1-2bf4-4756-961b-bff43c07dca6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "System.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f0c573e4-4333-456e-adab-f94c3fda7bcc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "5",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3197e44b-b813-40d4-abbc-5b70831d0b27",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/abstract-016}{Abstract/abstract-016}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "9226e901-987d-4757-93a1-6a933633c9f2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Shield Generator (Prototype)",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
