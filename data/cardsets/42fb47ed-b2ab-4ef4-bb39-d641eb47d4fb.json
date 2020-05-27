@@ -2187,7 +2187,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Uses (0 Time) If Hyperdrive has no time left. (→R0)\n\n{Weapons/bottom-right-3d-arrow} <b>Resign.</b> Activate hyperdrive. Add 1 X time token to hyperdrive where X is your hyperdrive class. Place at least 2 supply.\n\n<b>Forced:</b> At the end of teh upkeep phase, remove a supply.",
+                "text": "Uses (0 Time) If Hyperdrive has no time left, (➔R0).\n\n{Weapons/bottom-right-3d-arrow} <b>Resign.</b> \"Let's get out of here!\" You activate the hyperdrive. Add 2 + X tokens to hyperdrive where X is your hyperdrive class.\n\n<b>Forced: </b>At the end of the upkeep phase, remove a supply.",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -2328,7 +2328,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Uses (0 Time) If Hyperdrive has no time left. (→R0)\n\n{Weapons/bottom-right-3d-arrow} <b>Resign.</b> Activate hyperdrive. Add 1 X time token to hyperdrive where X is your hyperdrive class. Place at least 2 supply.\n\n<b>Forced:</b> At the end of teh upkeep phase, remove a supply.",
+                "text": "Uses (0 Time) If Hyperdrive has no time left, (➔R0).\n\n{Weapons/bottom-right-3d-arrow} <b>Resign.</b> \"Let's get out of here!\" You activate the hyperdrive. Add 2 + X tokens to hyperdrive where X is your hyperdrive class.\n\n<b>Forced: </b>At the end of the upkeep phase, remove a supply.",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -2473,7 +2473,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Uses (0 Time) If Hyperdrive has no time left. (→R0)\n\n{Weapons/bottom-right-3d-arrow} <b>Resign.</b> Activate hyperdrive. Add 1 X time token to hyperdrive where X is your hyperdrive class. Place at least 2 supply.\n\n<b>Forced:</b> At the end of teh upkeep phase, remove a supply.",
+                "text": "Uses (0 Time) If Hyperdrive has no time left, (➔R0).\n\n{Weapons/bottom-right-3d-arrow} <b>Resign.</b> \"Let's get out of here!\" You activate the hyperdrive. Add 2 + X tokens to hyperdrive where X is your hyperdrive class.\n\n<b>Forced: </b>At the end of the upkeep phase, remove a supply.",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -2617,6 +2617,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
+                "text": "{Other/rapidshare_arrow} When you play Fire-Linked weapons, attach to 2 weapon systems. \n\n{Other/rapidshare_arrow} When you perform a Fight action with an attached weapon system, resolve the an action on the other, paying all costs except the action (Once per round).",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -2758,6 +2759,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
+                "text": "Shields - 2",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -2898,6 +2900,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
+                "text": "Shields - 3",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -3042,6 +3045,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
+                "text": "Shields - 4",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
