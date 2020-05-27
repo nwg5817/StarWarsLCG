@@ -3,7 +3,7 @@
   "cardset_id": "97c18a37-ca80-41d4-b402-9f666f5f6892",
   "name": "Space Mobs",
   "blueprint_id": "137e3e11-8be8-48d8-973e-b7f439dab8f9",
-  "hint_order_index": 14,
+  "hint_order_index": 15,
   "cards": [
     {
       "card_id": "6bdd985e-4d7a-43ad-9734-49366def6193",
@@ -62,7 +62,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{Body&Actions/two-shadows}",
+                "text": "{StarWars/starwarsseperatists}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -203,6 +203,15 @@
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
+            },
+            {
+              "blueprint_panel_id": "bb3bc0aa-82a9-40dd-8e80-10b311780fd3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
             }
           ]
         }
@@ -281,7 +290,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{Body&Actions/two-shadows}",
+                "text": "{StarWars/starwarsseperatists}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -393,6 +402,15 @@
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
+            },
+            {
+              "blueprint_panel_id": "bb3bc0aa-82a9-40dd-8e80-10b311780fd3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
             }
           ]
         }
@@ -471,7 +489,6 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{Body&Actions/two-shadows}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -569,7 +586,6 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{Body&Actions/shadow-follower}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -580,6 +596,15 @@
               "type": "text",
               "data": {
                 "text": "Mynock",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bb3bc0aa-82a9-40dd-8e80-10b311780fd3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -661,7 +686,6 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{Body&Actions/two-shadows}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -757,7 +781,6 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{Body&Actions/shadow-follower}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -768,6 +791,15 @@
               "type": "text",
               "data": {
                 "text": "Scrap Rats",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bb3bc0aa-82a9-40dd-8e80-10b311780fd3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -841,6 +873,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
+                "text": "{StarWars/starwarsseperatists}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -949,6 +982,15 @@
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
+            },
+            {
+              "blueprint_panel_id": "bb3bc0aa-82a9-40dd-8e80-10b311780fd3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
             }
           ]
         }
@@ -1020,6 +1062,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
+                "text": "{StarWars/starwarsseperatists}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -1121,6 +1164,15 @@
             },
             {
               "blueprint_panel_id": "f4e84fef-1474-4b96-b0dc-61a275c89095",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bb3bc0aa-82a9-40dd-8e80-10b311780fd3",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -1197,6 +1249,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
+                "text": "{StarWars/starwarsseperatists}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -1298,6 +1351,418 @@
             },
             {
               "blueprint_panel_id": "f4e84fef-1474-4b96-b0dc-61a275c89095",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bb3bc0aa-82a9-40dd-8e80-10b311780fd3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "ff38b35e-39c7-47b7-ad3b-3e44c0c1ca9a",
+          "panels": [
+            {
+              "blueprint_panel_id": "65a2248e-4a5e-4188-a926-0fb6857803b7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "3b5d8419-3809-41a5-ae83-4fe40d288875",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "fa1fda77-c637-487a-99d2-b3d3c56e210b",
+          "panels": [
+            {
+              "blueprint_panel_id": "de993e7a-073d-443a-856d-2309dd40e97a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/dymaxion hovering.PNG",
+                "offset": "0.00392, -0.1138"
+              }
+            },
+            {
+              "blueprint_panel_id": "3ba9b04d-b953-4490-985d-d97471de328c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fe0c0db-7833-4273-b41a-255712fde43b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2eb3db03-a66d-42f6-891c-6ad9482740f8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Weapons/bordered-shield}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c34bcca-0804-497e-88ee-76ecfb543d74",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8ed61ab9-5d5f-4310-8a36-86ca8ba2afad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "36bb4964-0e77-4e1b-a9f2-f7adfa0efde8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/circle-claws}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "012bcb92-769e-4aa9-a8a2-7289ef05feaf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "61760d84-cbcd-485a-933b-e1138f2e4717",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c10ba498-0f42-4d51-9e45-69858e98caf9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a316f977-f02e-4ecf-8835-1e431069461b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf073ae2-da6c-4c33-9a62-7fcfd37a0c4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "992addce-3e5e-4da5-8ba1-9c3a0a6966e4",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "68868400-26df-4b3e-8d39-99b5fb178392",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "47f85fa2-fe36-4572-a22b-734e2c0ae8f0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d1bd350f-de09-413d-b9c6-0c9d16c36237",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f4e84fef-1474-4b96-b0dc-61a275c89095",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Hovering Patrol Droid \n(Dymaxion Mark I)",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bb3bc0aa-82a9-40dd-8e80-10b311780fd3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "ff38b35e-39c7-47b7-ad3b-3e44c0c1ca9a",
+          "panels": [
+            {
+              "blueprint_panel_id": "65a2248e-4a5e-4188-a926-0fb6857803b7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "870efc6d-ed02-425d-a7ad-34b2b3018d94",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "8bf92752-76c3-4609-bb08-00300f28e69f",
+          "panels": [
+            {
+              "blueprint_panel_id": "b320bd32-81b5-4b6e-b624-6889a0fdebf5",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#E1E1CDFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "fa1fda77-c637-487a-99d2-b3d3c56e210b",
+          "panels": [
+            {
+              "blueprint_panel_id": "de993e7a-073d-443a-856d-2309dd40e97a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/rakghoul.jpg"
+              }
+            },
+            {
+              "blueprint_panel_id": "3ba9b04d-b953-4490-985d-d97471de328c",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2fe0c0db-7833-4273-b41a-255712fde43b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2eb3db03-a66d-42f6-891c-6ad9482740f8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Weapons/bordered-shield}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c34bcca-0804-497e-88ee-76ecfb543d74",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "8ed61ab9-5d5f-4310-8a36-86ca8ba2afad",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "36bb4964-0e77-4e1b-a9f2-f7adfa0efde8",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/circle-claws}</color>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "012bcb92-769e-4aa9-a8a2-7289ef05feaf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "61760d84-cbcd-485a-933b-e1138f2e4717",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c10ba498-0f42-4d51-9e45-69858e98caf9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "a316f977-f02e-4ecf-8835-1e431069461b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf073ae2-da6c-4c33-9a62-7fcfd37a0c4f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "992addce-3e5e-4da5-8ba1-9c3a0a6966e4",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "68868400-26df-4b3e-8d39-99b5fb178392",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "47f85fa2-fe36-4572-a22b-734e2c0ae8f0",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "d1bd350f-de09-413d-b9c6-0c9d16c36237",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "f4e84fef-1474-4b96-b0dc-61a275c89095",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Rakghoul",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bb3bc0aa-82a9-40dd-8e80-10b311780fd3",
               "rotation": 0,
               "type": "text",
               "data": {

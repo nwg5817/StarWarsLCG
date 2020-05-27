@@ -735,6 +735,16 @@
               }
             },
             {
+              "blueprint_panel_id": "0c6f85c5-66ca-449a-8ec9-12359b766141",
+              "rotation": 0,
+              "type": "icon",
+              "data": {
+                "uri": "Other/divergence",
+                "color_tint": "#42DD42FF",
+                "color_background": "#00000000"
+              }
+            },
+            {
               "blueprint_panel_id": "70e8c21b-226d-4202-9f60-2a0f84854e38",
               "rotation": 0,
               "type": "text",

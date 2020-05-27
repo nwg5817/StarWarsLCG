@@ -1702,7 +1702,7 @@
           "anchor_max_render": "0.1609923, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "54",
+          "sort_mode": "53",
           "split_mode": "vertical",
           "parent_panel_id": "da77d91e-1815-48a4-a1b5-493ad4fc1cbb"
         },
@@ -1742,7 +1742,7 @@
           "anchor_max_render": "1, 0.9216583",
           "type": "none",
           "data": {},
-          "sort_mode": "55",
+          "sort_mode": "54",
           "split_mode": "horizontal",
           "parent_panel_id": "3127a4a8-d2cb-4e4a-8c08-b8cd77d1497d"
         },
@@ -1762,7 +1762,7 @@
           "anchor_max_render": "1, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "56",
+          "sort_mode": "55",
           "split_mode": "horizontal",
           "parent_panel_id": "3127a4a8-d2cb-4e4a-8c08-b8cd77d1497d"
         }
@@ -1821,7 +1821,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "53",
+          "sort_mode": "56",
           "split_mode": "vertical",
           "parent_panel_id": "fa8491fb-e59d-4889-ac38-cc6abf8e4ca9"
         },

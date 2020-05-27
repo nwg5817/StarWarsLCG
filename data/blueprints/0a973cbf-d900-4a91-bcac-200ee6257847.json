@@ -535,7 +535,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "17",
+          "sort_mode": "13",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -555,7 +555,7 @@
           "anchor_max_render": "1, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "18",
+          "sort_mode": "14",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -592,7 +592,7 @@
             "offset": "0, 0",
             "tint": "#292A30FF"
           },
-          "sort_mode": "13",
+          "sort_mode": "15",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -627,7 +627,7 @@
             "offset": "0, 0",
             "tint": "#4F5258FF"
           },
-          "sort_mode": "14",
+          "sort_mode": "16",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -662,7 +662,7 @@
             "offset": "0, 0",
             "tint": "#BEC3C8FF"
           },
-          "sort_mode": "15",
+          "sort_mode": "17",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -755,7 +755,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "16",
+          "sort_mode": "18",
           "split_mode": "horizontal",
           "parent_panel_id": "bd5f4b40-9b92-4a2e-9711-914ea7afeb8e"
         },

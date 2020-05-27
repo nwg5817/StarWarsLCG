@@ -7,7 +7,7 @@
   "paper_landscape": false,
   "scale_override": 1.0,
   "card_spacing": 5,
-  "export_images": true,
-  "export_pdf": true,
+  "export_images": false,
+  "export_pdf": false,
   "export_tts": true
 }

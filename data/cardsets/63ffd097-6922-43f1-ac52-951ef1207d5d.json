@@ -14,9 +14,10 @@
           "panels": [
             {
               "blueprint_panel_id": "0cf93d85-6622-4cde-ad82-36c4177205f3",
+              "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Items from future era's earn the quality Prototype.\n\nPrototype - 25% more expensive, more rare.\n\nArchaic: -1\n\n"
+                "text": "Items from future era's earn the quality Prototype.\n\nPrototype - 25% more expensive, more rare.\n\nArchaic: -1{Body&Actions/heart-plus}, -1 damage, \n\nTOR discover hyperlanes that will unlock in later campaigns"
               }
             }
           ]
