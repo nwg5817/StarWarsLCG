@@ -1,11 +1,11 @@
 {
   "version": 2.12,
   "project_id": "c5d09676-59c4-4257-a973-e32e582263ee",
-  "name": "New Collection",
+  "name": "Star Wars LCG",
   "creation_app_version": "2.14.2",
   "creation_date": "20200525_132830",
   "creation_date_unix": 1590413310.0,
   "last_modification_app_version": "2.14.2",
-  "last_modification_date": "20200527_195304",
-  "last_modification_date_unix": 1590609184.0
+  "last_modification_date": "20200528_230309",
+  "last_modification_date_unix": 1590706989.0
 }

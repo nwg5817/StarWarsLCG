@@ -4147,7 +4147,11 @@
             },
             {
               "blueprint_panel_id": "399c6bd6-dae2-4009-949e-b1d3579d452b",
-              "rotation": 0
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Machine/circuitry}"
+              }
             },
             {
               "blueprint_panel_id": "f31e5023-d02e-46f3-9d93-453aa2b6e299",
@@ -4164,7 +4168,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<i>Permanent. Inactive.</i>",
+                "text": "<i>Implant.</i>",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -5485,7 +5489,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<color=#2196F3FF>{Other/awareness}</color>"
+                "text": "<color=#00F9FFFF>{Abstract/james-bond-aperture}</color>"
               }
             },
             {
@@ -5541,6 +5545,188 @@
               "type": "text",
               "data": {
                 "text": "Deflect",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4458673f-8f88-4c2f-a20f-0cb23de5521a",
+              "rotation": 0
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "95f34fdb-f997-4138-9013-5194d3e91e5a",
+          "panels": [
+            {
+              "blueprint_panel_id": "8d8fe8f3-b675-4a34-806e-401b29b73725",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "d6366145-fee0-4cb7-a71d-46c3e3d51990",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "495b1849-e941-4d5f-87da-b2f53f51ad63",
+          "panels": [
+            {
+              "blueprint_panel_id": "5aad2cf6-619a-4036-8760-c9c5a32f4585",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#00C6C9FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "d041d28c-94c1-4887-ba6a-93cc8a0274bc",
+          "panels": [
+            {
+              "blueprint_panel_id": "4c73b90b-c71a-4535-9a9d-095f04215daf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3032dce8-d003-4056-94c0-9c2b3ee0766d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fed4e99-2cd2-4da3-9f99-cc367b6bc4a2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ef29d83e-94f5-4b65-a765-80bfa1d7de38",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/ba1_handR_(2)}"
+              }
+            },
+            {
+              "blueprint_panel_id": "399c6bd6-dae2-4009-949e-b1d3579d452b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/ba1_hand_(2)}"
+              }
+            },
+            {
+              "blueprint_panel_id": "f31e5023-d02e-46f3-9d93-453aa2b6e299",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Nature/power-lightning} Spend 1 resource: You get +1 <color=#00F9FFFF>{Abstract/james-bond-aperture}</color> for this test.\n{Nature/power-lightning} Spend 1 resource: You get +1 <color=#2196F3FF>{Other/awareness}</color> for this test. ",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "00beb849-ac36-43bc-bca1-82cdfb9a6df5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Talent. Archaic.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "5b98cecd-bceb-43e6-a6c1-1688fcf093e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "2b917b33-d2f5-4a80-9d20-8f7803b9485d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#00F9FFFF>{Abstract/james-bond-aperture}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Padawans-1088x816-570401936629.jpg",
+                "fit_mode": "stretch",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "60874811-0ce9-48ea-8bbc-0d95623c816f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Force Sensitive",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc7b6679-51bc-4eb4-8ad7-811ac22b848b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Asset.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "98b3dc1a-4462-4089-9138-4c1444c56abb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c56073e8-47ac-46c4-800a-59099fcc03dc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2a2eb0ec-a593-4998-82be-6b34d2788162",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Youngling Training",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -5665,7 +5851,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<color=#2196F3FF>{Other/awareness}</color>"
+                "text": "<color=#00F9FFFF>{Abstract/james-bond-aperture}</color>"
               }
             },
             {
@@ -5843,7 +6029,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<color=#2196F3FF>{Other/awareness}</color>"
+                "text": "<color=#00F9FFFF>{Abstract/james-bond-aperture}</color>"
               }
             },
             {
@@ -6190,8 +6376,20 @@
               }
             },
             {
+              "blueprint_panel_id": "5b98cecd-bceb-43e6-a6c1-1688fcf093e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#00F9FFFF>{Abstract/james-bond-aperture}</color>"
+              }
+            },
+            {
               "blueprint_panel_id": "2b917b33-d2f5-4a80-9d20-8f7803b9485d",
-              "rotation": 0
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#00F9FFFF>{Abstract/james-bond-aperture}</color>"
+              }
             },
             {
               "blueprint_panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
@@ -6359,8 +6557,20 @@
               }
             },
             {
+              "blueprint_panel_id": "5b98cecd-bceb-43e6-a6c1-1688fcf093e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#00F9FFFF>{Abstract/james-bond-aperture}</color>"
+              }
+            },
+            {
               "blueprint_panel_id": "2b917b33-d2f5-4a80-9d20-8f7803b9485d",
-              "rotation": 0
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#00F9FFFF>{Abstract/james-bond-aperture}</color>"
+              }
             },
             {
               "blueprint_panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
@@ -6795,6 +7005,7 @@
             },
             {
               "blueprint_panel_id": "4458673f-8f88-4c2f-a20f-0cb23de5521a",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "{StarWars/starwarsmisc}"
@@ -7122,7 +7333,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "You get +1 <color=#2196F3FF>{Other/awareness}</color>\n{Nature/power-lightning} <b>Copilot.</b> Assign as co-pilot.\n\n{Other/rapidshare_arrow} Exhaust {name}. Add droid stat to player check.\n\n<size=6><i>Vaguely resembling later models from Cybot Galactica, GE3s were one of the most common and best-selling droids in the galaxy during both the Jedi Civil War and Dark Wars.</i></size>",
+                "text": "You get +1 <color=#2196F3FF>{Other/awareness}</color>\n{Nature/power-lightning} <b>Copilot.</b> Assign as co-pilot.\n\n{Other/rapidshare_arrow} Exhaust {name}. Add droid stat to player check.\n\n<size=6><i>GE3s were one of the most common and best-selling droids in the galaxy during both the Jedi Civil War and Dark Wars.</i></size>",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }
@@ -7900,6 +8111,235 @@
       ]
     },
     {
+      "card_id": "30b6b6db-d472-45ca-a1a5-00dc66a96e8a",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "495b1849-e941-4d5f-87da-b2f53f51ad63",
+          "panels": [
+            {
+              "blueprint_panel_id": "5aad2cf6-619a-4036-8760-c9c5a32f4585",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "zoom": 1.0,
+                "tint": "#97121CFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "d041d28c-94c1-4887-ba6a-93cc8a0274bc",
+          "panels": [
+            {
+              "blueprint_panel_id": "8876bcaf-55f5-4fac-ab13-afd01170b59d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Body&Actions/heart-plus}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "4c73b90b-c71a-4535-9a9d-095f04215daf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bb12b74d-fe29-4416-acb1-e14f95db91ff",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#0000FFFF>{Body&Actions/ba4_headshot_(2)}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "3032dce8-d003-4056-94c0-9c2b3ee0766d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "-",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fed4e99-2cd2-4da3-9f99-cc367b6bc4a2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "399c6bd6-dae2-4009-949e-b1d3579d452b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Clothing&Armor/t-shirt}"
+              }
+            },
+            {
+              "blueprint_panel_id": "f31e5023-d02e-46f3-9d93-453aa2b6e299",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Arkanian Bond Armor\nthis form of body armor was produced by the Arkanian people during the era of the Great Sith War. It\nused a bonded form of laminate to create its plates and panels, making it a durable - though inflexible -\nmaterial. (KOTOR)",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "00beb849-ac36-43bc-bca1-82cdfb9a6df5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Item. Armor. Archaic.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c054f674-b11a-4036-8635-af59d1725482",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarssuccess}"
+              }
+            },
+            {
+              "blueprint_panel_id": "1fe816d2-a94a-462e-ae6e-e519084c4387",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Archaic.</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "f71ffd89-1f07-4a10-8f9f-06f90d533871",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Body&Actions/ba1_fist_(2)}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "eddb1ed8-93b6-465e-a628-5a59ea54a65b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Body&Actions/ba1_fist_(2)}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5b98cecd-bceb-43e6-a6c1-1688fcf093e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "2b917b33-d2f5-4a80-9d20-8f7803b9485d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "offset": "-0.0014, -0.7522",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "60874811-0ce9-48ea-8bbc-0d95623c816f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Neutral",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc7b6679-51bc-4eb4-8ad7-811ac22b848b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Asset",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "98b3dc1a-4462-4089-9138-4c1444c56abb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c56073e8-47ac-46c4-800a-59099fcc03dc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2a2eb0ec-a593-4998-82be-6b34d2788162",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Arkanian Bond Armor",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4458673f-8f88-4c2f-a20f-0cb23de5521a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "95f34fdb-f997-4138-9013-5194d3e91e5a",
+          "panels": [
+            {
+              "blueprint_panel_id": "8d8fe8f3-b675-4a34-806e-401b29b73725",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "card_id": "138be441-85f0-4b7c-98fb-da1ff4434c00",
       "amount": 1,
       "front_layers": [
@@ -8558,7 +8998,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<color=#2196F3FF>{Other/awareness}</color>"
+                "text": "<color=#00F9FFFF>{Abstract/james-bond-aperture}</color>"
               }
             },
             {
@@ -8728,7 +9168,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<color=#2196F3FF>{Other/awareness}</color>"
+                "text": "<color=#00F9FFFF>{Abstract/james-bond-aperture}</color>"
               }
             },
             {
@@ -8905,7 +9345,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "<color=#2196F3FF>{Other/awareness}</color>"
+                "text": "<color=#00F9FFFF>{Abstract/james-bond-aperture}</color>"
               }
             },
             {
@@ -8963,6 +9403,2079 @@
               "type": "text",
               "data": {
                 "text": "Force Revive",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4458673f-8f88-4c2f-a20f-0cb23de5521a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "95f34fdb-f997-4138-9013-5194d3e91e5a",
+          "panels": [
+            {
+              "blueprint_panel_id": "8d8fe8f3-b675-4a34-806e-401b29b73725",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "55048d8b-385e-4eb2-9570-73b9dd9b011c",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "495b1849-e941-4d5f-87da-b2f53f51ad63",
+          "panels": [
+            {
+              "blueprint_panel_id": "5aad2cf6-619a-4036-8760-c9c5a32f4585",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#029396FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "d041d28c-94c1-4887-ba6a-93cc8a0274bc",
+          "panels": [
+            {
+              "blueprint_panel_id": "4c73b90b-c71a-4535-9a9d-095f04215daf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3032dce8-d003-4056-94c0-9c2b3ee0766d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fed4e99-2cd2-4da3-9f99-cc367b6bc4a2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ef29d83e-94f5-4b65-a765-80bfa1d7de38",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "399c6bd6-dae2-4009-949e-b1d3579d452b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarslightsaber1}"
+              }
+            },
+            {
+              "blueprint_panel_id": "f31e5023-d02e-46f3-9d93-453aa2b6e299",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "A phond crystal does more damage to energy shields, extra die of damage to active shields.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "00beb849-ac36-43bc-bca1-82cdfb9a6df5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Lightsaber Crystal. Attachment. Archaic.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2b917b33-d2f5-4a80-9d20-8f7803b9485d",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Phond-Crystal-Formation1.png",
+                "offset": "0.00445, -0.4658",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "60874811-0ce9-48ea-8bbc-0d95623c816f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Force Sensitive",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc7b6679-51bc-4eb4-8ad7-811ac22b848b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Asset. Hand.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "98b3dc1a-4462-4089-9138-4c1444c56abb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c56073e8-47ac-46c4-800a-59099fcc03dc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2a2eb0ec-a593-4998-82be-6b34d2788162",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Phond Crystal",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4458673f-8f88-4c2f-a20f-0cb23de5521a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "95f34fdb-f997-4138-9013-5194d3e91e5a",
+          "panels": [
+            {
+              "blueprint_panel_id": "8d8fe8f3-b675-4a34-806e-401b29b73725",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "94904802-03b3-4746-abef-d91dcb62fb7b",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "495b1849-e941-4d5f-87da-b2f53f51ad63",
+          "panels": [
+            {
+              "blueprint_panel_id": "5aad2cf6-619a-4036-8760-c9c5a32f4585",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#029396FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "d041d28c-94c1-4887-ba6a-93cc8a0274bc",
+          "panels": [
+            {
+              "blueprint_panel_id": "4c73b90b-c71a-4535-9a9d-095f04215daf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3032dce8-d003-4056-94c0-9c2b3ee0766d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fed4e99-2cd2-4da3-9f99-cc367b6bc4a2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ef29d83e-94f5-4b65-a765-80bfa1d7de38",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "399c6bd6-dae2-4009-949e-b1d3579d452b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarslightsaber1}"
+              }
+            },
+            {
+              "blueprint_panel_id": "f31e5023-d02e-46f3-9d93-453aa2b6e299",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "sigil focuses energy +2 force bonus to damage rolls",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "00beb849-ac36-43bc-bca1-82cdfb9a6df5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Lightsaber Crystal. Attachment.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2b917b33-d2f5-4a80-9d20-8f7803b9485d",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/images (2).jpg",
+                "offset": "-0.0014, -0.2630031",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "60874811-0ce9-48ea-8bbc-0d95623c816f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Force Sensitive",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc7b6679-51bc-4eb4-8ad7-811ac22b848b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Asset. Hand.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "98b3dc1a-4462-4089-9138-4c1444c56abb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c56073e8-47ac-46c4-800a-59099fcc03dc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2a2eb0ec-a593-4998-82be-6b34d2788162",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Sigil Crystal",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4458673f-8f88-4c2f-a20f-0cb23de5521a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "95f34fdb-f997-4138-9013-5194d3e91e5a",
+          "panels": [
+            {
+              "blueprint_panel_id": "8d8fe8f3-b675-4a34-806e-401b29b73725",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "79ca8a4c-b921-496b-a3a9-2cbbfdd9a708",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "495b1849-e941-4d5f-87da-b2f53f51ad63",
+          "panels": [
+            {
+              "blueprint_panel_id": "5aad2cf6-619a-4036-8760-c9c5a32f4585",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#029396FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "d041d28c-94c1-4887-ba6a-93cc8a0274bc",
+          "panels": [
+            {
+              "blueprint_panel_id": "4c73b90b-c71a-4535-9a9d-095f04215daf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3032dce8-d003-4056-94c0-9c2b3ee0766d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fed4e99-2cd2-4da3-9f99-cc367b6bc4a2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ef29d83e-94f5-4b65-a765-80bfa1d7de38",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "399c6bd6-dae2-4009-949e-b1d3579d452b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarslightsaber1}"
+              }
+            },
+            {
+              "blueprint_panel_id": "f31e5023-d02e-46f3-9d93-453aa2b6e299",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "The rubat causes energy frequency of a lightsaber blade to fluctuate slightly, allowing the weapon to have greater potential for damage. Reroll one damage roll. Eralam and upari have the same effect.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "00beb849-ac36-43bc-bca1-82cdfb9a6df5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Lightsaber Crystal. Attachment.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2b917b33-d2f5-4a80-9d20-8f7803b9485d",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Rubat-Crystal-Formation_thumb.png",
+                "offset": "0.00445, -0.4658",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "60874811-0ce9-48ea-8bbc-0d95623c816f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Force Sensitive",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc7b6679-51bc-4eb4-8ad7-811ac22b848b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Asset. Hand.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "98b3dc1a-4462-4089-9138-4c1444c56abb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c56073e8-47ac-46c4-800a-59099fcc03dc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2a2eb0ec-a593-4998-82be-6b34d2788162",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Rubat Crystal",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4458673f-8f88-4c2f-a20f-0cb23de5521a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "95f34fdb-f997-4138-9013-5194d3e91e5a",
+          "panels": [
+            {
+              "blueprint_panel_id": "8d8fe8f3-b675-4a34-806e-401b29b73725",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "60e5afe7-6540-441c-b121-f7b6388ef18f",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "495b1849-e941-4d5f-87da-b2f53f51ad63",
+          "panels": [
+            {
+              "blueprint_panel_id": "5aad2cf6-619a-4036-8760-c9c5a32f4585",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#040187FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "d041d28c-94c1-4887-ba6a-93cc8a0274bc",
+          "panels": [
+            {
+              "blueprint_panel_id": "4c73b90b-c71a-4535-9a9d-095f04215daf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3032dce8-d003-4056-94c0-9c2b3ee0766d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fed4e99-2cd2-4da3-9f99-cc367b6bc4a2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "399c6bd6-dae2-4009-949e-b1d3579d452b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Machine/circuitry}"
+              }
+            },
+            {
+              "blueprint_panel_id": "f31e5023-d02e-46f3-9d93-453aa2b6e299",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "developed more than 4,000 years before the Battle of Yavin, a bio-stabilizer implant was essentially a\nmicro-computer that was imbedded in a being's body to analyze the contents of the circulatory system.\nUsing sophisticated algorithms, the implant removed undesirable elements from the blood in an effort to\nmaintain stability. The implant could also monitor surges and drops in nerve transmission rates. (KOTOR)",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "00beb849-ac36-43bc-bca1-82cdfb9a6df5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Implant.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/implant.png",
+                "fit_mode": "stretch",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "60874811-0ce9-48ea-8bbc-0d95623c816f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Specialist",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc7b6679-51bc-4eb4-8ad7-811ac22b848b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Asset. Implant.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "98b3dc1a-4462-4089-9138-4c1444c56abb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c56073e8-47ac-46c4-800a-59099fcc03dc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2a2eb0ec-a593-4998-82be-6b34d2788162",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Bio-stabilizer Implant",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4458673f-8f88-4c2f-a20f-0cb23de5521a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "95f34fdb-f997-4138-9013-5194d3e91e5a",
+          "panels": [
+            {
+              "blueprint_panel_id": "8d8fe8f3-b675-4a34-806e-401b29b73725",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "632b842a-98bb-4838-b715-6108ecbdd062",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "495b1849-e941-4d5f-87da-b2f53f51ad63",
+          "panels": [
+            {
+              "blueprint_panel_id": "5aad2cf6-619a-4036-8760-c9c5a32f4585",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#040187FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "d041d28c-94c1-4887-ba6a-93cc8a0274bc",
+          "panels": [
+            {
+              "blueprint_panel_id": "4c73b90b-c71a-4535-9a9d-095f04215daf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3032dce8-d003-4056-94c0-9c2b3ee0766d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fed4e99-2cd2-4da3-9f99-cc367b6bc4a2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "399c6bd6-dae2-4009-949e-b1d3579d452b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsbobajango}"
+              }
+            },
+            {
+              "blueprint_panel_id": "f31e5023-d02e-46f3-9d93-453aa2b6e299",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Bio-stabilizer Mask\nsimilar in many respects to a bio-stabilizer implant, the bio-stabilizer mask could analyze circulation\npatterns through the skin, as well as monitor breathing through chemical sensors, and reactions through\neye movements. Whereas the implant was surgically imbedded into a being's body, the mask was worn\non the outside of the body. In this way, the mask was essentially a complete environmental system,\npreventing toxins from ever reaching the wearer.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "00beb849-ac36-43bc-bca1-82cdfb9a6df5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Implant.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "fit_mode": "stretch",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "60874811-0ce9-48ea-8bbc-0d95623c816f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Specialist",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc7b6679-51bc-4eb4-8ad7-811ac22b848b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Asset. Implant.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "98b3dc1a-4462-4089-9138-4c1444c56abb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c56073e8-47ac-46c4-800a-59099fcc03dc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2a2eb0ec-a593-4998-82be-6b34d2788162",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Bio-stabilizer Mask",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4458673f-8f88-4c2f-a20f-0cb23de5521a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "95f34fdb-f997-4138-9013-5194d3e91e5a",
+          "panels": [
+            {
+              "blueprint_panel_id": "8d8fe8f3-b675-4a34-806e-401b29b73725",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "7966f131-111b-4bfd-a127-ac5f0bc872ae",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "495b1849-e941-4d5f-87da-b2f53f51ad63",
+          "panels": [
+            {
+              "blueprint_panel_id": "5aad2cf6-619a-4036-8760-c9c5a32f4585",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#97121CFF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "d041d28c-94c1-4887-ba6a-93cc8a0274bc",
+          "panels": [
+            {
+              "blueprint_panel_id": "4c73b90b-c71a-4535-9a9d-095f04215daf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3032dce8-d003-4056-94c0-9c2b3ee0766d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fed4e99-2cd2-4da3-9f99-cc367b6bc4a2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "399c6bd6-dae2-4009-949e-b1d3579d452b",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "f31e5023-d02e-46f3-9d93-453aa2b6e299",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Choose either your location or a connecting location. Deal 1 damage to each enemy and to each investigator at the chosen location. Each enemy is exhausted. Each player at that location tests mind  (3). For each point you fail by, you must either lose 1 action on their next turn or take 1 damage.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "00beb849-ac36-43bc-bca1-82cdfb9a6df5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Implant.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/710x528_27727369_12010806_1570828536.jpg",
+                "fit_mode": "stretch",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "60874811-0ce9-48ea-8bbc-0d95623c816f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Specialist",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc7b6679-51bc-4eb4-8ad7-811ac22b848b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Asset. Implant.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "98b3dc1a-4462-4089-9138-4c1444c56abb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c56073e8-47ac-46c4-800a-59099fcc03dc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2a2eb0ec-a593-4998-82be-6b34d2788162",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "CryoBan Grenade",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4458673f-8f88-4c2f-a20f-0cb23de5521a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "95f34fdb-f997-4138-9013-5194d3e91e5a",
+          "panels": [
+            {
+              "blueprint_panel_id": "8d8fe8f3-b675-4a34-806e-401b29b73725",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a93e0ac3-cf0b-48c8-8b52-078b462af7c2",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "495b1849-e941-4d5f-87da-b2f53f51ad63",
+          "panels": [
+            {
+              "blueprint_panel_id": "5aad2cf6-619a-4036-8760-c9c5a32f4585",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#1E8701FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "d041d28c-94c1-4887-ba6a-93cc8a0274bc",
+          "panels": [
+            {
+              "blueprint_panel_id": "4c73b90b-c71a-4535-9a9d-095f04215daf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3032dce8-d003-4056-94c0-9c2b3ee0766d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fed4e99-2cd2-4da3-9f99-cc367b6bc4a2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "399c6bd6-dae2-4009-949e-b1d3579d452b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsbobajango}"
+              }
+            },
+            {
+              "blueprint_panel_id": "f31e5023-d02e-46f3-9d93-453aa2b6e299",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Bio-stabilizer Mask\nsimilar in many respects to a bio-stabilizer implant, the bio-stabilizer mask could analyze circulation\npatterns through the skin, as well as monitor breathing through chemical sensors, and reactions through\neye movements. Whereas the implant was surgically imbedded into a being's body, the mask was worn\non the outside of the body. In this way, the mask was essentially a complete environmental system,\npreventing toxins from ever reaching the wearer.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "00beb849-ac36-43bc-bca1-82cdfb9a6df5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Implant.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/ee3nFPi.jpg",
+                "fit_mode": "fit",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "60874811-0ce9-48ea-8bbc-0d95623c816f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Rogue",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc7b6679-51bc-4eb4-8ad7-811ac22b848b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Asset. Implant.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "98b3dc1a-4462-4089-9138-4c1444c56abb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c56073e8-47ac-46c4-800a-59099fcc03dc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2a2eb0ec-a593-4998-82be-6b34d2788162",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Quick Draw Holster",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4458673f-8f88-4c2f-a20f-0cb23de5521a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "95f34fdb-f997-4138-9013-5194d3e91e5a",
+          "panels": [
+            {
+              "blueprint_panel_id": "8d8fe8f3-b675-4a34-806e-401b29b73725",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "5c872dfd-ead4-401c-b40b-d8b52cb8a7d6",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "495b1849-e941-4d5f-87da-b2f53f51ad63",
+          "panels": [
+            {
+              "blueprint_panel_id": "5aad2cf6-619a-4036-8760-c9c5a32f4585",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#029396FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "d041d28c-94c1-4887-ba6a-93cc8a0274bc",
+          "panels": [
+            {
+              "blueprint_panel_id": "4c73b90b-c71a-4535-9a9d-095f04215daf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3032dce8-d003-4056-94c0-9c2b3ee0766d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fed4e99-2cd2-4da3-9f99-cc367b6bc4a2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ef29d83e-94f5-4b65-a765-80bfa1d7de38",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/ba1_handR_(2)}"
+              }
+            },
+            {
+              "blueprint_panel_id": "399c6bd6-dae2-4009-949e-b1d3579d452b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/ba1_hand_(2)}"
+              }
+            },
+            {
+              "blueprint_panel_id": "f31e5023-d02e-46f3-9d93-453aa2b6e299",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Weapons/bottom-right-3d-arrow} <b>Fight.</b> This attack uses -2<color=#00F9FFFF>{Abstract/james-bond-aperture}</color> instead of <color=#FF0000FF>{Body&Actions/ba1_fist_(2)}</color>. You deal +1 damage for this attack.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "00beb849-ac36-43bc-bca1-82cdfb9a6df5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Lightsaber. Generation I. Restricted.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2b917b33-d2f5-4a80-9d20-8f7803b9485d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#00F9FFFF>{Abstract/james-bond-aperture}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/ancient.png",
+                "fit_mode": "stretch",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "60874811-0ce9-48ea-8bbc-0d95623c816f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Force Sensitive",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc7b6679-51bc-4eb4-8ad7-811ac22b848b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Asset. Hand.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "98b3dc1a-4462-4089-9138-4c1444c56abb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c56073e8-47ac-46c4-800a-59099fcc03dc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2a2eb0ec-a593-4998-82be-6b34d2788162",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Training Lightsaber",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4458673f-8f88-4c2f-a20f-0cb23de5521a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "95f34fdb-f997-4138-9013-5194d3e91e5a",
+          "panels": [
+            {
+              "blueprint_panel_id": "8d8fe8f3-b675-4a34-806e-401b29b73725",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "b858d8ab-8d1a-4f2b-b8b0-c039f94edd9a",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "495b1849-e941-4d5f-87da-b2f53f51ad63",
+          "panels": [
+            {
+              "blueprint_panel_id": "5aad2cf6-619a-4036-8760-c9c5a32f4585",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#029396FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "d041d28c-94c1-4887-ba6a-93cc8a0274bc",
+          "panels": [
+            {
+              "blueprint_panel_id": "4c73b90b-c71a-4535-9a9d-095f04215daf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3032dce8-d003-4056-94c0-9c2b3ee0766d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fed4e99-2cd2-4da3-9f99-cc367b6bc4a2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ef29d83e-94f5-4b65-a765-80bfa1d7de38",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "399c6bd6-dae2-4009-949e-b1d3579d452b",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "f31e5023-d02e-46f3-9d93-453aa2b6e299",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Nature/power-lightning} Spend 1 resource: You get +1 <color=#00F9FFFF>{Abstract/james-bond-aperture}</color> for this test.\n{Nature/power-lightning} Spend 1 resource: You get +1 <color=#2196F3FF>{Other/awareness}</color> for this test. ",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "00beb849-ac36-43bc-bca1-82cdfb9a6df5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Talent. Archaic.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "5b98cecd-bceb-43e6-a6c1-1688fcf093e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "2b917b33-d2f5-4a80-9d20-8f7803b9485d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#00F9FFFF>{Abstract/james-bond-aperture}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Swtor_2014-11-04_20-24-41-39.png",
+                "fit_mode": "stretch",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "60874811-0ce9-48ea-8bbc-0d95623c816f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Force Sensitive",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc7b6679-51bc-4eb4-8ad7-811ac22b848b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Asset.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "98b3dc1a-4462-4089-9138-4c1444c56abb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c56073e8-47ac-46c4-800a-59099fcc03dc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2a2eb0ec-a593-4998-82be-6b34d2788162",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Physical Training",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4458673f-8f88-4c2f-a20f-0cb23de5521a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "95f34fdb-f997-4138-9013-5194d3e91e5a",
+          "panels": [
+            {
+              "blueprint_panel_id": "8d8fe8f3-b675-4a34-806e-401b29b73725",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "088a9516-af72-41da-b662-b98676f1250c",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "495b1849-e941-4d5f-87da-b2f53f51ad63",
+          "panels": [
+            {
+              "blueprint_panel_id": "5aad2cf6-619a-4036-8760-c9c5a32f4585",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#029396FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "d041d28c-94c1-4887-ba6a-93cc8a0274bc",
+          "panels": [
+            {
+              "blueprint_panel_id": "4c73b90b-c71a-4535-9a9d-095f04215daf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3032dce8-d003-4056-94c0-9c2b3ee0766d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fed4e99-2cd2-4da3-9f99-cc367b6bc4a2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ef29d83e-94f5-4b65-a765-80bfa1d7de38",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "399c6bd6-dae2-4009-949e-b1d3579d452b",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "f31e5023-d02e-46f3-9d93-453aa2b6e299",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Other/rapidshare_arrow} During another player's turn, exhaust {name}: For the remainder of that player's turn, as they move from your location to a connecting location, you may move to that location as well.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "00beb849-ac36-43bc-bca1-82cdfb9a6df5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Title. Archaic.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "5b98cecd-bceb-43e6-a6c1-1688fcf093e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#42DD42FF>{Body&Actions/dodging}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "2b917b33-d2f5-4a80-9d20-8f7803b9485d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/eric-leon-alien-jedi-and-queen.jpg",
+                "fit_mode": "stretch",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "60874811-0ce9-48ea-8bbc-0d95623c816f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Force Sensitive",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc7b6679-51bc-4eb4-8ad7-811ac22b848b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Asset.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "98b3dc1a-4462-4089-9138-4c1444c56abb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c56073e8-47ac-46c4-800a-59099fcc03dc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2a2eb0ec-a593-4998-82be-6b34d2788162",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Ambassador",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4458673f-8f88-4c2f-a20f-0cb23de5521a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "95f34fdb-f997-4138-9013-5194d3e91e5a",
+          "panels": [
+            {
+              "blueprint_panel_id": "8d8fe8f3-b675-4a34-806e-401b29b73725",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "27ce189e-8629-4c0f-b77d-1b172714787d",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "495b1849-e941-4d5f-87da-b2f53f51ad63",
+          "panels": [
+            {
+              "blueprint_panel_id": "5aad2cf6-619a-4036-8760-c9c5a32f4585",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#029396FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "d041d28c-94c1-4887-ba6a-93cc8a0274bc",
+          "panels": [
+            {
+              "blueprint_panel_id": "4c73b90b-c71a-4535-9a9d-095f04215daf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3032dce8-d003-4056-94c0-9c2b3ee0766d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fed4e99-2cd2-4da3-9f99-cc367b6bc4a2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ef29d83e-94f5-4b65-a765-80bfa1d7de38",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "399c6bd6-dae2-4009-949e-b1d3579d452b",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "f31e5023-d02e-46f3-9d93-453aa2b6e299",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Fast. Play when a non-Elite enemy would attack another investigator at your location or a connecting location.\n\nMove to that location if you are not already there. Engage that enemy and resolve its attack against you instead. Then, deal it 1 damage.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "00beb849-ac36-43bc-bca1-82cdfb9a6df5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Title. Archaic.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "eddb1ed8-93b6-465e-a628-5a59ea54a65b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#42DD42FF>{Body&Actions/dodging}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "5b98cecd-bceb-43e6-a6c1-1688fcf093e3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Body&Actions/ba1_fist_(2)}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "2b917b33-d2f5-4a80-9d20-8f7803b9485d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#2196F3FF>{Other/awareness}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/JediGuardian-AoD.jpg",
+                "fit_mode": "fit",
+                "offset": "-0.0014, -0.09940488",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "60874811-0ce9-48ea-8bbc-0d95623c816f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Force Sensitive",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc7b6679-51bc-4eb4-8ad7-811ac22b848b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Asset.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "98b3dc1a-4462-4089-9138-4c1444c56abb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "2",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c56073e8-47ac-46c4-800a-59099fcc03dc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Abstract/plain-circle}{Abstract/plain-circle}",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2a2eb0ec-a593-4998-82be-6b34d2788162",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Peacekeeper",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "4458673f-8f88-4c2f-a20f-0cb23de5521a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "95f34fdb-f997-4138-9013-5194d3e91e5a",
+          "panels": [
+            {
+              "blueprint_panel_id": "8d8fe8f3-b675-4a34-806e-401b29b73725",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "c2015803-965f-4a95-81e7-3cd4897ffb36",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "495b1849-e941-4d5f-87da-b2f53f51ad63",
+          "panels": [
+            {
+              "blueprint_panel_id": "5aad2cf6-619a-4036-8760-c9c5a32f4585",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "tint": "#029396FF"
+              }
+            }
+          ]
+        },
+        {
+          "blueprint_layer_id": "d041d28c-94c1-4887-ba6a-93cc8a0274bc",
+          "panels": [
+            {
+              "blueprint_panel_id": "8876bcaf-55f5-4fac-ab13-afd01170b59d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#FF0000FF>{Body&Actions/heart-plus}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "4c73b90b-c71a-4535-9a9d-095f04215daf",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "8",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "bb12b74d-fe29-4416-acb1-e14f95db91ff",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<color=#0000FFFF>{Body&Actions/ba4_headshot_(2)}</color>"
+              }
+            },
+            {
+              "blueprint_panel_id": "3032dce8-d003-4056-94c0-9c2b3ee0766d",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "3fed4e99-2cd2-4da3-9f99-cc367b6bc4a2",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "ef29d83e-94f5-4b65-a765-80bfa1d7de38",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "399c6bd6-dae2-4009-949e-b1d3579d452b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{Body&Actions/person}"
+              }
+            },
+            {
+              "blueprint_panel_id": "f31e5023-d02e-46f3-9d93-453aa2b6e299",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Non-direct damage must be assigned to {name} before it can be assigned to another player at your location.\n\n{Other/rapidshare_arrow} When an enemy attack deals damage to {name}: Deal 2 damage to the attacking enemy.\n\n<b>Forced</b> - When {name} leaves play: Remove them from the game and record in your Campaign Log that \"your master has died.\"",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "00beb849-ac36-43bc-bca1-82cdfb9a6df5",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Ally. Jedi. Archaic.</i>",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "eddb1ed8-93b6-465e-a628-5a59ea54a65b",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "5b98cecd-bceb-43e6-a6c1-1688fcf093e3",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "2b917b33-d2f5-4a80-9d20-8f7803b9485d",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/Salara.png",
+                "fit_mode": "fit",
+                "offset": "0.00141, -0.2955",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "60874811-0ce9-48ea-8bbc-0d95623c816f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Force Sensitive",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "cc7b6679-51bc-4eb4-8ad7-811ac22b848b",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Asset. Ally.",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "98b3dc1a-4462-4089-9138-4c1444c56abb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "4",
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "c56073e8-47ac-46c4-800a-59099fcc03dc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "image_scaling": 1.0,
+                "image_offset": "0, 0"
+              }
+            },
+            {
+              "blueprint_panel_id": "2a2eb0ec-a593-4998-82be-6b34d2788162",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Master",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }

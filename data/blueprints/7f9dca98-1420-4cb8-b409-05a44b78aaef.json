@@ -377,7 +377,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "12",
+          "sort_mode": "8",
           "split_mode": "horizontal",
           "parent_panel_id": "ddd211cb-7764-4670-b5e0-655ad916fb07"
         },
@@ -408,7 +408,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "13",
+          "sort_mode": "9",
           "split_mode": "horizontal",
           "parent_panel_id": "ddd211cb-7764-4670-b5e0-655ad916fb07"
         },
@@ -600,7 +600,7 @@
             "offset": "0, 0",
             "tint": "#292A30FF"
           },
-          "sort_mode": "8",
+          "sort_mode": "10",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -635,7 +635,7 @@
             "offset": "0, 0",
             "tint": "#DDDECCFF"
           },
-          "sort_mode": "9",
+          "sort_mode": "11",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -670,7 +670,7 @@
             "offset": "0, 0",
             "tint": "#E1E7E1FF"
           },
-          "sort_mode": "10",
+          "sort_mode": "12",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -709,7 +709,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "11",
+          "sort_mode": "13",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },

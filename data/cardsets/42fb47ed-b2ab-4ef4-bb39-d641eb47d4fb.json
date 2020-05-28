@@ -3138,7 +3138,7 @@
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/plain-circle}{Abstract/abstract-016}{Abstract/abstract-016}",
+                "text": "{Abstract/diamonds}{Abstract/plain-circle}{Abstract/plain-circle}",
                 "image_scaling": 1.0,
                 "image_offset": "0, 0"
               }

@@ -363,7 +363,7 @@
         },
         {
           "panel_id": "f31e5023-d02e-46f3-9d93-453aa2b6e299",
-          "name": "",
+          "name": "Actions",
           "enabled": true,
           "locked": false,
           "rotation": 0,
@@ -394,7 +394,7 @@
         },
         {
           "panel_id": "00beb849-ac36-43bc-bca1-82cdfb9a6df5",
-          "name": "",
+          "name": "traits",
           "enabled": true,
           "locked": false,
           "rotation": 0,
@@ -716,7 +716,7 @@
         },
         {
           "panel_id": "bf5becf1-80ea-42b6-9f87-e198163b4e85",
-          "name": "",
+          "name": "Image",
           "enabled": true,
           "locked": false,
           "rotation": 0,
@@ -743,7 +743,7 @@
         },
         {
           "panel_id": "60874811-0ce9-48ea-8bbc-0d95623c816f",
-          "name": "",
+          "name": "Type",
           "enabled": true,
           "locked": false,
           "rotation": 0,
@@ -863,7 +863,7 @@
         },
         {
           "panel_id": "98b3dc1a-4462-4089-9138-4c1444c56abb",
-          "name": "",
+          "name": "Cost",
           "enabled": true,
           "locked": false,
           "rotation": 0,
@@ -956,7 +956,7 @@
         },
         {
           "panel_id": "4458673f-8f88-4c2f-a20f-0cb23de5521a",
-          "name": "",
+          "name": "Era",
           "enabled": true,
           "locked": false,
           "rotation": 0,

@@ -1199,7 +1199,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "32",
+          "sort_mode": "28",
           "split_mode": "horizontal",
           "parent_panel_id": "483835c1-8eac-48c7-b5db-94f8d5955808"
         },
@@ -1230,7 +1230,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "33",
+          "sort_mode": "29",
           "split_mode": "horizontal",
           "parent_panel_id": "483835c1-8eac-48c7-b5db-94f8d5955808"
         },
@@ -1566,7 +1566,7 @@
             "offset": "0, 0",
             "tint": "#292A30FF"
           },
-          "sort_mode": "28",
+          "sort_mode": "30",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -1601,7 +1601,7 @@
             "offset": "0, 0",
             "tint": "#FF0000CA"
           },
-          "sort_mode": "29",
+          "sort_mode": "31",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -1636,7 +1636,7 @@
             "offset": "0, 0",
             "tint": "#E1E7F2FF"
           },
-          "sort_mode": "30",
+          "sort_mode": "32",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -1671,7 +1671,7 @@
             "offset": "0, 0",
             "tint": "#E9ECF3FF"
           },
-          "sort_mode": "31",
+          "sort_mode": "33",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -2916,7 +2916,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "71",
+          "sort_mode": "69",
           "split_mode": "horizontal",
           "parent_panel_id": "b5d2e6f6-505e-4afa-9437-912503d46e8a"
         },
@@ -2947,7 +2947,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "72",
+          "sort_mode": "70",
           "split_mode": "horizontal",
           "parent_panel_id": "b5d2e6f6-505e-4afa-9437-912503d46e8a"
         },
@@ -2978,7 +2978,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "70",
+          "sort_mode": "71",
           "split_mode": "vertical",
           "parent_panel_id": "231567e3-919e-4b42-b423-dedd5a858f35"
         }

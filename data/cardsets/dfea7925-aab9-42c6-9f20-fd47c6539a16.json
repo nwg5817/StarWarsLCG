@@ -581,6 +581,7 @@
             },
             {
               "blueprint_panel_id": "da32d889-e039-45c1-b490-e8b2243deb38",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Arquitens-class"
@@ -588,6 +589,7 @@
             },
             {
               "blueprint_panel_id": "aba303d1-e7b5-4652-a717-a0346f13a1e6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "{StarWars/starwarseraclonewars}"
@@ -896,6 +898,7 @@
             },
             {
               "blueprint_panel_id": "ebde6f9f-0969-49dd-ac57-9e5803eecc97",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Munificent-class Heavy Frigate"
@@ -903,6 +906,7 @@
             },
             {
               "blueprint_panel_id": "47285098-b1b9-40ca-b35b-023e6e26b08f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "{StarWars/starwarseraclonewars}"
@@ -1196,6 +1200,7 @@
             },
             {
               "blueprint_panel_id": "da32d889-e039-45c1-b490-e8b2243deb38",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Munificent-class Heavy Frigate"
@@ -1203,6 +1208,7 @@
             },
             {
               "blueprint_panel_id": "aba303d1-e7b5-4652-a717-a0346f13a1e6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "{StarWars/starwarseraclonewars}"
@@ -1502,6 +1508,7 @@
             },
             {
               "blueprint_panel_id": "ebde6f9f-0969-49dd-ac57-9e5803eecc97",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Star Forge"
@@ -1509,6 +1516,7 @@
             },
             {
               "blueprint_panel_id": "47285098-b1b9-40ca-b35b-023e6e26b08f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "{StarWars/starwarsmisc}"
@@ -1799,6 +1807,7 @@
             },
             {
               "blueprint_panel_id": "da32d889-e039-45c1-b490-e8b2243deb38",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Star Forge"
@@ -1806,6 +1815,7 @@
             },
             {
               "blueprint_panel_id": "aba303d1-e7b5-4652-a717-a0346f13a1e6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "{StarWars/starwarsmisc}"
@@ -2101,6 +2111,7 @@
             },
             {
               "blueprint_panel_id": "ebde6f9f-0969-49dd-ac57-9e5803eecc97",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Harrower-class dreadnought"
@@ -2108,6 +2119,7 @@
             },
             {
               "blueprint_panel_id": "47285098-b1b9-40ca-b35b-023e6e26b08f",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "{StarWars/starwarsmisc}"
@@ -2386,6 +2398,7 @@
             },
             {
               "blueprint_panel_id": "da32d889-e039-45c1-b490-e8b2243deb38",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "Harrower-class dreadnought"
@@ -2393,6 +2406,7 @@
             },
             {
               "blueprint_panel_id": "aba303d1-e7b5-4652-a717-a0346f13a1e6",
+              "rotation": 0,
               "type": "text",
               "data": {
                 "text": "{StarWars/starwarsmisc}"
