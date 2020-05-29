@@ -1292,7 +1292,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "34",
+          "sort_mode": "30",
           "split_mode": "horizontal",
           "parent_panel_id": "4f80e76b-c85d-4db0-8b70-88486e47ca19"
         },
@@ -1323,7 +1323,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "35",
+          "sort_mode": "31",
           "split_mode": "horizontal",
           "parent_panel_id": "4f80e76b-c85d-4db0-8b70-88486e47ca19"
         },
@@ -1566,7 +1566,7 @@
             "offset": "0, 0",
             "tint": "#292A30FF"
           },
-          "sort_mode": "30",
+          "sort_mode": "32",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -1601,7 +1601,7 @@
             "offset": "0, 0",
             "tint": "#FF0000CA"
           },
-          "sort_mode": "31",
+          "sort_mode": "33",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -1636,7 +1636,7 @@
             "offset": "0, 0",
             "tint": "#E1E7F2FF"
           },
-          "sort_mode": "32",
+          "sort_mode": "34",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -1671,7 +1671,7 @@
             "offset": "0, 0",
             "tint": "#E9ECF3FF"
           },
-          "sort_mode": "33",
+          "sort_mode": "35",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },

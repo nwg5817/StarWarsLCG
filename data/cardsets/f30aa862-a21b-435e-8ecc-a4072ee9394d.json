@@ -1,0 +1,324 @@
+{
+  "version": 2.12,
+  "cardset_id": "f30aa862-a21b-435e-8ecc-a4072ee9394d",
+  "name": "UNNAMED",
+  "blueprint_id": "97b4649b-9b09-412a-88cb-c1421587ab64",
+  "hint_order_index": 19,
+  "cards": [
+    {
+      "card_id": "c3659889-f2a6-489e-b46b-b0d5063c224e",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee069eab-fa09-49f1-994a-46aede65a6fa",
+          "panels": [
+            {
+              "blueprint_panel_id": "61b70ead-2119-41a3-9ba9-dd217fe686bc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Your destiny is to train or educate another being or group of beings in some way. In some cases, this could mean taking a young Padawan learner and molding her into an eventual Jedi Master, or it could mean training fresh-faced Rebel Alliance recruits and molding them into a crack team of SpecForce operatives. Characters with this destiny are not merely teachers providing mundane training. The education that this destiny demands must be of great importance to the galaxy, and should lay the groundwork for the beneficiaries of your tutelage to go on to fulfill destinies of their own. Only when the training is complete can this destiny be fulfilled, and the process\nshould take many months or years to complete.\n\nExamples of this destiny include Obi-Wan Kenobi's training of Anakin Skywalker, Yoda's training of Luke Skywalker, or Grand Admiral Thrawn's training of Captain Pellaeon.\nDestiny Bonus: For 24 hours, you and any allies within 10 squares of you gain a +1 destiny bonus on skill checks and ability checks.\nDestiny Penalty: You take a -2 penalty on all skill checks and ability checks for 24 hours.\nDestiny Fulfilled: You gain a permanent +5 destiny bonus on checks made with one class skill of your choice."
+              }
+            },
+            {
+              "blueprint_panel_id": "271eeeaf-afdf-4feb-aae0-8e32f862a0ba",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Destiny.</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c69b631-05b3-45d0-8574-946976603d8f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Education"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "d54be863-a0d6-4639-bb72-b3d25d4e6d3a",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee069eab-fa09-49f1-994a-46aede65a6fa",
+          "panels": [
+            {
+              "blueprint_panel_id": "61b70ead-2119-41a3-9ba9-dd217fe686bc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Redemption\nYour destiny is to redeem a character that has been corrupted or otherwise turned to evil. Many Jedi seek to turn their fallen brethren away from the dark side. A Rebel agent might seek to turn his brother, an Imperial officer, away from the evil Empire, redeeming him back to the side of justice and freedom. The target of this destiny should be someone that has fallen from the light in some way, whether that means turning to the dark side of the Force or simply siding with evil over good. Turning someone away from their wicked ways is usually very difficult and requires far more than simple persuasion. Often a character that fulfills this destiny does not survive it, and sometimes neither does their redeemed target. Additionally, you may be your own target for this destiny, making your own redemption the means of fulfilling it.\n\nExamples of this destiny inclurje Luke Skywalker turning Darth Vader away from the dark side and Revan's redemption of Bastila Shan on the Star Forge.\nDestiny Bonus: You gain a Force Point.\nDestiny Penalty: You lose one Force Point. If you have no Force Point to lose, you take a -1 penalty on attack rolls until you gain a level. \nDestiny Fulfilled: The Dark Side Score of the redeemed character is reduced to 1, and he loses any remaining Force Points. You gain a number of Force Points equal to 3 + the number of Force Points the redeemed character lost."
+              }
+            },
+            {
+              "blueprint_panel_id": "271eeeaf-afdf-4feb-aae0-8e32f862a0ba",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Destiny.</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c69b631-05b3-45d0-8574-946976603d8f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Redemption"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "d846c1cb-5eac-4187-bd7e-2003ffe7dd90",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee069eab-fa09-49f1-994a-46aede65a6fa",
+          "panels": [
+            {
+              "blueprint_panel_id": "61b70ead-2119-41a3-9ba9-dd217fe686bc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Corruption\nYour destiny is to corrupt an individual, organization, or location. You may seek to turn a person to the dark side or indoctrinate a group of people in the ways of evil. Your destiny may also be to become corrupted yourself, either by another character, an organization, or a series of life-changing events that unfold over time. The corruption should be a long-term goal requiring\na great deal of time and effort.\n\nExamples of this destiny include the Emperor's corruption of Anakin Skywalker, a dark Force-user transforming a Jedi shrine into a temple of evil, or an Imperial officer convincing an Alliance cell to betray the Rebellion.Additionally, a character's destiny may be to allow herself to be corrupted by the dark side; her fall into darkness becomes the path to achieving this\ndestiny.\nDestiny Bonus: For 24 hours, you and any allies within 10 squares of you\ngain a +1 destiny bonus on skill checks and ability checks.\nDestiny Penalty: You take a -2 penalty on all skill checks and abilitychecks for 24 hours.\nDestiny Fulfilled: Increase two ability scores of your choice by +1 each.\nIn addition, if your Dark Side Score (see page 94) is less than your Wisdom score, your Dark Side Score increases until it's equal to your Wisdom score, signifying that you've turned to the dark side (see The Dark Side, page 93).\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "271eeeaf-afdf-4feb-aae0-8e32f862a0ba",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Destiny.</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c69b631-05b3-45d0-8574-946976603d8f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Corruption"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "d5666518-efff-40e0-8c81-9c578378f5dc",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee069eab-fa09-49f1-994a-46aede65a6fa",
+          "panels": [
+            {
+              "blueprint_panel_id": "61b70ead-2119-41a3-9ba9-dd217fe686bc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Destruction\nYour destiny is to destroy a person or object, for good or evil. A Rebel agent's destiny might be to destroy a tyrannical Imperial Moff presiding over his home planet, while a darksider may be destined to destroy a powerful Jedi training site used to bolster the ranks of the Jedi order. The target of this destiny should be something very difficult to reach, either because it's heavily guarded or well hidden. \n\nExamples of this destiny include Darth Vader's destruction of the Emperor, Lando Calrissian's destruction of the Death Star II, or A-wing pilot Arvel Crynyd's destruction of the Executor.\nDestiny Bonus: For 24 hours, you and any allies within 10 squares of yougain a +2 destiny bonus on all damage rolls.\nDestiny Penalty: You take a -2 penalty on all damage rolls for 24 hours.\nDestiny Fulfilled: Increase one ability score of your choice by +2."
+              }
+            },
+            {
+              "blueprint_panel_id": "271eeeaf-afdf-4feb-aae0-8e32f862a0ba",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Destiny.</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c69b631-05b3-45d0-8574-946976603d8f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Destruction"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "504add8b-9969-406b-af2a-8ffa46ba4118",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee069eab-fa09-49f1-994a-46aede65a6fa",
+          "panels": [
+            {
+              "blueprint_panel_id": "61b70ead-2119-41a3-9ba9-dd217fe686bc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Discovery\nYour destiny is to discover a person, species, object, or location that was either previously lost or unknown to the civilized galaxy. This could be as simple as seeking out the remains of a long-dead hero, or as rare as finding a vergence in the Force. A scout's destiny might be to find a thus-far-uncharted world that helps solve a galactic crisis, while a scoundrel's destiny might be to chart a new route through the Deep Core, allowing the Rebel Alliance to sneak past the Empire's security web. The thing being discovered should be something that can only be found as the result of a long-term search or serendipitous events that only occur because the character long ago set down the path that would lead to that discovery.\n\nExamples of this destiny include Qui-Gon Jinn's discovery of Anakin Skywalker on Tatooine or Kyle Katarn's discovery of the Valley of the Jedi.\nDestiny Bonus: For 24 hours, you and any allies within 10 squares of you gain a +1 destiny bonus to all defenses (Reflex, Fortitude, and Will).\nDestiny Penalty: You take a -1 penalty to your defenses (Reflex, Fortitude, and Will) for 24 hours.\nDestiny Fulfilled: You gain a permanent +1 destiny bonus to your defenses (Reflex, Fortitude, and Will)."
+              }
+            },
+            {
+              "blueprint_panel_id": "271eeeaf-afdf-4feb-aae0-8e32f862a0ba",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Destiny.</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c69b631-05b3-45d0-8574-946976603d8f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Discovery"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "a85a26b9-2929-4c51-bab4-1c01339600d5",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee069eab-fa09-49f1-994a-46aede65a6fa",
+          "panels": [
+            {
+              "blueprint_panel_id": "61b70ead-2119-41a3-9ba9-dd217fe686bc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Your destiny requires you to save a person from death or an object from destruction. Often characters with this destiny will not know which person or object they’re meant to save, let alone when and how to do so. They simply must be in the right place at the right time. A hero might spend months traveling with their allies before fulfilling their destiny by saving one of their lives. Conversely, a Rebel agent might engage in years’ worth of espionage on their home planet, only to find that their destiny is to save a local Imperial Magistrate who betrays the Empire after having their life saved.\n\n      Examples of this destiny include Han Solo saving Luke Skywalker’s life at the Battle of Yavin, and Wicket the Ewok rescuing Leia from the scout troopers on Endor.\n      Destiny Bonus: For 24 hours, you and any allies within 10 squares of you gain a +2 destiny bonus on all damage rolls.\n      Destiny Penalty: You take a −2 penalty on all attack rolls for 24 hours.\n      Destiny Fulfilled: Increase two ability scores of your choice by +1 each."
+              }
+            },
+            {
+              "blueprint_panel_id": "271eeeaf-afdf-4feb-aae0-8e32f862a0ba",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Destiny.</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c69b631-05b3-45d0-8574-946976603d8f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Rescue"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "c50c8294-ab6f-4022-97d6-1121fe8fefac",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee069eab-fa09-49f1-994a-46aede65a6fa",
+          "panels": [
+            {
+              "blueprint_panel_id": "61b70ead-2119-41a3-9ba9-dd217fe686bc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Conquest\nYour destiny is to gain control of a location, such as a planet, star cluster, space station, or major galactic body(such as a large black hole cluster) on behalf of either yourself or a government to which you owe allegiance. It is unlikely that you will accomplish this single-handedly, but you will play a major role in the transfer of control or events leading up to it. A Rebel diplomat might convince the government of a planet to rebel openly against the Empire, or an Imperial admiral might oversee the brutal subjugation of a previously independent world. The target of this destiny should be of great importance to the party that gains control of it, and the current controllers of the location must put significant time and resources into attempting to keep you from taking control of the location. Examples of this destiny include Warlord Zsinj's conquest of the portion of the galaxy that was named after him for a time on his own behalf or a Jedi general's conquest of a strategically important Seperatist world on behalf of the Old Republic.\nDestiny Bonus: For 24 hours, you and any allies within 10 squares of you gain a +2 destiny bonus on all damage rolls.\nDestiny Penalty: You take a -2 penalty on all attack rolls for 24 hours.\nDestiny Fulfilled: You gain a permanent +5 destiny bonus on checks made with one class skill of your choice. Also, if fulfilled on behalf of a government, the starting attitude of anyone who also owes allegiance to that government is likely to be one step more in your favor than it would otherwise be if they know of your part in the conquest."
+              }
+            },
+            {
+              "blueprint_panel_id": "271eeeaf-afdf-4feb-aae0-8e32f862a0ba",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Destiny.</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c69b631-05b3-45d0-8574-946976603d8f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Conquest"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "d87f5431-0e8e-4628-9d25-60b69b1be1f6",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee069eab-fa09-49f1-994a-46aede65a6fa",
+          "panels": [
+            {
+              "blueprint_panel_id": "61b70ead-2119-41a3-9ba9-dd217fe686bc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Sometimes, a starship is more than just a means of transportation . Sometimes, it's part of a character's destiny. In fact, for some characters, it's the focal point of their destiny, which might otherwise be nothing more than to wander aimlessly from one jam to another. No matter how humble (or downright ramshackle) a starship might appear, if it's the destiny of a character to be linked with that ship, it can accomplish amazing things. \nIf you decide to link a starship (or, rarely, a planetary vehicle) to your destiny, that replaces the normal destiny mechanic. In essence, you don't have a destiny to accomplish any specific goal; instead, you're destined to have the most important events in your life with a specific starship. This option is appropriate in campaigns with at least a moderate frequency of starship-scale encounters, but it's certainly not restricted to such campaigns. \nIn fact, if a campaign centers exclusively around starship -scale action, this option might be too powerful as it allows you to access your Destiny Points In most encounters. Only the GM can decide if starship-linked destinies are appropriate for a given campaign.\nYou earn and spend Destiny Points with a starship-linked destiny using the same basic rules as with the normal destiny options. You gain one Destiny Point at each level, and they never return once you spend them. However, having your destiny linked to a starship causes the rules to work slightly differently.\nFirst, if a starship is your destiny, it is never completely destroyed. Even if it is blown up in battle or confiscated by Hutts before being crushed and melted, some small part of it survives. Perhaps you find the hyperspace core the whole starship was built around, or its ruined hull is found drifting as debrIS after that battle. Your starship can cease to be functional as easily as anyone else's, but a recognizable part of it always survives for you to rebuild (or retrofit to a similar starship). It can be as time consuming and difficult as getting a new starship would be (if not more so). but the result still qualifies as your destiny- linked starship.\nSecondly, the options you can exercise by using a Destiny Point are slightly different, as detailed below. The following are possible only when you are acting as a crew member (commander, pilot, copilot, gunner, system operator, or engineer) on the starship linked to your destiny:\n\n• Automatically cause an attack rolled against your starship to miss, even once the attack is resolved. (Commander, copilot, or pilot only.)\n• Automatically succeed on any Pilot check, including any check to avoid a hazard or obstacle, getting the best possible outcome on the check. (Pilot or copilot only.)\n• Allow your starship to act out of turn, thus changing your position in the initiative order. (Pilot, commander, or system operator only.)\n• Cause any damage rolled against your starship to instead affect any other starship within three squares. (Pilot, commander, or system operator only.)\n• Move your starship to the top of its condition track. If any systems have been disabled because of being moved down your condition track, they now function. (Engineer only.)\n• Repair your starship, restoring a number of hit points equal to its damage threshold. (Engineer only.)\n• Restore your starship's shields to full SR. (Engineer or system operator only.)\n• If you are using the starship maneuvers rules from Starships of the Galaxy, you can spend a Destiny Point to regain all uses of all your\nmaneuvers. (Pilot or gunner only.)"
+              }
+            },
+            {
+              "blueprint_panel_id": "271eeeaf-afdf-4feb-aae0-8e32f862a0ba",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Destiny.</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c69b631-05b3-45d0-8574-946976603d8f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "We've been through a lot together"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "ecdff316-3a77-4a89-9609-a1f28e29b7ef",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ee069eab-fa09-49f1-994a-46aede65a6fa",
+          "panels": [
+            {
+              "blueprint_panel_id": "61b70ead-2119-41a3-9ba9-dd217fe686bc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Prophesized thousands of years before the Clone Wars by the Oracle of Pelegrin, The Chosen One was foretold to bring balance to The Force in a time of great darkness. The scholars of The Jedi Order never fully understood what the prophecy meant, but it was largely believed that the prophecy spoke of eliminating the threat of The Sith or those who seek to create chaos by perverting the natural order and defying the Will of the Force.\n\nThis destiny was unique to Anakin Skywalker. By allowing Darth Sidious to rise to power, however, he failed to fulfill his destiny and the galaxy suffered greatly for over a century as a result. By shedding his Darth Vader personae decades after the Clone Wars in an act of dramatic heroism, Anakin managed to place himself back on the path towards fulfilling his destiny. Unfortunately, the act of altruism cost Anakin his life and in the twenty-three years since Anakin turned his back on his destiny, the seeds to continue The Sith for generations had been planted. With the reemergence of Emperor Palpatine inhabiting a clone body six years after his death, and the Sith teachings being passed onto Lumiya and subsequently his own grandson, Jacen Solo, the legacy of The Sith was ensured.\n\nDestiny Bonus: Once per encounter, The Chosen One can recover 1 Destiny Point spent during the encounter.\n\nDestiny Penalty: After using their Destiny Bonus, The Chosen One is unable to utilize Destiny Points for any reason for the remainder of the encounter.\n\nDestiny Fulfilled: All Force-sensitive beings in the galaxy with a Dark Side Score of 2 or less receive a +2 Destiny bonus to all Use the Force checks until such time that any character achieves their first level in the Sith Lord prestige class.\n\nSpecial: Any character that possesses The Chosen One Destiny is granted the bonus Feats Force Boon and Strong in the Force. Only one character may have this Destiny at any given time (Therefore, it is unavailable for use throughout Anakin Skywalker’s lifespan)."
+              }
+            },
+            {
+              "blueprint_panel_id": "271eeeaf-afdf-4feb-aae0-8e32f862a0ba",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<i>Destiny.</i>"
+              }
+            },
+            {
+              "blueprint_panel_id": "0c69b631-05b3-45d0-8574-946976603d8f",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "The Chosen One"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

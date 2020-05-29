@@ -23,6 +23,25 @@
           ]
         }
       ]
+    },
+    {
+      "card_id": "e6dbe6ec-43c3-43ca-b0bd-2cf7ae9ed661",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "d00708bb-93ef-48c8-8609-eaf72d736c1b",
+          "panels": [
+            {
+              "blueprint_panel_id": "0cf93d85-6622-4cde-ad82-36c4177205f3",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Village - Town - City\n"
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }
