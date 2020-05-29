@@ -498,43 +498,12 @@
           "enabled": true,
           "locked": false,
           "rotation": 0,
-          "padding": "0.02, 0.03, 0.02, 0.03",
+          "padding": "0.04, 0.03, 0.04, 0.03",
           "material_name": "Blank",
           "material_selection": 0,
           "material_tint": "#00000000",
           "anchor_min": "0, 0.4863965",
           "anchor_min_render": "0, 0.4863965",
-          "anchor_max": "1, 0.5773991",
-          "anchor_max_render": "1, 0.577399",
-          "type": "text",
-          "data": {
-            "font_family": "Lato",
-            "font_preferred_size": 8,
-            "line_spacing": 1.0,
-            "text_anchor": "upperleft",
-            "text": "<i>Lore/Details</i>",
-            "color": "#141414FF",
-            "outline_length": 1.0,
-            "outline_color": "#FFFFFF00",
-            "image_scaling": 1.0,
-            "image_offset": "0, 0"
-          },
-          "sort_mode": "14",
-          "split_mode": "horizontal",
-          "parent_panel_id": "00000000-0000-0000-0000-000000000000"
-        },
-        {
-          "panel_id": "a316f977-f02e-4ecf-8835-1e431069461b",
-          "name": "",
-          "enabled": true,
-          "locked": false,
-          "rotation": 0,
-          "padding": "0.05, 0.03, 0.05, 0.03",
-          "material_name": "Blank",
-          "material_selection": 0,
-          "material_tint": "#00000000",
-          "anchor_min": "0, 0.5773991",
-          "anchor_min_render": "0, 0.5773991",
           "anchor_max": "1, 0.7922401",
           "anchor_max_render": "1, 0.79224",
           "type": "text",
@@ -550,7 +519,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "15",
+          "sort_mode": "14",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -581,7 +550,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "16",
+          "sort_mode": "15",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -628,7 +597,7 @@
           "anchor_max_render": "0.1503434, 0.9329656",
           "type": "none",
           "data": {},
-          "sort_mode": "17",
+          "sort_mode": "16",
           "split_mode": "vertical",
           "parent_panel_id": "2aae86bc-7f83-488c-946e-dbf4e36eaa2f"
         },
@@ -665,7 +634,7 @@
         },
         {
           "panel_id": "992addce-3e5e-4da5-8ba1-9c3a0a6966e4",
-          "name": "",
+          "name": "fight",
           "enabled": true,
           "locked": false,
           "rotation": 0,
@@ -690,7 +659,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "18",
+          "sort_mode": "17",
           "split_mode": "horizontal",
           "parent_panel_id": "0ab54328-3feb-4a6c-a181-3f61cf75b285"
         },
@@ -714,7 +683,7 @@
             "color_tint": "#BF131FFF",
             "color_background": "#FF000000"
           },
-          "sort_mode": "19",
+          "sort_mode": "18",
           "split_mode": "horizontal",
           "parent_panel_id": "0ab54328-3feb-4a6c-a181-3f61cf75b285"
         },
@@ -776,7 +745,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "20",
+          "sort_mode": "19",
           "split_mode": "horizontal",
           "parent_panel_id": "449e6a70-f2a3-4638-98ab-4858782fbfed"
         },
@@ -800,7 +769,7 @@
             "color_tint": "#FF0000FF",
             "color_background": "#00000000"
           },
-          "sort_mode": "21",
+          "sort_mode": "20",
           "split_mode": "horizontal",
           "parent_panel_id": "449e6a70-f2a3-4638-98ab-4858782fbfed"
         },
@@ -862,7 +831,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "22",
+          "sort_mode": "21",
           "split_mode": "horizontal",
           "parent_panel_id": "2e758e63-9f67-4537-a90b-7b504cd59351"
         },
@@ -886,7 +855,7 @@
             "color_tint": "#42DD42FF",
             "color_background": "#00000000"
           },
-          "sort_mode": "23",
+          "sort_mode": "22",
           "split_mode": "horizontal",
           "parent_panel_id": "2e758e63-9f67-4537-a90b-7b504cd59351"
         },
@@ -906,7 +875,7 @@
           "anchor_max_render": "1, 0.9329656",
           "type": "none",
           "data": {},
-          "sort_mode": "24",
+          "sort_mode": "23",
           "split_mode": "vertical",
           "parent_panel_id": "2aae86bc-7f83-488c-946e-dbf4e36eaa2f"
         },
@@ -968,7 +937,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "25",
+          "sort_mode": "24",
           "split_mode": "vertical",
           "parent_panel_id": "233ca874-832f-4574-9527-56a8e18e6acb"
         },
@@ -999,7 +968,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "26",
+          "sort_mode": "25",
           "split_mode": "vertical",
           "parent_panel_id": "233ca874-832f-4574-9527-56a8e18e6acb"
         },
@@ -1030,7 +999,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "27",
+          "sort_mode": "26",
           "split_mode": "vertical",
           "parent_panel_id": "233ca874-832f-4574-9527-56a8e18e6acb"
         }
@@ -1067,7 +1036,7 @@
             "offset": "0, 0",
             "tint": "#000000FF"
           },
-          "sort_mode": "28",
+          "sort_mode": "27",
           "split_mode": "none",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }
@@ -1095,7 +1064,7 @@
           "anchor_max_render": "1, 0.3868671",
           "type": "none",
           "data": {},
-          "sort_mode": "29",
+          "sort_mode": "28",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -1126,7 +1095,7 @@
             "image_scaling": 1.0,
             "image_offset": "0, 0"
           },
-          "sort_mode": "30",
+          "sort_mode": "29",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         },
@@ -1146,7 +1115,7 @@
           "anchor_max_render": "1, 1",
           "type": "none",
           "data": {},
-          "sort_mode": "31",
+          "sort_mode": "30",
           "split_mode": "horizontal",
           "parent_panel_id": "00000000-0000-0000-0000-000000000000"
         }

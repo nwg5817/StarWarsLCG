@@ -13,7 +13,31 @@
           "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
           "panels": [
             {
-              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "blueprint_panel_id": "bdc64398-c740-4c8f-bb00-4af7eb79520e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "bd2a953a-ab54-46c2-b3ea-af23c68b4617",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "91b448de-35c0-4d4c-bdd1-f0621650cbad",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "1319cc35-0e94-4020-92fa-f04a9727a3be",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "36a2bebc-e72b-437f-ba14-e57cef978554",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "e613af2b-95ca-4c74-bde5-205554dce6bc",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9efa1912-b595-4838-9b35-38d11b7935ac",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -101,7 +125,31 @@
           "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
           "panels": [
             {
-              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
+              "blueprint_panel_id": "e7d632dc-c8c2-4587-8679-059022e2589f",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b4065b0c-6214-4aad-805e-7f90cbac3072",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b2c8ac4f-a64c-4942-afe5-d4b092bedd76",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "2d4fb3cd-014f-4ab9-93a1-4f31d74140ac",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9456456b-7c21-4563-95f3-ebbaf149aa1e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "5cb52315-4822-4c14-951d-335362670733",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "a71ab794-5456-4c95-b444-bbb6b1258a8d",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -169,7 +217,31 @@
           "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
           "panels": [
             {
-              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "blueprint_panel_id": "bdc64398-c740-4c8f-bb00-4af7eb79520e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "bd2a953a-ab54-46c2-b3ea-af23c68b4617",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "91b448de-35c0-4d4c-bdd1-f0621650cbad",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "1319cc35-0e94-4020-92fa-f04a9727a3be",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "36a2bebc-e72b-437f-ba14-e57cef978554",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "e613af2b-95ca-4c74-bde5-205554dce6bc",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9efa1912-b595-4838-9b35-38d11b7935ac",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -257,7 +329,31 @@
           "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
           "panels": [
             {
-              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
+              "blueprint_panel_id": "e7d632dc-c8c2-4587-8679-059022e2589f",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b4065b0c-6214-4aad-805e-7f90cbac3072",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b2c8ac4f-a64c-4942-afe5-d4b092bedd76",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "2d4fb3cd-014f-4ab9-93a1-4f31d74140ac",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9456456b-7c21-4563-95f3-ebbaf149aa1e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "5cb52315-4822-4c14-951d-335362670733",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "a71ab794-5456-4c95-b444-bbb6b1258a8d",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -333,7 +429,35 @@
           "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
           "panels": [
             {
-              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "blueprint_panel_id": "bdc64398-c740-4c8f-bb00-4af7eb79520e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "bd2a953a-ab54-46c2-b3ea-af23c68b4617",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "91b448de-35c0-4d4c-bdd1-f0621650cbad",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "1319cc35-0e94-4020-92fa-f04a9727a3be",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "36a2bebc-e72b-437f-ba14-e57cef978554",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "e613af2b-95ca-4c74-bde5-205554dce6bc",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "The Jedi Covenant Mission pg 56 kotor\n"
+              }
+            },
+            {
+              "blueprint_panel_id": "9efa1912-b595-4838-9b35-38d11b7935ac",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -421,7 +545,31 @@
           "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
           "panels": [
             {
-              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
+              "blueprint_panel_id": "e7d632dc-c8c2-4587-8679-059022e2589f",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b4065b0c-6214-4aad-805e-7f90cbac3072",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b2c8ac4f-a64c-4942-afe5-d4b092bedd76",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "2d4fb3cd-014f-4ab9-93a1-4f31d74140ac",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9456456b-7c21-4563-95f3-ebbaf149aa1e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "5cb52315-4822-4c14-951d-335362670733",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "a71ab794-5456-4c95-b444-bbb6b1258a8d",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -497,7 +645,31 @@
           "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
           "panels": [
             {
-              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "blueprint_panel_id": "bdc64398-c740-4c8f-bb00-4af7eb79520e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "bd2a953a-ab54-46c2-b3ea-af23c68b4617",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "91b448de-35c0-4d4c-bdd1-f0621650cbad",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "1319cc35-0e94-4020-92fa-f04a9727a3be",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "36a2bebc-e72b-437f-ba14-e57cef978554",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "e613af2b-95ca-4c74-bde5-205554dce6bc",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9efa1912-b595-4838-9b35-38d11b7935ac",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -585,12 +757,32 @@
           "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
           "panels": [
             {
-              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "\"Even the Sith would think twice before attacking Dantooine. There are many Jedi here, including several of the most powerful Masters of the Order. There is great strength within this place.\"\n―Bastila Shan"
-              }
+              "blueprint_panel_id": "e7d632dc-c8c2-4587-8679-059022e2589f",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b4065b0c-6214-4aad-805e-7f90cbac3072",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b2c8ac4f-a64c-4942-afe5-d4b092bedd76",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "2d4fb3cd-014f-4ab9-93a1-4f31d74140ac",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9456456b-7c21-4563-95f3-ebbaf149aa1e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "5cb52315-4822-4c14-951d-335362670733",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "a71ab794-5456-4c95-b444-bbb6b1258a8d",
+              "rotation": 0
             },
             {
               "blueprint_panel_id": "d3b9aeb7-7063-407c-b1e3-2c84fab5e4e7",
@@ -661,7 +853,31 @@
           "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
           "panels": [
             {
-              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "blueprint_panel_id": "bdc64398-c740-4c8f-bb00-4af7eb79520e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "bd2a953a-ab54-46c2-b3ea-af23c68b4617",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "91b448de-35c0-4d4c-bdd1-f0621650cbad",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "1319cc35-0e94-4020-92fa-f04a9727a3be",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "36a2bebc-e72b-437f-ba14-e57cef978554",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "e613af2b-95ca-4c74-bde5-205554dce6bc",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9efa1912-b595-4838-9b35-38d11b7935ac",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -749,12 +965,32 @@
           "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
           "panels": [
             {
-              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "\"Even the Sith would think twice before attacking Dantooine. There are many Jedi here, including several of the most powerful Masters of the Order. There is great strength within this place.\"\n―Bastila Shan"
-              }
+              "blueprint_panel_id": "e7d632dc-c8c2-4587-8679-059022e2589f",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b4065b0c-6214-4aad-805e-7f90cbac3072",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b2c8ac4f-a64c-4942-afe5-d4b092bedd76",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "2d4fb3cd-014f-4ab9-93a1-4f31d74140ac",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9456456b-7c21-4563-95f3-ebbaf149aa1e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "5cb52315-4822-4c14-951d-335362670733",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "a71ab794-5456-4c95-b444-bbb6b1258a8d",
+              "rotation": 0
             },
             {
               "blueprint_panel_id": "d3b9aeb7-7063-407c-b1e3-2c84fab5e4e7",
@@ -825,11 +1061,35 @@
           "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
           "panels": [
             {
-              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "blueprint_panel_id": "bdc64398-c740-4c8f-bb00-4af7eb79520e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "bd2a953a-ab54-46c2-b3ea-af23c68b4617",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "91b448de-35c0-4d4c-bdd1-f0621650cbad",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "1319cc35-0e94-4020-92fa-f04a9727a3be",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "36a2bebc-e72b-437f-ba14-e57cef978554",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "e613af2b-95ca-4c74-bde5-205554dce6bc",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9efa1912-b595-4838-9b35-38d11b7935ac",
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Jedi High Council"
+                "text": "The Jedi Covenant Mission pg 56 kotor\n"
               }
             },
             {
@@ -913,12 +1173,32 @@
           "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
           "panels": [
             {
-              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "\"Even the Sith would think twice before attacking Dantooine. There are many Jedi here, including several of the most powerful Masters of the Order. There is great strength within this place.\"\n―Bastila Shan"
-              }
+              "blueprint_panel_id": "e7d632dc-c8c2-4587-8679-059022e2589f",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b4065b0c-6214-4aad-805e-7f90cbac3072",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b2c8ac4f-a64c-4942-afe5-d4b092bedd76",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "2d4fb3cd-014f-4ab9-93a1-4f31d74140ac",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9456456b-7c21-4563-95f3-ebbaf149aa1e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "5cb52315-4822-4c14-951d-335362670733",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "a71ab794-5456-4c95-b444-bbb6b1258a8d",
+              "rotation": 0
             },
             {
               "blueprint_panel_id": "d3b9aeb7-7063-407c-b1e3-2c84fab5e4e7",
@@ -989,11 +1269,35 @@
           "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
           "panels": [
             {
-              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "blueprint_panel_id": "bdc64398-c740-4c8f-bb00-4af7eb79520e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "bd2a953a-ab54-46c2-b3ea-af23c68b4617",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "91b448de-35c0-4d4c-bdd1-f0621650cbad",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "1319cc35-0e94-4020-92fa-f04a9727a3be",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "36a2bebc-e72b-437f-ba14-e57cef978554",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "e613af2b-95ca-4c74-bde5-205554dce6bc",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9efa1912-b595-4838-9b35-38d11b7935ac",
               "rotation": 0,
               "type": "text",
               "data": {
-                "text": "Jedi High Council"
+                "text": "The Jedi Covenant Mission pg 56 kotor\n"
               }
             },
             {
@@ -1077,12 +1381,32 @@
           "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
           "panels": [
             {
-              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "\"Even the Sith would think twice before attacking Dantooine. There are many Jedi here, including several of the most powerful Masters of the Order. There is great strength within this place.\"\n―Bastila Shan"
-              }
+              "blueprint_panel_id": "e7d632dc-c8c2-4587-8679-059022e2589f",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b4065b0c-6214-4aad-805e-7f90cbac3072",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b2c8ac4f-a64c-4942-afe5-d4b092bedd76",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "2d4fb3cd-014f-4ab9-93a1-4f31d74140ac",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9456456b-7c21-4563-95f3-ebbaf149aa1e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "5cb52315-4822-4c14-951d-335362670733",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "a71ab794-5456-4c95-b444-bbb6b1258a8d",
+              "rotation": 0
             },
             {
               "blueprint_panel_id": "d3b9aeb7-7063-407c-b1e3-2c84fab5e4e7",
@@ -1153,7 +1477,31 @@
           "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
           "panels": [
             {
-              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "blueprint_panel_id": "bdc64398-c740-4c8f-bb00-4af7eb79520e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "bd2a953a-ab54-46c2-b3ea-af23c68b4617",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "91b448de-35c0-4d4c-bdd1-f0621650cbad",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "1319cc35-0e94-4020-92fa-f04a9727a3be",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "36a2bebc-e72b-437f-ba14-e57cef978554",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "e613af2b-95ca-4c74-bde5-205554dce6bc",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9efa1912-b595-4838-9b35-38d11b7935ac",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -1241,175 +1589,32 @@
           "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
           "panels": [
             {
-              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "\"For five years, this building was home.\"\n―Zayne Carrick"
-              }
+              "blueprint_panel_id": "e7d632dc-c8c2-4587-8679-059022e2589f",
+              "rotation": 0
             },
             {
-              "blueprint_panel_id": "d3b9aeb7-7063-407c-b1e3-2c84fab5e4e7",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "{StarWars/starwarstorjedi}"
-              }
+              "blueprint_panel_id": "b4065b0c-6214-4aad-805e-7f90cbac3072",
+              "rotation": 0
             },
             {
-              "blueprint_panel_id": "81f0ec39-2003-4a9d-93be-31267d8d9d59",
-              "rotation": 0,
-              "type": "image",
-              "data": {
-                "uri": "%PROJECT%/taris.jpg",
-                "tint": "#FFFFFFFF"
-              }
+              "blueprint_panel_id": "b2c8ac4f-a64c-4942-afe5-d4b092bedd76",
+              "rotation": 0
             },
             {
-              "blueprint_panel_id": "19d58920-66ce-4d24-a71f-8d95cc3d0eef",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "{StarWars/starwarsjediorder}"
-              }
+              "blueprint_panel_id": "2d4fb3cd-014f-4ab9-93a1-4f31d74140ac",
+              "rotation": 0
             },
             {
-              "blueprint_panel_id": "fa02425d-0c49-45a1-94ba-02ecca788f83",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "{Abstract/plain-circle}{Abstract/plain-circle}"
-              }
+              "blueprint_panel_id": "9456456b-7c21-4563-95f3-ebbaf149aa1e",
+              "rotation": 0
             },
             {
-              "blueprint_panel_id": "488601b6-331a-447f-935b-a0525399c38a",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Taris"
-              }
+              "blueprint_panel_id": "5cb52315-4822-4c14-951d-335362670733",
+              "rotation": 0
             },
             {
-              "blueprint_panel_id": "656717c8-035c-4a1d-ab90-160810d6f3ae",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Jedi Tower"
-              }
-            },
-            {
-              "blueprint_panel_id": "06112086-583a-4a12-80a2-658c6a9ad2f6",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "{StarWars/starwarsmisc}"
-              }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "card_id": "32a3b6aa-5244-421f-90cb-5c051d6ecd2a",
-      "amount": 1,
-      "front_layers": [
-        {
-          "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
-          "panels": [
-            {
-              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Breathing Apparatus"
-              }
-            },
-            {
-              "blueprint_panel_id": "2448332d-9c36-419e-a4ae-569988501c01",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "6"
-              }
-            },
-            {
-              "blueprint_panel_id": "0a141bc8-1f47-4003-80b8-871fca3aa7fb",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "{StarWars/starwarstorjedi}"
-              }
-            },
-            {
-              "blueprint_panel_id": "09ddb5e4-0449-462f-a20a-4ca955272451",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "3"
-              }
-            },
-            {
-              "blueprint_panel_id": "e8111726-3dfb-4f09-a2de-1c4d63963f3a",
-              "rotation": 0,
-              "type": "image",
-              "data": {
-                "tint": "#FFFFFFFF"
-              }
-            },
-            {
-              "blueprint_panel_id": "72f13c67-b97f-4d85-aebf-f560c4e0baed",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "{StarWars/starwarsjediorder}"
-              }
-            },
-            {
-              "blueprint_panel_id": "ce5eca03-321a-4aba-9891-c920ecdc923d",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "{Abstract/plain-circle}{Abstract/plain-circle}"
-              }
-            },
-            {
-              "blueprint_panel_id": "de445cb6-9902-44fd-b3d9-2673c7dfe5ac",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Dorin"
-              }
-            },
-            {
-              "blueprint_panel_id": "2162905c-f51c-441f-bc28-03de778431f9",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "Jedi Enclave"
-              }
-            },
-            {
-              "blueprint_panel_id": "a1f218ec-061f-4093-bbfa-d1da361fed7a",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "{StarWars/starwarsmisc}"
-              }
-            }
-          ]
-        }
-      ],
-      "back_layers": [
-        {
-          "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
-          "panels": [
-            {
-              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "\"For five years, this building was home.\"\n―Zayne Carrick"
-              }
+              "blueprint_panel_id": "a71ab794-5456-4c95-b444-bbb6b1258a8d",
+              "rotation": 0
             },
             {
               "blueprint_panel_id": "d3b9aeb7-7063-407c-b1e3-2c84fab5e4e7",
@@ -1480,7 +1685,31 @@
           "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
           "panels": [
             {
-              "blueprint_panel_id": "633a53a3-787e-41d8-b80d-9bc70be0a769",
+              "blueprint_panel_id": "bdc64398-c740-4c8f-bb00-4af7eb79520e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "bd2a953a-ab54-46c2-b3ea-af23c68b4617",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "91b448de-35c0-4d4c-bdd1-f0621650cbad",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "1319cc35-0e94-4020-92fa-f04a9727a3be",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "36a2bebc-e72b-437f-ba14-e57cef978554",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "e613af2b-95ca-4c74-bde5-205554dce6bc",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9efa1912-b595-4838-9b35-38d11b7935ac",
               "rotation": 0,
               "type": "text",
               "data": {
@@ -1568,12 +1797,32 @@
           "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
           "panels": [
             {
-              "blueprint_panel_id": "4516cf1e-f406-45f9-bc9e-ba7ccec36eec",
-              "rotation": 0,
-              "type": "text",
-              "data": {
-                "text": "\"For five years, this building was home.\"\n―Zayne Carrick"
-              }
+              "blueprint_panel_id": "e7d632dc-c8c2-4587-8679-059022e2589f",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b4065b0c-6214-4aad-805e-7f90cbac3072",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b2c8ac4f-a64c-4942-afe5-d4b092bedd76",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "2d4fb3cd-014f-4ab9-93a1-4f31d74140ac",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9456456b-7c21-4563-95f3-ebbaf149aa1e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "5cb52315-4822-4c14-951d-335362670733",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "a71ab794-5456-4c95-b444-bbb6b1258a8d",
+              "rotation": 0
             },
             {
               "blueprint_panel_id": "d3b9aeb7-7063-407c-b1e3-2c84fab5e4e7",
@@ -1622,6 +1871,206 @@
               "type": "text",
               "data": {
                 "text": "Star of Coruscant"
+              }
+            },
+            {
+              "blueprint_panel_id": "06112086-583a-4a12-80a2-658c6a9ad2f6",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": "2ece93c7-49e4-4356-8203-db1b861835f5",
+      "amount": 1,
+      "front_layers": [
+        {
+          "blueprint_layer_id": "ad0b2807-92e3-4e3b-a149-8998fd7929a2",
+          "panels": [
+            {
+              "blueprint_panel_id": "bdc64398-c740-4c8f-bb00-4af7eb79520e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "bd2a953a-ab54-46c2-b3ea-af23c68b4617",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "91b448de-35c0-4d4c-bdd1-f0621650cbad",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "1319cc35-0e94-4020-92fa-f04a9727a3be",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "36a2bebc-e72b-437f-ba14-e57cef978554",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "e613af2b-95ca-4c74-bde5-205554dce6bc",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9efa1912-b595-4838-9b35-38d11b7935ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "<b>Forced</b> - After {name} is revealed: Search the encounter deck and discard pile for a <i>Trainer</i> enemy and spawn it in the {name}. Shuffle the encounter deck.\n\n{Weapons/bottom-right-3d-arrow} Search the encounter deck and discard pile for a <i>Trainer</i> enemy and spawn it in the {name}. Shuffle the encounter deck."
+              }
+            },
+            {
+              "blueprint_panel_id": "2448332d-9c36-419e-a4ae-569988501c01",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "6"
+              }
+            },
+            {
+              "blueprint_panel_id": "0a141bc8-1f47-4003-80b8-871fca3aa7fb",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "09ddb5e4-0449-462f-a20a-4ca955272451",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "3"
+              }
+            },
+            {
+              "blueprint_panel_id": "e8111726-3dfb-4f09-a2de-1c4d63963f3a",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/training room.jpg",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "72f13c67-b97f-4d85-aebf-f560c4e0baed",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediorder}"
+              }
+            },
+            {
+              "blueprint_panel_id": "ce5eca03-321a-4aba-9891-c920ecdc923d",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "de445cb6-9902-44fd-b3d9-2673c7dfe5ac",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Combat"
+              }
+            },
+            {
+              "blueprint_panel_id": "2162905c-f51c-441f-bc28-03de778431f9",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Training Room"
+              }
+            },
+            {
+              "blueprint_panel_id": "a1f218ec-061f-4093-bbfa-d1da361fed7a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsmisc}"
+              }
+            }
+          ]
+        }
+      ],
+      "back_layers": [
+        {
+          "blueprint_layer_id": "3e30cc2d-f483-4435-b0f0-76674e0d0158",
+          "panels": [
+            {
+              "blueprint_panel_id": "e7d632dc-c8c2-4587-8679-059022e2589f",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b4065b0c-6214-4aad-805e-7f90cbac3072",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "b2c8ac4f-a64c-4942-afe5-d4b092bedd76",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "2d4fb3cd-014f-4ab9-93a1-4f31d74140ac",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "9456456b-7c21-4563-95f3-ebbaf149aa1e",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "5cb52315-4822-4c14-951d-335362670733",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "a71ab794-5456-4c95-b444-bbb6b1258a8d",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "d3b9aeb7-7063-407c-b1e3-2c84fab5e4e7",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarstorjedi}"
+              }
+            },
+            {
+              "blueprint_panel_id": "81f0ec39-2003-4a9d-93be-31267d8d9d59",
+              "rotation": 0,
+              "type": "image",
+              "data": {
+                "uri": "%PROJECT%/training room.jpg",
+                "tint": "#FFFFFFFF"
+              }
+            },
+            {
+              "blueprint_panel_id": "19d58920-66ce-4d24-a71f-8d95cc3d0eef",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "{StarWars/starwarsjediorder}"
+              }
+            },
+            {
+              "blueprint_panel_id": "fa02425d-0c49-45a1-94ba-02ecca788f83",
+              "rotation": 0
+            },
+            {
+              "blueprint_panel_id": "488601b6-331a-447f-935b-a0525399c38a",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Combat"
+              }
+            },
+            {
+              "blueprint_panel_id": "656717c8-035c-4a1d-ab90-160810d6f3ae",
+              "rotation": 0,
+              "type": "text",
+              "data": {
+                "text": "Jedi Training Room"
               }
             },
             {
